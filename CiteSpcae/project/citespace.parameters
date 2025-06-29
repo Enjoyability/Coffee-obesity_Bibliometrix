@@ -1,0 +1,19 @@
+Date	May 3, 2025, 11:14:59 PM CST
+Project Home	C:\Users\Huawei\Desktop\咖啡肥胖可视化分析\CiteSpcae\project
+Data Home	C:\Users\Huawei\Desktop\咖啡肥胖可视化分析\CiteSpcae\data
+Data Source	WoS
+Language	English
+From	2015-JAN
+To	2025-DEC
+Slice Length	1
+Title	true
+Abstract	true
+Descriptor	true
+Identifier	true
+Prune with PF	false
+Prune with MST	false
+Prune Slices	false
+Prune Merged	false
+Threshold Group 0	2, 2, 20
+Threshold Group 1	4, 3, 20
+Threshold Group 2	4, 3, 20

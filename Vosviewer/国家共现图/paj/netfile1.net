@@ -1,0 +1,35 @@
+*Vertices 11
+  1 "csic"                                   0.5292    0.3199    0.5000
+  2 "harokopio univ"                         0.1756    0.6500    0.5000
+  3 "harvard th chan sch publ hlth"          0.5554    0.6705    0.5000
+  4 "johns hopkins univ"                     0.6132    0.5860    0.5000
+  5 "karolinska inst"                        0.3699    0.5725    0.5000
+  6 "kyung hee univ"                         0.7525    0.7474    0.5000
+  7 "univ autonoma madrid"                   0.4872    0.4615    0.5000
+  8 "univ illinois"                          0.3755    0.3602    0.5000
+  9 "univ zaragoza"                          0.4299    0.6766    0.5000
+ 10 "uppsala univ"                           0.4225    0.8244    0.5000
+ 11 "yonsei univ"                            0.6484    0.4317    0.5000
+*Edges
+  1   7 1
+  2   5 1
+  2   9 2
+  3   4 1
+  3   5 2
+  3   6 1
+  3   7 1
+  3   9 1
+  3  10 1
+  3  11 1
+  4   5 1
+  4   6 1
+  4   7 1
+  4   9 1
+  4  11 1
+  5   7 1
+  5   8 1
+  5   9 2
+  5  10 7
+  7   8 1
+  7   9 3
+  8  11 2

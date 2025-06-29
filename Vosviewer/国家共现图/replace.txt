@@ -1,0 +1,4 @@
+label	replace by
+taiwan	peoples r china
+turkiye	turkey
+scotland	england

@@ -1,0 +1,345 @@
+PT J
+AU Lee, H
+   Kim, H
+   Byun, S
+AF Lee, Hyeonji
+   Kim, Heeju
+   Byun, Sanguine
+TI A review on the effect of green tea extract against obesity
+SO FOOD SCIENCE AND BIOTECHNOLOGY
+LA English
+DT Review
+DE Obesity; Body weight; Green tea extract; Epigallocatechin gallate
+ID diet-induced obesity; fatty liver-disease; body-weight; metabolic syndrome; adipose-tissue; abdominal fat; catechins; (-)-epigallocatechin-3-gallate; reduction; caffeine
+AB Obesity is a public health crisis that has reached epidemic proportions worldwide, demanding urgent attention. To combat obesity, people endeavor to follow a healthy diet and regularly engage in physical activities. However, maintaining a healthy diet and physical activity is challenging, highlighting the need for novel effective therapies. This review aims to evaluate the therapeutic efficacy and safety of a well-researched functional food ingredient, green tea extract, for combating obesity. To assess the effectiveness of green tea extract, the review systematically examines various obesity indicators. It focuses on markers for body fat reduction in rodent models and humans, including weight, BMI, body fat percentage, and waist circumference. Furthermore, it explores the potential for suppressing and preventing obesity-related metabolic disorders. By thoroughly examining the effectiveness and mechanism of green tea extract, the study seeks to understand the potential of green tea extract as a nutraceutical/functional food for obesity management and prevention.
+C1 [Lee, Hyeonji; Kim, Heeju; Byun, Sanguine] Yonsei Univ, Dept Biotechnol, Seoul 03722, South Korea.
+C3 Yonsei University
+RP Byun, S (corresponding author), Yonsei Univ, Dept Biotechnol, Seoul 03722, South Korea.
+EM sanguine@yonsei.ac.kr
+FU National Research Foundation of Korea [2023R1A2C1006827, RS-2023-00222997]; National Research Foundation of Korea (NRF) - Korea government (MSIT)
+CR Albuquerque D, 2017, BRIT MED BULL, V123, P159, DOI 10.1093/bmb/ldx022
+   Auvichayapat P, 2008, PHYSIOL BEHAV, V93, P486, DOI 10.1016/j.physbeh.2007.10.009
+   Bagheri R, 2020, BRIT J CLIN PHARMACO, V86, P753, DOI 10.1111/bcp.14176
+   Barazzoni R, 2019, CLIN NUTR, V38, P1171, DOI 10.1016/j.clnu.2018.04.014
+   Basu A, 2010, J AM COLL NUTR, V29, P31, DOI 10.1080/07315724.2010.10719814
+   Bérubé-Parent S, 2005, BRIT J NUTR, V94, P432, DOI 10.1079/BJN20051502
+   Biro R, 2021, ARCH GYNECOL OBSTET, V303, P1235, DOI 10.1007/s00404-020-05907-6
+   Annette B, 2017, BBA-MOL BASIS DIS, V1863, P1026, DOI 10.1016/j.bbadis.2017.01.016
+   Bose M, 2008, J NUTR, V138, P1677, DOI 10.1093/jn/138.9.1677
+   Braicu C, 2013, FOOD CHEM, V141, P3282, DOI 10.1016/j.foodchem.2013.05.122
+   Bruno RS, 2008, J NUTR, V138, P323, DOI 10.1093/jn/138.2.323
+   Burns RJ, 2018, CAN J DIABETES, V42, P626, DOI 10.1016/j.jcjd.2018.05.005
+   Chan CCW, 2006, J SOC GYNECOL INVEST, V13, P63, DOI 10.1016/j.jsgi.2005.10.006
+   Chen H, 2003, AM J PHYSIOL-ENDOC M, V284, PE804, DOI 10.1152/ajpendo.00330.2002
+   Chen IJ, 2016, CLIN NUTR, V35, P592, DOI 10.1016/j.clnu.2015.05.003
+   Chen YK, 2011, J AGR FOOD CHEM, V59, P11862, DOI 10.1021/jf2029016
+   Cho BO, 2020, EXP THER MED, V19, P2783, DOI 10.3892/etm.2020.8493
+   Cho BO, 2020, J FOOD BIOCHEM, V44, P0, DOI 10.1111/jfbc.13105
+   De Pergola G, 2013, J OBES, V2013, P0, DOI 10.1155/2013/291546
+   Erba D, 2005, J NUTR BIOCHEM, V16, P144, DOI 10.1016/j.jnutbio.2004.11.006
+   Farooqi IS, 2006, ENDOCR REV, V27, P710, DOI 10.1210/er.2006-0040
+   Ferrannini E, 2007, J CLIN ENDOCR METAB, V92, P2885, DOI 10.1210/jc.2007-0334
+   Ferreira MA, 2017, CLIN NUTR ESPEN, V22, P1, DOI 10.1016/j.clnesp.2017.08.008
+   Frühbeck G, 2018, ADIPOCYTE, V7, P57, DOI 10.1080/21623945.2017.1402151
+   Heber D, 2014, J NUTR, V144, P1385, DOI 10.3945/jn.114.191007
+   Henning SM, 2018, EUR J NUTR, V57, P2759, DOI 10.1007/s00394-017-1542-8
+   Herrera BM, 2010, CURR DIABETES REP, V10, P498, DOI 10.1007/s11892-010-0153-z
+   Hill AM, 2007, J AM COLL NUTR, V26, P396S, DOI 10.1080/07315724.2007.10719628
+   Hsu CH, 2008, CLIN NUTR, V27, P363, DOI 10.1016/j.clnu.2008.03.007
+   Im H, 2022, NUTR METAB, V19, P0, DOI 10.1186/s12986-022-00648-6
+   Jovanovski E, 2021, EUR J NUTR, V60, P101, DOI 10.1007/s00394-020-02224-1
+   Kajimoto O, 2005, J HEALTH SCI, V51, P161, DOI 10.1248/jhs.51.161
+   Lee MS, 2009, ANN NUTR METAB, V54, P151, DOI 10.1159/000214834
+   Loos RJF, 2022, NAT REV GENET, V23, P120, DOI 10.1038/s41576-021-00414-z
+   Lu C, 2012, PLOS ONE, V7, P0, DOI 10.1371/journal.pone.0034833
+   Maki KC, 2009, J NUTR, V139, P264, DOI 10.3945/jn.108.098293
+   Mamrot P, 2019, NEUROSCI BIOBEHAV R, V107, P59, DOI 10.1016/j.neubiorev.2019.08.021
+   Mandviwala T, 2016, CURR ATHEROSCLER REP, V18, P0, DOI 10.1007/s11883-016-0575-4
+   Marchesini G, 2008, J CLIN ENDOCR METAB, V93, PS74, DOI 10.1210/jc.2008-1399
+   Martinez JA, 2000, P NUTR SOC, V59, P337, DOI 10.1017/S0029665100000380
+   Minatti J, 2012, NUTR RES, V32, P684, DOI 10.1016/j.nutres.2012.08.003
+   Mokdad AH, 2003, JAMA, V0, P0
+   Molinari M, 2006, LIVER TRANSPLANT, V12, P1892, DOI 10.1002/lt.21021
+   Moore JB, 2010, P NUTR SOC, V69, P211, DOI 10.1017/S0029665110000030
+   Murase T, 2002, INT J OBESITY, V26, P1459, DOI 10.1038/sj.ijo.0802141
+   Nagao T, 2005, AM J CLIN NUTR, V81, P122
+   Nagao T, 2007, OBESITY, V15, P1473, DOI 10.1038/oby.2007.176
+   Nicolaidis S, 2019, METABOLISM, V100, P0, DOI 10.1016/j.metabol.2019.07.006
+   Ortega FB, 2016, CIRC RES, V118, P1752, DOI 10.1161/CIRCRESAHA.115.306883
+   Pan MH, 2016, FOOD FUNCT, V7, P4481, DOI 10.1039/c6fo01168c
+   Park HJ, 2011, J NUTR BIOCHEM, V22, P393, DOI 10.1016/j.jnutbio.2010.03.009
+   Pasrija D, 2015, FOOD BIOPROCESS TECH, V8, P935, DOI 10.1007/s11947-015-1479-y
+   Patel SS, 2013, WORLD J GASTROENTERO, V19, P5174, DOI 10.3748/wjg.v19.i31.5174
+   Phelps NH, 2024, LANCET, V403, P1027, DOI 10.1016/S0140-6736(23)02750-2
+   Quezada-Fernández P, 2019, INT J FOOD SCI NUTR, V70, P977, DOI 10.1080/09637486.2019.1589430
+   Samuel VT, 2018, CELL METAB, V27, P22, DOI 10.1016/j.cmet.2017.08.002
+   Scherer PE, 2016, AM HEART ASS, V0, P1703
+   Senanayake SPJN, 2013, J FUNCT FOODS, V5, P1529, DOI 10.1016/j.jff.2013.08.011
+   Smyth S, 2006, NAT MED, V12, P75, DOI 10.1038/nm0106-75
+   Tadayon Mitra, 2018, J TRADIT COMPLEMENT MED, V8, P391, DOI 10.1016/j.jtcme.2017.07.005
+   Weisell RC, 2003, ASIA PAC J CLIN NUTR, V11, P0
+   Westerterp-Plantenga MS, 2010, PHYSIOL BEHAV, V100, P42, DOI 10.1016/j.physbeh.2010.02.005
+   Westerterp-Plantenga MS, 2005, OBES RES, V13, P1195, DOI 10.1038/oby.2005.142
+   Wolfram S, 2006, MOL NUTR FOOD RES, V50, P176, DOI 10.1002/mnfr.200500102
+   Wolin KY, 2010, ONCOLOGIST, V15, P556, DOI 10.1634/theoncologist.2009-0285
+   Wright SM, 2012, RADIOLOGY, V37, P730
+   Xi J, 2011, INT J PHARMACEUT, V408, P97, DOI 10.1016/j.ijpharm.2011.02.002
+   Yang CS, 2016, MOL NUTR FOOD RES, V60, P160, DOI 10.1002/mnfr.201500428
+   Zhao HX, 2019, RADIOTHER ONCOL, V137, P186, DOI 10.1016/j.radonc.2019.02.022
+NR 69
+TC 0
+Z9 0
+U1 13
+U2 13
+PU KOREAN SOCIETY FOOD SCIENCE & TECHNOLOGY-KOSFOST
+PI SEOUL
+PA #605, KOREA SCI TECHNOL CENT, 635-4 YEOKSAM-DONG, KANGNAM-GU, SEOUL, 135-703, SOUTH KOREA
+SN 1226-7708
+EI 2092-6456
+J9 FOOD SCI BIOTECHNOL
+JI Food Sci. Biotechnol.
+PD APR 15
+PY 2025
+VL 34
+IS 8
+BP 1661
+EP 1678
+DI 10.1007/s10068-024-01778-8
+EA DEC 2024
+PG 18
+WC Food Science & Technology
+SC Food Science & Technology
+GA 0OB5K
+UT WOS:001378354200001
+PM 40151607
+DA 2025-04-28
+ER
+
+PT J
+AU Kim, MJ
+   Jin, HS
+   Eom, YB
+AF Kim, Min-Jeong
+   Jin, Hyun-Seok
+   Eom, Yong-Bin
+TI Relationship between HECTD4 gene variants, obesity, and coffee consumption
+SO EUROPEAN JOURNAL OF CLINICAL NUTRITION
+LA English
+DT Article
+ID genome-wide association; gamma-glutamyltransferase; metabolic syndrome; risk; women; loci; men
+AB Background: In genome-wide association studies, the HECT domain E3 ubiquitin-protein ligase 4 (HECTD4) gene was suggested to be associated with obesity-related traits and coffee consumption. However, the association of genetic variants between coffee consumption and obesity has not been tested in Koreans. Therefore, we investigated whether HECTD4 gene variants act as effect modifiers on the relationship between obesity and coffee. Methods: This study analyzed the correlation between coffee consumption and obesity among 58,698 individuals representing the Health Examinees. Participants were categorized into obese (BMI >= 25.0 kg/m(2)) and nonobese (18.5 <= BMI < 23.0 kg/m(2)). Food consumption was assessed by a food frequency questionnaire. Results: We identified four HECTD4 gene variants associated with obesity-related traits and coffee consumption based on Bonferroni-corrected significance level (p < 0.00014). Furthermore, multivariate logistic regression analysis confirmed that the impact of coffee consumption on obesity differed based on the HECTD4 rs2074356 genotypes. A positive correlation between obesity and coffee consumption was observed, with a more pronounced effect in individuals with the G allele (OR = 1.61 for 1 to <2 cups/day, p = 1.89 x 10(-37); OR = 1.82 for >= 2 cups/day, p = 1.73 x 10(-42)) than in those with the A allele (OR = 1.47 for 1 to <2 cups/day, p = 7.41 x 10(-17); OR = 1.45 for >= 2 cups/day, p = 7.24 x 10(-11)). Conclusion: Our findings suggest that the influence of coffee consumption on obesity may vary in Koreans depending on the HECTD4 gene variant.
+C1 [Kim, Min-Jeong; Eom, Yong-Bin] Soonchunhyang Univ, Grad Sch, Dept Med Sci, Asan, Chungnam, South Korea.
+   [Jin, Hyun-Seok] Hoseo Univ, Coll Life & Hlth Sci, Dept Biomed Lab Sci, Asan, Chungnam, South Korea.
+   [Eom, Yong-Bin] Soonchunhyang Univ, Dept Biomed Lab Sci, Coll Med Sci, Chungnam, Asan, South Korea.
+C3 Soonchunhyang University; Hoseo University; Soonchunhyang University
+RP Eom, YB (corresponding author), Soonchunhyang Univ, Grad Sch, Dept Med Sci, Asan, Chungnam, South Korea.; Eom, YB (corresponding author), Soonchunhyang Univ, Dept Biomed Lab Sci, Coll Med Sci, Chungnam, Asan, South Korea.
+EM omnibin@sch.ac.kr
+FU Soonchunhyang University Research Fund; National Research Foundation of Korea (NRF) - Korean government (MSIT) [NRF-2023R1A2C1003486]
+CR Ahn Y, 2007, EUR J CLIN NUTR, V61, P1435, DOI 10.1038/sj.ejcn.1602657
+   Unknown -, 2017, LANCET DIABETES ENDO, V5, P483, DOI 10.1016/S2213-8587(17)30191-2
+   Unknown -, 2000, ASIA PACIFIC PERSPEC, V0, P0
+   Butt MS, 2011, CRIT REV FOOD SCI, V51, P363, DOI 10.1080/10408390903586412
+   Cha S, 2015, PLOS ONE, V10, P0, DOI 10.1371/journal.pone.0145220
+   Cho YS, 2009, NAT GENET, V41, P527, DOI 10.1038/ng.357
+   Cornelis MC, 2016, HUM MOL GENET, V25, P5472, DOI 10.1093/hmg/ddw334
+   Freemantle N, 2008, INT J CLIN PRACT, V62, P1391, DOI 10.1111/j.1742-1241.2008.01805.x
+   Go MJ, 2014, DIABETES METAB J, V38, P375, DOI 10.4093/dmj.2014.38.5.375
+   Go MJ, 2013, J HUM GENET, V58, P362, DOI 10.1038/jhg.2013.14
+   Haslam DW, 2005, LANCET, V366, P1197, DOI 10.1016/S0140-6736(05)67483-1
+   Higdon JV, 2006, CRIT REV FOOD SCI, V46, P101, DOI 10.1080/10408390500400009
+   Hruby A, 2016, AM J PUBLIC HEALTH, V106, P1656, DOI 10.2105/AJPH.2016.303326
+   Jee SH, 2005, AM J EPIDEMIOL, V162, P42, DOI 10.1093/aje/kwi166
+   Kim JH, 2017, NUTR RES, V41, P97, DOI 10.1016/j.nutres.2017.04.004
+   Kim Y, 2017, INT J EPIDEMIOL, V46, P0, DOI 10.1093/ije/dyv316
+   Kunutsor SK, 2015, INT J CLIN PRACT, V69, P136, DOI 10.1111/ijcp.12507
+   Kwock Changkeun, 2013, JOURNAL OF THE KOREAN SOCIETY OF FOOD SCIENCE AND NUTRITION 한국식품영양과학회지, V42, P1753
+   Larsen SC, 2018, INT J OBESITY, V42, P880, DOI 10.1038/ijo.2017.310
+   Lee A, 2019, NUTRIENTS, V11, P0, DOI 10.3390/nu11061274
+   Lee DH, 2004, FREE RADICAL RES, V38, P535, DOI 10.1080/10715760410001694026
+   Lee J, 2017, NUTRIENTS, V9, P0, DOI 10.3390/nu9121340
+   Lee YJ, 2022, ARCH TOXICOL, V96, P2487, DOI 10.1007/s00204-022-03325-y
+   Lu XF, 2015, HUM MOL GENET, V24, P865, DOI 10.1093/hmg/ddu478
+   Marcus JH, 2017, BIOINFORMATICS, V33, P594, DOI 10.1093/bioinformatics/btw643
+   Mozaffarian D, 2011, NEW ENGL J MED, V364, P2392, DOI 10.1056/NEJMoa1014296
+   Muhammad HFL, 2019, J NUTR METAB, V2019, P0, DOI 10.1155/2019/9606054
+   Nakagawa-Senda H, 2018, SCI REP-UK, V8, P0, DOI 10.1038/s41598-018-19914-w
+   Narayan VP, 2022, J NUTR HEALTH AGING, V26, P190, DOI 10.1007/s12603-022-1736-5
+   Nordestgaard AT, 2015, INT J EPIDEMIOL, V44, P551, DOI 10.1093/ije/dyv083
+   Park HyoungSeop Park HyoungSeop, 2019, JOURNAL OF NUTRITION AND HEALTH, V52, P369, DOI 10.4163/jnh.2019.52.4.369
+   Rosengren A, 2004, J INTERN MED, V255, P89, DOI 10.1046/j.1365-2796.2003.01260.x
+   Santos RMM, 2016, EUR J NUTR, V55, P1345, DOI 10.1007/s00394-016-1206-0
+   Swift DL, 2018, PROG CARDIOVASC DIS, V61, P206, DOI 10.1016/j.pcad.2018.07.014
+   Tuomilehto J, 2004, JAMA-J AM MED ASSOC, V291, P1213, DOI 10.1001/jama.291.10.1213
+   Woolf B, 2024, AM J EPIDEMIOL, V193, P1776, DOI 10.1093/aje/kwae143
+   Yang XL, 2013, AM J CLIN NUTR, V97, P545, DOI 10.3945/ajcn.112.046482
+   Zaitlen N, 2013, PLOS GENET, V9, P0, DOI 10.1371/journal.pgen.1003520
+   Zhou A, 2021, CLIN NUTR, V40, P4404, DOI 10.1016/j.clnu.2020.12.042
+   Zhu ZZ, 2021, EUR RESPIR J, V58, P0, DOI 10.1183/13993003.00199-2021
+NR 40
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGERNATURE
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON, N1 9XW, ENGLAND
+SN 0954-3007
+EI 1476-5640
+J9 EUR J CLIN NUTR
+JI Eur. J. Clin. Nutr.
+PD MAR 15
+PY 2025
+VL 79
+IS 3
+BP 200
+EP 206
+DI 10.1038/s41430-024-01541-6
+EA NOV 2024
+PG 7
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA Z7Z4R
+UT WOS:001351863800001
+PM 39521882
+DA 2025-04-28
+ER
+
+PT J
+AU Feng, XY
+   Qin, YC
+   Ma, SC
+   Ming, SJ
+   Weng, ZH
+   Xuan, YQ
+   Gong, SY
+   Fan, FY
+   Chen, P
+   Chu, Q
+   Li, ZX
+AF Feng, Xinyu
+   Qin, Yuechao
+   Ma, Shicheng
+   Ming, Shengjin
+   Weng, Zhihang
+   Xuan, Yuqi
+   Gong, Shuying
+   Fan, Fangyuan
+   Chen, Ping
+   Chu, Qiang
+   Li, Zhongxia
+TI Liubao tea extract restrains obesity-related hyperlipidemia via regulation of AMPK/p38/NF-κB pathway and intestinal microbiota
+SO FOOD CHEMISTRY
+LA English
+DT Article
+DE Liubao tea; Obesity; Hyperlipidemia; Intestinal microbiota
+ID metabolism; oxidation; caffeine; liver; mice
+AB Liubao tea, a traditional dark tea, has gained widespread recognition for various health benefits. In this study, the effects of Liubao tea extract (LTE) on obesity-related hyperlipidemia and the potential mechanism involved were explored. Anti-obesity compounds such as tricetin, isovitexin, tiliroside, etc. in LTE were identified. In high-fat diet mouse models, LTE effectively reduced tissues, organs, and body weight growth, and restored abnormal serum lipid levels. LTE could reverse adipocyte enlargement, lipid accumulation, and hepatic microstructure abnormalities. Notably, LTE reshaped gut microbiota by boosting beneficial bacteria (e.g., Bacteroides, Akkermansia, Psychrobacter) and suppressing harmful bacteria (e.g., Dubosiella, Faecalibaculum). Spearman correlation analysis unveiled significant associations between serum lipid levels, weight gain, LTE dosage, and gut microbiota, underlining the modulatory effects of LTE on metabolic disorders via the regulation of intestinal microbiota. Collectively, LTE could serve as a potential therapy for obesity-related hyperlipidemia prevention.
+C1 [Feng, Xinyu; Qin, Yuechao; Ming, Shengjin; Li, Zhongxia] Guangxi Med Univ, Wuzhou Gongren Hosp, Affiliated Hosp 7, Wuzhou, Peoples R China.
+   [Feng, Xinyu; Weng, Zhihang; Gong, Shuying; Fan, Fangyuan; Chen, Ping; Chu, Qiang] Zhejiang Univ, Tea Res Inst, Hangzhou, Peoples R China.
+   [Ma, Shicheng] Wuzhou Liubao Tea Res Assoc, Wuzhou, Peoples R China.
+   [Xuan, Yuqi] Cangwu Cty Liuwang Forestry Ind Dev Co Ltd, Wuzhou, Peoples R China.
+C3 Guangxi Medical University; Zhejiang University
+RP Li, ZX (corresponding author), Guangxi Med Univ, Wuzhou Gongren Hosp, Affiliated Hosp 7, Wuzhou, Peoples R China.; Chu, Q (corresponding author), Zhejiang Univ, Tea Res Inst, Hangzhou, Peoples R China.
+EM 0619363@zju.edu.cn
+FU Special Subsidy Funds Program of the Central Government guide for local science and technology of Wuzhou Province [202301003]; Wuzhou Science and Technology Program [202202126]; Small Highland Construction of Scientific Talent Program for Guangxi Liubao tea industry [85]; China Association for Science and Technology Youth talent lifting project [YESS20230294]
+CR Anachad Oumaima, 2023, MICROBIOL INSIGHTS, V16, P11786361231162720, DOI 10.1177/11786361231162720
+   Anhê FF, 2016, GUT MICROBES, V7, P146, DOI 10.1080/19490976.2016.1142036
+   Aziz CBA, 2014, N AM J MED SCI, V6, P377, DOI 10.4103/1947-2714.139286
+   Azizishafa M, 2023, FOOD QUAL SAF-OXFORD, V7, P0, DOI 10.1093/fqsafe/fyad028
+   Boccellino M, 2020, INT J MOL SCI, V21, P0, DOI 10.3390/ijms21165642
+   Chaoyin Chen, 2011, PROCEEDINGS OF THE 2011 INTERNATIONAL SYMPOSIUM ON INFORMATION TECHNOLOGY IN MEDICINE AND EDUCATION (ITME 2011), V0, PP696, DOI 10.1109/ITiME.2011.6132095
+   Chen L, 2023, FOOD FUNCT, V14, P2870, DOI 10.1039/d2fo02524h
+   Cheng LZ, 2021, LWT-FOOD SCI TECHNOL, V150, P0, DOI 10.1016/j.lwt.2021.111875
+   Cusi K, 2012, GASTROENTEROLOGY, V142, P711, DOI 10.1053/j.gastro.2012.02.003
+   Nitert MD, 2020, FRONT ENDOCRINOL, V11, P0, DOI 10.3389/fendo.2020.00605
+   Chu DT, 2018, DIAB MET SYND CLIN R, V12, P1095, DOI 10.1016/j.dsx.2018.05.004
+   Duarte L, 2021, REV ENDOCR METAB DIS, V22, P367, DOI 10.1007/s11154-020-09622-0
+   Ells LJ, 2018, DIET, V0, P0
+   Feng XY, 2023, COMPR REV FOOD SCI F, V22, P5063, DOI 10.1111/1541-4337.13254
+   Gauffin Cano P, 2012, BACTEROIDES UNIFORMIS CECT 7771 AMELIORATES METABOLIC AND IMMUNOLOGICAL DYSFUNCTION IN MICE WITH HIGH-FAT-DIET INDUCED OBESITY, V0, P0
+   Geng JF, 2022, BIOMED PHARMACOTHER, V147, P0, DOI 10.1016/j.biopha.2022.112678
+   Gong X, 2020, TRENDS FOOD SCI TECH, V103, P304, DOI 10.1016/j.tifs.2020.07.026
+   Goto T, 2012, J NUTR BIOCHEM, V23, P768, DOI 10.1016/j.jnutbio.2011.04.001
+   Guo M, 2019, FOOD FUNCT, V10, P6873, DOI 10.1039/c9fo00296k
+   Hou DZ, 2020, J FUNCT FOODS, V64, P0, DOI 10.1016/j.jff.2019.103687
+   Hu S, 2021, FOOD RES INT, V147, P0, DOI 10.1016/j.foodres.2021.110472
+   Huang YY, 2023, FOOD RES INT, V174, P0, DOI 10.1016/j.foodres.2023.113615
+   Hursel R, 2011, OBES REV, V12, PE573, DOI 10.1111/j.1467-789X.2011.00862.x
+   Ivanov II, 2009, CELL, V139, P485, DOI 10.1016/j.cell.2009.09.033
+   Khedr NF, 2020, ENDOCRINE, V67, P109, DOI 10.1007/s12020-019-02127-0
+   Kim JH, 2020, MOLECULES, V25, P0, DOI 10.3390/molecules25081920
+   Lavie CJ, 2018, LANCET DIABETES ENDO, V6, P678, DOI 10.1016/S2213-8587(18)30143-8
+   Lee H, 2022, FRONT MICROBIOL, V13, P0, DOI 10.3389/fmicb.2022.858192
+   Liang W, 2014, LAB INVEST, V94, P491, DOI 10.1038/labinvest.2014.11
+   Liu XM, 2023, FRONT ENDOCRINOL, V13, P0, DOI 10.3389/fendo.2022.1065263
+   Long JL, 2024, INT J BIOL MACROMOL, V272, P0, DOI 10.1016/j.ijbiomac.2024.132860
+   Malnick S, 2022, GASTROHEP, V2022, P0
+   Mohanty SK, 2012, J BACTERIOL, V194, P3872, DOI 10.1128/JB.00597-12
+   Nagarthna P, 2020, J ADV SCI RES, V11, P1
+   Nie QX, 2022, FOOD CHEM, V371, P0, DOI 10.1016/j.foodchem.2021.131106
+   Perry RJ, 2016, NATURE, V534, P213, DOI 10.1038/nature18309
+   Prakash S, 2020, BIOCHIMIE, V168, P198, DOI 10.1016/j.biochi.2019.11.005
+   Qiao SS, 2022, NAT METAB, V4, P1271, DOI 10.1038/s42255-022-00649-y
+   Qiu XX, 2021, INT J OBESITY, V45, P143, DOI 10.1038/s41366-020-00712-2
+   Ran HY, 2023, PROTEOMICS, V23, P0, DOI 10.1002/pmic.202300043
+   Repas Thomas, 2011, S D MED, V64, P241
+   Roshanravan N, 2023, ARCH PHYSIOL BIOCHEM, V129, P741, DOI 10.1080/13813455.2021.1871760
+   Ruscica M, 2022, CARDIOVASC RES, V118, P3288, DOI 10.1093/cvr/cvac020
+   Scorletti E, 2022, J HEPATOL, V76, P934, DOI 10.1016/j.jhep.2021.11.009
+   Seo YG, 2021, J OBES METAB SYNDR, V30, P12, DOI 10.7570/jomes20059
+   Takeuchi T, 2023, NATURE, V621, P389, DOI 10.1038/s41586-023-06466-x
+   Tang Y, 2022, FRONT NUTR, V9, P0, DOI 10.3389/fnut.2022.1062323
+   Tsiklauri L, 2018, OSTEOARTHR CARTILAGE, V26, P1225, DOI 10.1016/j.joca.2018.06.001
+   Wang J, 2020, FOOD NUTR RES, V64, P0, DOI 10.29219/fnr.v64.3672
+   Waritu NC, 2024, HIV AIDS-RESEARCH AND PALLIATIVE CARE, V17, P0
+   Wen JJ, 2023, FOOD CHEM, V404, P0, DOI 10.1016/j.foodchem.2022.134591
+   Wen X, 2022, SIGNAL TRANSDUCT TAR, V7, P0, DOI 10.1038/s41392-022-01149-x
+   Westerterp-Plantenga MS, 2010, PHYSIOL BEHAV, V100, P42, DOI 10.1016/j.physbeh.2010.02.005
+   Wu WL, 2021, RSC ADV, V11, P23791, DOI 10.1039/d1ra04438a
+   Wu Y, 2021, J FOOD SCI, V86, P215, DOI 10.1111/1750-3841.15551
+   Wu ZM, 2023, PHYTOMEDICINE, V110, P0, DOI 10.1016/j.phymed.2022.154633
+   Xu W, 2023, FOOD CHEM X, V19, P0, DOI 10.1016/j.fochx.2023.100863
+   Xu Y, 2020, FRONT MICROBIOL, V11, P0, DOI 10.3389/fmicb.2020.00219
+   Yan C, 2023, J HAZARD MATER, V459, P0, DOI 10.1016/j.jhazmat.2023.132057
+   Yang SY, 2024, PHYTOMEDICINE, V132, P0, DOI 10.1016/j.phymed.2024.155834
+   Yao Y, 2022, CRIT REV FOOD SCI, V62, P1, DOI 10.1080/10408398.2020.1854675
+   Ye J, 2021, FOOD RES INT, V144, P0, DOI 10.1016/j.foodres.2021.110360
+   Yoshida N, 2021, ISCIENCE, V24, P0, DOI 10.1016/j.isci.2021.103342
+   Yu H, 2024, LUMINESCENCE, V39, P0, DOI 10.1002/bio.4765
+   Zeng HL, 2023, CARBOHYD POLYM, V314, P0, DOI 10.1016/j.carbpol.2023.120939
+   Zeng Q, 2019, SCI REP-UK, V9, P0, DOI 10.1038/s41598-019-49462-w
+   Zhang HX, 2024, NUTRIENTS, V16, P0, DOI 10.3390/nu16111579
+   Zhang Q, 2022, CURR RES FOOD SCI, V5, P775, DOI 10.1016/j.crfs.2022.04.009
+   Zhou S, 2023, FOOD FUNCT, V14, P7400, DOI 10.1039/d3fo02277c
+   Zhou S, 2023, FOOD BIOSCI, V53, P0, DOI 10.1016/j.fbio.2023.102750
+   Zhou S, 2022, FOOD BIOSCI, V50, P0, DOI 10.1016/j.fbio.2022.102172
+   Zong X, 2023, J ADV RES, V52, P203, DOI 10.1016/j.jare.2023.08.003
+NR 72
+TC 1
+Z9 1
+U1 45
+U2 45
+PU ELSEVIER SCI LTD
+PI London
+PA 125 London Wall, London, ENGLAND
+SN 0308-8146
+EI 1873-7072
+J9 FOOD CHEM
+JI Food Chem.
+PD FEB 1
+PY 2025
+VL 464
+IS 
+BP 
+EP 
+DI 10.1016/j.foodchem.2024.141910
+EA NOV 2024
+PG 12
+WC Chemistry, Applied; Food Science & Technology; Nutrition & Dietetics
+SC Chemistry; Food Science & Technology; Nutrition & Dietetics
+GA M1X1P
+UT WOS:001355529100001
+PM 39522375
+DA 2025-04-28
+ER
+

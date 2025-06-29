@@ -1,0 +1,141 @@
+﻿*Vertices 44
+1 "baylor coll med" 0.5596 -0.5023
+2 "brigham & womens hosp" -0.1344 0.0928
+3 "china med univ" -0.1277 -0.6913
+4 "csic" 0.8214 0.4564
+5 "deakin univ" -0.5782 0.6936
+6 "harokopio univ" 0.627 -0.0233
+7 "harvard med sch" -0.1589 -0.3706
+8 "harvard th chan sch publ hlth" 0.0998 0.0711
+9 "harvard univ" -0.3334 0.1981
+10 "isfahan univ med sci" 1.144 -0.0182
+11 "johns hopkins univ" 0.3478 0.3502
+12 "karolinska inst" 0.3106 0.0601
+13 "kyung hee univ" 0.1423 0.3504
+14 "lund univ" -0.8882 0.0862
+15 "maastricht univ" -0.7011 -0.0803
+16 "natl inst hlth & welf" -0.7683 0.5691
+17 "natl publ hlth inst" -0.626 0.2307
+18 "natl univ singapore" -0.0565 -0.1447
+19 "northwestern univ" -0.1347 0.3902
+20 "seoul natl univ" -0.2938 -0.1062
+21 "shahid beheshti univ med sci" 1.0732 -0.2199
+22 "shanghai jiao tong univ" 0.0985 -0.4042
+23 "sichuan univ" -0.1109 1.1052
+24 "tech univ munich" -0.3824 0.4653
+25 "univ autonoma madrid" 0.6374 0.3961
+26 "univ barcelona" 0.4989 -0.3458
+27 "univ estado rio de janeiro" 0.5257 -0.9025
+28 "univ fed rio de janeiro" 0.3236 -0.9173
+29 "univ helsinki" -0.8354 0.348
+30 "univ illinois" 0.4875 0.5976
+31 "univ leipzig" -0.6205 -0.4157
+32 "univ minnesota" -0.4742 0.0073
+33 "univ naples federico ii" 0.4271 1.122
+34 "univ oslo" -0.7661 -0.3109
+35 "univ queensland" -0.5797 -1.0641
+36 "univ sao paulo" 0.4316 -0.706
+37 "univ sydney" -0.3961 0.654
+38 "univ tehran med sci" 1.2568 -0.1645
+39 "univ tokyo" -1.2198 -0.472
+40 "univ washington" -0.2875 -0.6682
+41 "univ zaragoza" 0.5724 0.1742
+42 "uppsala univ" 0.218 -0.1757
+43 "vrije univ amsterdam" -0.4297 -0.3091
+44 "yonsei univ" 0.2999 0.5941
+*Edges
+1 26 2
+1 36 1
+2 7 11
+2 8 9
+2 9 12
+2 11 1
+2 12 2
+2 15 2
+2 17 1
+2 18 5
+2 19 4
+2 20 1
+2 22 2
+2 24 1
+2 32 1
+2 42 1
+2 43 1
+3 7 1
+3 40 1
+4 25 1
+5 16 1
+5 37 1
+6 12 1
+6 41 2
+7 8 8
+7 12 1
+7 15 1
+7 18 2
+7 19 4
+7 20 1
+7 22 2
+7 40 1
+7 42 1
+8 9 1
+8 11 1
+8 12 2
+8 13 1
+8 18 1
+8 19 3
+8 20 1
+8 22 2
+8 25 1
+8 26 1
+8 36 1
+8 41 1
+8 42 1
+8 44 1
+9 12 3
+9 15 1
+9 17 1
+9 18 5
+9 19 1
+9 24 1
+9 32 1
+9 43 2
+10 21 1
+10 38 4
+11 12 1
+11 13 1
+11 25 1
+11 41 1
+11 44 1
+12 15 1
+12 17 1
+12 25 1
+12 30 1
+12 32 1
+12 41 2
+12 42 7
+12 43 1
+14 15 1
+14 29 1
+15 17 1
+15 32 1
+15 34 1
+15 43 1
+16 29 6
+17 29 6
+17 32 1
+18 19 1
+18 22 1
+18 43 1
+19 37 1
+20 32 1
+21 38 2
+24 37 1
+25 30 1
+25 41 3
+27 28 4
+27 36 4
+28 36 2
+30 44 2
+31 34 1
+31 43 2
+42 43 1

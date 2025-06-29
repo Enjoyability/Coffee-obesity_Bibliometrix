@@ -1,0 +1,90 @@
+﻿id	cited reference	citations	total link strength
+365	"[anonymous], 2006, bmc complem altern m, doi [10.1186/1472-6882-6-9 10.1186/1472-6882-6-9]"	36	252
+1348	"acheson kj, 1980, am j clin nutr, v33, p989, doi 10.1093/ajcn/33.5.989"	32	231
+1349	"acheson kj, 2004, am j clin nutr, v79, p40"	24	144
+2985	"astrup a, 1990, am j clin nutr, v51, p759, doi 10.1093/ajcn/51.5.759"	42	359
+3100	"auvichayapat p, 2008, physiol behav, v93, p486, doi 10.1016/j.physbeh.2007.10.009"	26	245
+3841	"basu a, 2010, j am coll nutr, v29, p31, doi 10.1080/07315724.2010.10719814"	23	172
+5064	"bose m, 2008, j nutr, v138, p1677, doi 10.1093/jn/138.9.1677"	25	116
+5193	"bracco d, 1995, am j physiol-endoc m, v269, pe671, doi 10.1152/ajpendo.1995.269.4.e671"	35	279
+5829	"butt ms, 2011, crit rev food sci, v51, p363, doi 10.1080/10408390903586412"	21	125
+5873	"bérubé-parent s, 2005, brit j nutr, v94, p432, doi 10.1079/bjn20051502"	34	286
+6289	"carlström m, 2018, nutr rev, v76, p395, doi 10.1093/nutrit/nuy014"	20	126
+7338	"cho as, 2010, food chem toxicol, v48, p937, doi 10.1016/j.fct.2010.01.003"	96	486
+7381	"choi bk, 2016, asian pac j trop med, v9, p616, doi 10.1016/j.apjtm.2016.05.017"	21	159
+7819	"clifford mn, 1999, j sci food agr, v79, p362, doi 10.1002/(sici)1097-0010(19990301)79:3<362::aid-jsfa256>3.0.co;2-d"	23	146
+9196	"de sotillo dvr, 2002, j nutr biochem, v13, p717, doi 10.1016/s0955-2863(02)00231-0"	30	145
+9769	"diepvens k, 2007, am j physiol-reg i, v292, pr77, doi 10.1152/ajpregu.00832.2005"	25	118
+9824	"ding m, 2014, circulation, v129, p643, doi 10.1161/circulationaha.113.005925"	26	148
+9825	"ding m, 2014, diabetes care, v37, p569, doi 10.2337/dc13-1203"	45	213
+10322	"dulloo ag, 1989, am j clin nutr, v49, p44, doi 10.1093/ajcn/49.1.44"	41	325
+10325	"dulloo ag, 1992, metabolism, v41, p1233, doi 10.1016/0026-0495(92)90015-3"	26	212
+10331	"dulloo ag, 1999, am j clin nutr, v70, p1040"	106	623
+10332	"dulloo ag, 2000, int j obesity, v24, p252, doi 10.1038/sj.ijo.0801101"	53	317
+11298	"farah a, 2008, j nutr, v138, p2309, doi 10.3945/jn.108.095554"	21	118
+11957	"folch j, 1957, j biol chem, v226, p497"	28	102
+13866	"greenberg ja, 2005, int j obesity, v29, p1121, doi 10.1038/sj.ijo.0802999"	27	197
+13867	"greenberg ja, 2006, am j clin nutr, v84, p682, doi 10.1093/ajcn/84.4.682"	34	228
+13999	"grosso g, 2015, eur j nutr, v54, p1129, doi 10.1007/s00394-014-0789-6"	20	97
+14004	"grosso g, 2017, annu rev nutr, v37, p131, doi 10.1146/annurev-nutr-071816-064941"	29	144
+15290	"heckman ma, 2010, j food sci, v75, pr77, doi 10.1111/j.1750-3841.2010.01561.x"	20	72
+15623	"higdon jv, 2006, crit rev food sci, v46, p101, doi 10.1080/10408390500400009"	33	196
+16235	"hsu ch, 2008, clin nutr, v27, p363, doi 10.1016/j.clnu.2008.03.007"	23	244
+16279	"hu fb, 2002, curr opin lipidol, v13, p3, doi 10.1097/00041433-200202000-00002"	20	9
+16408	"huang k, 2015, j sci food agr, v95, p1903, doi 10.1002/jsfa.6896"	21	167
+16596	"hursel r, 2009, int j obesity, v33, p956, doi 10.1038/ijo.2009.135"	33	247
+16600	"hursel r, 2011, obes rev, v12, pe573, doi 10.1111/j.1467-789x.2011.00862.x"	25	163
+16645	"huxley r, 2009, arch intern med, v169, p2053, doi 10.1001/archinternmed.2009.439"	36	203
+17776	"jiang xb, 2014, eur j nutr, v53, p25, doi 10.1007/s00394-013-0603-x"	22	111
+17969	"johnston kl, 2003, am j clin nutr, v78, p728, doi 10.1093/ajcn/78.4.728"	52	305
+18529	"kao yh, 2000, endocrinology, v141, p980, doi 10.1210/en.141.3.980"	30	251
+18861	"keijzers gb, 2002, diabetes care, v25, p364, doi 10.2337/diacare.25.2.364"	24	90
+18930	"kempf k, 2010, am j clin nutr, v91, p950, doi 10.3945/ajcn.2009.28548"	20	134
+19682	"klaus s, 2005, int j obesity, v29, p615, doi 10.1038/sj.ijo.0802926"	22	219
+20146	"kovacs emr, 2004, brit j nutr, v91, p431, doi 10.1079/bjn20041061"	27	271
+21250	"lee a, 2019, nutrients, v11, doi 10.3390/nu11061274"	22	124
+23060	"lopez-garcia e, 2006, am j clin nutr, v83, p674, doi 10.1093/ajcn.83.3.674"	27	209
+23265	"ludwig ia, 2014, food funct, v5, p1695, doi [10.1039/c4fo00042k 10.1039/c4fo00042k]"	28	168
+23531	"ma yj, 2015, pharm res-dordr, v32, p1200, doi 10.1007/s11095-014-1526-9"	31	195
+23787	"maki kc, 2009, j nutr, v139, p264, doi 10.3945/jn.108.098293"	32	259
+23844	"malik vs, 2006, am j clin nutr, v84, p274"	32	36
+23847	"malik vs, 2010, circulation, v121, p1356, doi 10.1161/circulationaha.109.876185"	20	30
+23848	"malik vs, 2010, diabetes care, v33, p2477, doi 10.2337/dc10-1079"	27	39
+23902	"manach c, 2004, am j clin nutr, v79, p727, doi 10.1093/ajcn/79.5.727"	27	123
+24542	"matthews dr, 1985, diabetologia, v28, p412, doi 10.1007/bf00280883"	34	95
+25040	"meng sx, 2013, evid-based compl alt, v2013, doi [10.1155/2013/801457 10.1155/2013/702196]"	32	161
+26367	"murase t, 2002, int j obesity, v26, p1459, doi 10.1038/sj.ijo.0802141"	39	228
+26378	"murase t, 2011, am j physiol-endoc m, v300, pe122, doi 10.1152/ajpendo.00441.2010"	30	214
+26618	"nagao t, 2005, am j clin nutr, v81, p122"	36	319
+26619	"nagao t, 2007, obesity, v15, p1473, doi 10.1038/oby.2007.176"	36	314
+26972	"naveed m, 2018, biomed pharmacother, v97, p67, doi 10.1016/j.biopha.2017.10.064"	20	107
+27534	"nordestgaard at, 2015, int j epidemiol, v44, p551, doi 10.1093/ije/dyv083"	36	223
+28127	"olthof mr, 2001, j nutr, v131, p66, doi 10.1093/jn/131.1.66"	21	109
+28154	"onakpoya i, 2011, gastroent res pract, v2011, doi 10.1155/2011/382852"	24	165
+28181	"ong kw, 2012, plos one, v7, doi 10.1371/journal.pone.0032718"	28	160
+28182	"ong kw, 2013, biochem pharmacol, v85, p1341, doi 10.1016/j.bcp.2013.02.008"	36	234
+29571	"phung oj, 2010, am j clin nutr, v91, p73, doi 10.3945/ajcn.2009.28157"	23	175
+29869	"poole r, 2017, bmj-brit med j, v359, doi 10.1136/bmj.j5024"	42	207
+29902	"popkin bm, 2012, nutr rev, v70, p3, doi 10.1111/j.1753-4887.2011.00456.x"	20	31
+30577	"rains tm, 2011, j nutr biochem, v22, p1, doi 10.1016/j.jnutbio.2010.06.006"	25	125
+30898	"reagan-shaw s, 2008, faseb j, v22, p659, doi 10.1096/fj.07-9574lsf"	21	96
+31859	"rosengren a, 2004, j intern med, v255, p89, doi 10.1046/j.1365-2796.2003.01260.x"	20	140
+31867	"roshan h, 2018, brit j nutr, v119, p250, doi 10.1017/s0007114517003439"	23	127
+32048	"rudelle s, 2007, obesity, v15, p349, doi 10.1038/oby.2007.529"	22	212
+32102	"rumpler w, 2001, j nutr, v131, p2848, doi 10.1093/jn/131.11.2848"	23	209
+32450	"salazar-martinez e, 2004, ann intern med, v140, p1, doi 10.7326/0003-4819-140-1-200401060-00005"	31	212
+32672	"santana-gálvez j, 2017, molecules, v22, doi 10.3390/molecules22030358"	20	119
+32729	"santos rmm, 2016, eur j nutr, v55, p1345, doi 10.1007/s00394-016-1206-0"	37	254
+34910	"song sj, 2014, evid-based compl alt, v2014, doi 10.1155/2014/718379"	24	189
+36173	"tajik n, 2017, eur j nutr, v56, p2215, doi 10.1007/s00394-017-1379-1"	24	129
+36789	"thom e, 2007, j int med res, v35, p900, doi 10.1177/147323000703500620"	42	270
+37474	"tuomilehto j, 2004, jama-j am med assoc, v291, p1213, doi 10.1001/jama.291.10.1213"	20	119
+37952	"van dam rm, 2002, lancet, v360, p1477, doi 10.1016/s0140-6736(02)11436-x"	39	239
+37958	"van dam rm, 2005, jama-j am med assoc, v294, p97, doi 10.1001/jama.294.1.97"	46	227
+38882	"wan cw, 2013, phytother res, v27, p545, doi 10.1002/ptr.4751"	20	143
+39450	"watanabe t, 2006, clin exp hypertens, v28, p439, doi 10.1080/10641960600798655"	20	162
+39516	"wedick nm, 2011, nutr j, v10, doi 10.1186/1475-2891-10-93"	22	112
+39745	"westerterp-plantenga ms, 2005, obes res, v13, p1195, doi 10.1038/oby.2005.142"	35	318
+40259	"wolfram s, 2006, mol nutr food res, v50, p176, doi 10.1002/mnfr.200500102"	31	210
+42547	"zheng gd, 2004, in vivo, v18, p55"	31	148
+42548	"zheng gd, 2014, brit j nutr, v112, p1034, doi 10.1017/s0007114514001652"	22	132

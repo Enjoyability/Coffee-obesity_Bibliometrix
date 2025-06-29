@@ -1,0 +1,1686 @@
+PT J
+AU McCarty, MF
+AF McCarty, MF
+TI A chlorogenic acid-induced increase in GLP-1 production may mediate the impact of heavy coffee consumption on diabetes risk
+SO MEDICAL HYPOTHESES
+LA English
+DT Article
+ID alpha-glucosidase inhibitors; caffeine-induced impairment; moderate alcohol intake; insulin-producing cells; dietary glycemic index; pancreatic beta-cells; cancer risk; transcription factor; tolerance; humans
+AB Recent prospective epidemiology links heavy coffee consumption to a substantial reduction in risk for type 2 diabetes. Yet there is no evidence that coffee improves insulin sensitivity and, at least in acute studies, caffeine has a negative impact in this regard. Thus, it is reasonable to suspect that coffee influences the risk for beta cell "failure" that precipitates diabetes in subjects who are already insulin resistant. Indeed, there is recent evidence that coffee increases production of the incretin hormone glucagon-like peptide-1 (GLP-1), possibly owing to an inhibitory effect of chlorogenic acid (CGA - the chief polyphenol in coffee) on glucose absorption. GLP-1 acts on beta cells, via cAMP-dependent mechanisms, to promote the synthesis and activity of the transcription factor IDX-1, crucial for maintaining the responsiveness of beta cells to an increase in plasma glucose. Conversely, the "glucolipotoxicity" thought to initiate and sustain beta cell dysfunction in diabetics can suppress expression of this transcription factor. The increased production of GLP-1 associated with frequent coffee consumption could thus be expected to counteract the adverse impact of chronic free fatty acid overexposure on beta cell function in overweight insulin resistant subjects. CGA's putative impact on glucose absorption may reflect the ability of this compound to inhibit glucose-6-phosphate translocase 1, now known to play a role in intestinal glucose transport. Delayed glucose absorption may itself protect beta cells by limiting postprandial hyperglycemia - though, owing to countervailing effects of caffeine on plasma glucose, and a paucity of relevant research studies, it is still unclear whether coffee ingestion blunts the postprandial rise in plasma glucose. More generally, diets high in "lente carbohydrate", or administration of nutraceuticals/ pharmaceuticals which stow the absorption of dietary carbohydrate, should help preserve efficient beta cell function by boosting GLP-1 production, as well as by blunting the glucotoxic impact of postprandial. hyperglycemia on beta cell function. (c) 2004 Elsevier Ltd. All rights reserved.
+C1 NutriGuard Res, Encinitas, CA 92024 USA.
+RP McCarty, MF (corresponding author), 4622 Santa Fe St, San Diego, CA 92109 USA.
+EM mccarty@pantox.com
+CR Abraham EJ, 2002, ENDOCRINOLOGY, V143, P3152, DOI 10.1210/en.143.8.3152
+   Ahren Bo, 2003, CURR DIAB REP, V3, P365, DOI 10.1007/s11892-003-0079-9
+   AMMON HPT, 1991, ARCH PHARM, V324, P261, DOI 10.1002/ardp.19913240502
+   Augustin LSA, 2003, CANCER CAUSE CONTROL, V14, P657, DOI 10.1023/A:1025676907942
+   Augustin LSA, 2003, ANN ONCOL, V14, P78, DOI 10.1093/annonc/dkg022
+   Augustin LSA, 2001, ANN ONCOL, V12, P1533, DOI 10.1023/A:1013176129380
+   Chiasson JL, 2002, LANCET, V359, P2072, DOI 10.1016/S0140-6736(02)08905-5
+   Chiasson JL, 2003, JAMA-J AM MED ASSOC, V290, P486, DOI 10.1001/jama.290.4.486
+   Chu NV, 2002, DIABETES CARE, V25, P542, DOI 10.2337/diacare.25.3.542
+   Cleophas TJ, 1999, BIOMED PHARMACOTHER, V53, P417, DOI 10.1016/S0753-3322(99)80121-8
+   Davies MJ, 2002, JAMA-J AM MED ASSOC, V287, P2559, DOI 10.1001/jama.287.19.2559
+   Drucker DJ, 2003, DIABETES CARE, V26, P2929, DOI 10.2337/diacare.26.10.2929
+   El-Assaad W, 2003, ENDOCRINOLOGY, V144, P4154, DOI 10.1210/en.2003-0410
+   Enç FY, 2001, AM J PHYSIOL-GASTR L, V281, PG752, DOI 10.1152/ajpgi.2001.281.3.G752
+   FACCHINI F, 1994, DIABETES CARE, V17, P115, DOI 10.2337/diacare.17.2.115
+   FEINBERG LJ, 1968, METABOLISM, V17, P916, DOI 10.1016/0026-0495(68)90158-3
+   Folsom AR, 2003, NUTR CANCER, V46, P119, DOI 10.1207/S15327914NC4602_03
+   Franceschi S, 2001, ANN ONCOL, V12, P173, DOI 10.1023/A:1008304128577
+   Gault VA, 2003, BIOCHEM BIOPH RES CO, V308, P207, DOI 10.1016/S0006-291X(03)01361-5
+   GOKE B, 1994, EUR J CLIN INVEST, V24, P25
+   GOLDMAN JA, 1969, OBSTET GYNECOL, V33, P214
+   Graham TE, 2001, CAN J PHYSIOL PHARM, V79, P559, DOI 10.1139/cjpp-79-7-559
+   Gremlich S, 1997, J BIOL CHEM, V272, P30261, DOI 10.1074/jbc.272.48.30261
+   Habener JF, 2002, DRUG NEWS PERSPECT, V15, P491, DOI 10.1358/dnp.2002.15.8.740224
+   Hemmerle H, 1997, J MED CHEM, V40, P137, DOI 10.1021/jm9607360
+   Isogawa A, 2003, LANCET, V361, P703, DOI 10.1016/S0140-6736(03)12586-X
+   JANKELSON OM, 1967, LANCET, V1, P527
+   Johnston KL, 2003, AM J CLIN NUTR, V78, P728, DOI 10.1093/ajcn/78.4.728
+   KAWACHI I, 1994, BRIT HEART J, V72, P269
+   Keijzers GB, 2002, DIABETES CARE, V25, P364, DOI 10.2337/diacare.25.2.364
+   Lapidot TM, 2002, J AGR FOOD CHEM, V50, P7220, DOI 10.1021/jf020615a
+   Lebovitz HE, 1997, ENDOCRIN METAB CLIN, V26, P539, DOI 10.1016/S0889-8529(05)70266-8
+   Lee SC, 2002, J AGR FOOD CHEM, V50, P6618, DOI 10.1021/jf020189t
+   LEE Y, 1994, P NATL ACAD SCI USA, V91, P10878, DOI 10.1073/pnas.91.23.10878
+   MacDonald PE, 2002, DIABETES, V51, PS434, DOI 10.2337/diabetes.51.2007.S434
+   Michaud DS, 2002, J NATL CANCER I, V94, P1293, DOI 10.1093/jnci/94.17.1293
+   Nardini M, 2002, J AGR FOOD CHEM, V50, P5735, DOI 10.1021/jf0257547
+   OLSON LK, 1995, P NATL ACAD SCI USA, V92, P9127, DOI 10.1073/pnas.92.20.9127
+   Olthof MR, 2003, J NUTR, V133, P1806, DOI 10.1093/jn/133.6.1806
+   Olthof MR, 2001, J NUTR, V131, P66, DOI 10.1093/jn/131.1.66
+   Pizziol A, 1998, EUR J CLIN NUTR, V52, P846, DOI 10.1038/sj.ejcn.1600657
+   Ranganath L, 1998, DIABETIC MED, V15, P120, DOI 10.1002/(SICI)1096-9136(199802)15:2<120::AID-DIA529>3.0.CO;2-I
+   Roduit R, 2000, J BIOL CHEM, V275, P35799, DOI 10.1074/jbc.M006001200
+   Rosengren A, 2004, J INTERN MED, V255, P89, DOI 10.1046/j.1365-2796.2003.01260.x
+   Salazar-Martinez E, 2004, ANN INTERN MED, V140, P1, DOI 10.7326/0003-4819-140-1-200401060-00005
+   Salmeron J, 1997, DIABETES CARE, V20, P545, DOI 10.2337/diacare.20.4.545
+   Santer R, 2003, GASTROENTEROLOGY, V124, P34, DOI 10.1053/gast.2003.50009
+   Scheen AJ, 2003, DRUGS, V63, P933, DOI 10.2165/00003495-200363100-00002
+   Seifarth C, 1998, DIABETIC MED, V15, P485, DOI 10.1002/(SICI)1096-9136(199806)15:6<485::AID-DIA610>3.0.CO;2-Y
+   Seufert J, 1998, J CLIN INVEST, V101, P2528, DOI 10.1172/JCI2401
+   Sierksma A, 2004, DIABETES CARE, V27, P184, DOI 10.2337/diacare.27.1.184
+   Stoffers DA, 2000, DIABETES, V49, P741, DOI 10.2337/diabetes.49.5.741
+   Stümpel F, 2001, P NATL ACAD SCI USA, V98, P11330, DOI 10.1073/pnas.211357698
+   Thong FSL, 2002, J APPL PHYSIOL, V92, P2347, DOI 10.1152/japplphysiol.01229.2001
+   Thong FSL, 2002, DIABETES, V51, P583, DOI 10.2337/diabetes.51.3.583
+   THORENS B, 1993, DIABETES, V42, P1219, DOI 10.2337/diabetes.42.9.1219
+   TRUSWELL AS, 1992, EUR J CLIN NUTR S2, V46, P91
+   UNGER RH, 1995, DIABETES, V44, P863, DOI 10.2337/diabetes.44.8.863
+   van Dam RM, 2002, LANCET, V360, P1477, DOI 10.1016/S0140-6736(02)11436-X
+   van de Wiel A, 1998, NETH J MED, V52, P91, DOI 10.1016/S0300-2977(97)00087-9
+   Vuksan V, 2000, DIABETES CARE, V23, P9, DOI 10.2337/diacare.23.1.9
+   Waeber G, 1996, MOL ENDOCRINOL, V10, P1327, DOI 10.1210/me.10.11.1327
+   Wang XL, 1999, ENDOCRINOLOGY, V140, P4904, DOI 10.1210/en.140.10.4904
+   Wang XL, 2001, ENDOCRINOLOGY, V142, P1820, DOI 10.1210/en.142.5.1820
+   WELSCH CA, 1989, J NUTR, V119, P1698, DOI 10.1093/jn/119.11.1698
+   Yoshida S, 2002, DIABETES, V51, P2505, DOI 10.2337/diabetes.51.8.2505
+   Zangen DH, 1997, DIABETES, V46, P258, DOI 10.2337/diabetes.46.2.258
+   Zhou J, 2002, J CELL PHYSIOL, V192, P304, DOI 10.1002/jcp.10143
+NR 68
+TC 136
+Z9 151
+U1 1
+U2 35
+PU CHURCHILL LIVINGSTONE
+PI EDINBURGH
+PA JOURNAL PRODUCTION DEPT, ROBERT STEVENSON HOUSE, 1-3 BAXTERS PLACE, LEITH WALK, EDINBURGH EH1 3AF, MIDLOTHIAN, SCOTLAND
+SN 0306-9877
+EI 
+J9 MED HYPOTHESES
+JI Med. Hypotheses
+PD JUN 15
+PY 2005
+VL 64
+IS 4
+BP 848
+EP 853
+DI 10.1016/j.mehy.2004.03.037
+PG 6
+WC Medicine, Research & Experimental
+SC Research & Experimental Medicine
+GA 906SP
+UT WOS:000227663500027
+PM 15694706
+DA 2025-04-28
+ER
+
+PT J
+AU Kobayashi-Hattori, K
+   Mogi, A
+   Matsumoto, Y
+   Takita, T
+AF Kobayashi-Hattori, K
+   Mogi, A
+   Matsumoto, Y
+   Takita, T
+TI Effect of caffeine on the body fat and lipid metabolism of rats fed on a high-fat diet
+SO BIOSCIENCE BIOTECHNOLOGY AND BIOCHEMISTRY
+LA English
+DT Article
+DE caffeine; body fat; lipid metabolism; catecholamine; obesity
+ID serum-cholesterol; green tea; plasma-lipids; mice; beverages; excretion; obesity; coffee
+AB The intake of caffeine (CF) at 0.025, 0.05 or 0.1 % for 21 days progressively reduced the body fat mass and body fat percentage in Sprague-Dawley (SD) rats fed on a high-fat diet with increasing administration level. Moreover, CF increased the serum concentrations of catecholamines and free fatty acids in SD rats orally administered with CF (5 mg/kg). These results suggest that the intake of CF reduced body fat by lipolysis via catecholamines. CF has potential as a functional food ingredient with an anti-obesity action.
+C1 Tokyo Univ Agr, Fac Appl Biosci, Dept Nurtrit Sci, Setagaya Ku, Tokyo 1568502, Japan.
+   Kawasaki Univ Med Welf, Fac Med Profess, Dept Clin Nutr, Kurashiki, Okayama 7010193, Japan.
+C3 Tokyo University of Agriculture
+RP Tokyo Univ Agr, Fac Appl Biosci, Dept Nurtrit Sci, Setagaya Ku, Tokyo 1568502, Japan.
+EM k2kobaya@nodai.ac.jp
+CR Adachi H, 2005, J EPIDEMIOL, V15, P85, DOI 10.2188/jea.15.85
+   ARCIERO PJ, 1995, ENDOCRINOL METAB, V31, P0
+   ASTRUP A, 1990, AM J CLIN NUTR, V51, P759, DOI 10.1093/ajcn/51.5.759
+   Benowitz NL, 1995, CLIN PHARMACOL THER, V58, P684, DOI 10.1016/0009-9236(95)90025-X
+   BUKOWIECKI LJ, 1983, AM J PHYSIOL, V244, PR500, DOI 10.1152/ajpregu.1983.244.4.R500
+   CHEN MD, 1994, CHIN MED J, V53, P257
+   DENARO CP, 1991, EUR J CLIN PHARMACOL, V40, P273, DOI 10.1007/BF00315208
+   FEARS R, 1978, BRIT J NUTR, V39, P363, DOI 10.1079/BJN19780046
+   Hasegawa N, 2000, J HEALTH SCI, V46, P153
+   He Y, 2004, ANN EPIDEMIOL, V14, P1, DOI 10.1016/S1047-2797(03)00069-3
+   HENLY AA, 1957, ANALYST, V82, P286
+   HOSTMARK AT, 1988, NUTR REP INT, V38, P859
+   HOSTMARK AT, 1986, NUTR REP INT, V34, P119
+   INOUE H, 2005, ITE LETT BATT NEW TE, V6, P61
+   Kogure A, 2002, CLIN EXP PHARMACOL P, V29, P391, DOI 10.1046/j.1440-1681.2002.03675.x
+   LeBlanc J, 1995, PHARMACOL RES, V32, P129, DOI 10.1016/S1043-6618(05)80005-2
+   LIN BB, 1986, NUTR REP INT, V34, P821
+   Michna L, 2003, LIFE SCI, V73, P1383, DOI 10.1016/S0024-3205(03)00468-5
+   NAISMITH DJ, 1969, J NUTR, V97, P375, DOI 10.1093/jn/97.3.375
+   ROBERTSON D, 1978, NEW ENGL J MED, V298, P181, DOI 10.1056/NEJM197801262980403
+   SUGIYAMA K, 1989, AGR BIOL CHEM TOKYO, V53, P3101, DOI 10.1080/00021369.1989.10869788
+   Welborn TA, 2003, MED J AUSTRALIA, V179, P580, DOI 10.5694/j.1326-5377.2003.tb05704.x
+   Yoshiike N, 2002, ASIA PAC J CLIN NUTR, V11, PS727, DOI 10.1046/j.1440-6047.11.s8.18.x
+   ZAK B, 1957, AM J CLIN PATHOL, V27, P583, DOI 10.1093/ajcp/27.5_ts.583
+   Zheng GD, 2004, IN VIVO, V18, P55
+NR 25
+TC 71
+Z9 83
+U1 1
+U2 24
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0916-8451
+EI 1347-6947
+J9 BIOSCI BIOTECH BIOCH
+JI Biosci. Biotechnol. Biochem.
+PD NOV 15
+PY 2005
+VL 69
+IS 11
+BP 2219
+EP 2223
+DI 10.1271/bbb.69.2219
+PG 5
+WC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology; Chemistry, Applied; Food Science & Technology
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology; Chemistry; Food Science & Technology
+GA 989YU
+UT WOS:000233710900026
+PM 16306706
+DA 2025-04-28
+ER
+
+PT J
+AU van Dam, RM
+   Hu, FB
+AF van Dam, RM
+   Hu, FB
+TI Coffee consumption and risk of type 2 diabetes - A systematic review
+SO JAMA-JOURNAL OF THE AMERICAN MEDICAL ASSOCIATION
+LA English
+DT Review
+ID caffeine-induced impairment; glucose-tolerance; chlorogenic acid; blood-glucose; insulin action; life-style; metaanalysis; ingestion; plasma; men
+AB Context Emerging epidemiological evidence suggests that higher coffee consumption may reduce the risk of type 2 diabetes. Objective To examine the association between habitual coffee consumption and risk of type 2 diabetes and related outcomes. Data Sources and Study Selection We searched MEDLINE through January 2005 and examined the reference lists of the retrieved articles. Because this review focuses on studies of habitual coffee consumption and risk of type 2 diabetes, we excluded studies of type 1 diabetes, animal studies, and studies of short-term exposure to coffee or caffeine, leaving 15 epidemiological studies (cohort or cross-sectional). Data Extraction Information on study design, participant characteristics, measurement of coffee consumption and outcomes, adjustment for potential confounders, and estimates of associations was abstracted independently by 2 investigators. Data Synthesis We identified 9 cohort studies of coffee consumption and risk of type 2 diabetes, including 193 473 participants and 8394 incident cases of type 2 diabetes, and calculated summary relative risks (RRs) using a random-effects model. The RR of type 2 diabetes was 0.65 (95% confidence interval [CI], 0. 54-0.78) for the highest (>= 6 or >= 7 cups per day) and 0.72 (95% Cl, 0.62-0.83) for the second highest (4-6 cups per day) category of coffee-consumption compared with the lowest consumption category (0 or <= 2 cups per day). These associations did not differ substantially by sex, obesity, or region (United States and Europe). In the cross-sectional studies conducted in northern Europe, southern Europe, and Japan, higher coffee consumption was consistently associated with a lower prevalence of newly detected hyperglycemia, particularly postprandial hyperglycemia. Conclusions This systematic review supports the hypothesis that habitual coffee consumption is associated with a substantially lower risk of type 2 diabetes. Longer-term intervention studies of coffee consumption and glucose metabolism are warranted to examine the mechanisms underlying the relationship between coffee consumption and type 2 diabetes.
+C1 Harvard Univ, Sch Publ Hlth, Dept Nutr, Boston, MA 02115 USA.
+   Harvard Univ, Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+   Brigham & Womens Hosp, Channing Lab, Boston, MA 02115 USA.
+   Harvard Univ, Sch Med, Boston, MA USA.
+   Vrije Univ Amsterdam, Fac Earth & Life Sci, Dept Nutr & Hlth, Amsterdam, Netherlands.
+C3 Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Harvard University Medical Affiliates; Brigham & Women's Hospital; Harvard University; Harvard Medical School; Vrije Universiteit Amsterdam
+RP Harvard Univ, Sch Publ Hlth, Dept Nutr, 665 Huntington Ave,Bldg 2, Boston, MA 02115 USA.
+EM rvan-dam@hsph.harvard.edu
+FU NIDDK NIH HHS [DK58845] Funding Source: Medline
+CR Agardh EE, 2004, J INTERN MED, V255, P645, DOI 10.1111/j.1365-2796.2004.01331.x
+   Andrade-Cetto A, 2001, J ETHNOPHARMACOL, V78, P145, DOI 10.1016/S0378-8741(01)00335-X
+   Unknown -, 1900, DOI 10.1002/(SICI)1097-0258(20000215)19:3335::AID-SIM3363.0.CO;2-Z, V0, P0
+   Arion WJ, 1997, ARCH BIOCHEM BIOPHYS, V339, P315, DOI 10.1006/abbi.1996.9874
+   Ärnlöv J, 2004, JAMA-J AM MED ASSOC, V291, P1199, DOI 10.1001/jama.291.10.1199-b
+   ASTRUP A, 1992, INT J OBESITY, V16, P269
+   Bracken MB, 2002, EPIDEMIOLOGY, V13, P165, DOI 10.1097/00001648-200203000-00011
+   BROWN CR, 1989, PHARMACOL BIOCHEM BE, V34, P565, DOI 10.1016/0091-3057(89)90559-5
+   Carlsson S, 2004, INT J EPIDEMIOL, V33, P616, DOI 10.1093/ije/dyh185
+   Ceriello A, 2004, ARTERIOSCL THROM VAS, V24, P816, DOI 10.1161/01.ATV.0000122852.22604.78
+   Clifford MN, 2000, J SCI FOOD AGR, V80, P1118, DOI 10.1002/(SICI)1097-0010(20000515)80:7<1118::AID-JSFA570>3.0.CO;2-9
+   de Paulis T, 2002, EUR J PHARMACOL, V442, P215, DOI 10.1016/S0014-2999(02)01540-6
+   de Sotillo DVR, 2002, J NUTR BIOCHEM, V13, P717, DOI 10.1016/S0955-2863(02)00231-0
+   de Valk HW, 1999, NETH J MED, V54, P139, DOI 10.1016/S0300-2977(99)00005-4
+   deGroot JGAJ, 1996, EUR J CLIN NUTR, V50, P0
+   DENARO CP, 1991, EUR J CLIN PHARMACOL, V40, P273, DOI 10.1007/BF00315208
+   Drucker DJ, 1998, DIABETES, V47, P159, DOI 10.2337/diabetes.47.2.159
+   Egger M, 1997, BMJ-BRIT MED J, V315, P629, DOI 10.1136/bmj.315.7109.629
+   FESKANICH D, 1993, J AM DIET ASSOC, V93, P790, DOI 10.1016/0002-8223(93)91754-E
+   Graham TE, 1998, J APPL PHYSIOL, V85, P883, DOI 10.1152/jappl.1998.85.3.883
+   Greer F, 2001, DIABETES, V50, P2349, DOI 10.2337/diabetes.50.10.2349
+   Isogawa A, 2003, LANCET, V361, P703, DOI 10.1016/S0140-6736(03)12586-X
+   Johnston KL, 2003, AM J CLIN NUTR, V78, P728, DOI 10.1093/ajcn/78.4.728
+   KAWACHI I, 1994, BRIT HEART J, V72, P269
+   Keijzers GB, 2002, DIABETES CARE, V25, P364, DOI 10.2337/diacare.25.2.364
+   Knowler WC, 2002, NEW ENGL J MED, V346, P393, DOI 10.1056/nejmoa012512
+   Koppes LLJ, 2005, DIABETES CARE, V28, P719, DOI 10.2337/diacare.28.3.719
+   Lane JD, 2004, DIABETES CARE, V27, P2047, DOI 10.2337/diacare.27.8.2047
+   *NAT COFF ASS, 2002, NAT COFF DRINK TREND, V0, P0
+   NATHAN DM, 1993, NEW ENGL J MED, V328, P1676, DOI 10.1056/NEJM199306103282306
+   PIETINEN P, 1988, PREV MED, V17, P183, DOI 10.1016/0091-7435(88)90062-X
+   Pizziol A, 1998, EUR J CLIN NUTR, V52, P846, DOI 10.1038/sj.ejcn.1600657
+   Pulido R, 2003, EUR J CLIN NUTR, V57, P1275, DOI 10.1038/sj.ejcn.1601685
+   Reunanen A, 2003, LANCET, V361, P702, DOI 10.1016/S0140-6736(03)12583-4
+   ROBERTSON D, 1981, J CLIN INVEST, V67, P1111, DOI 10.1172/JCI110124
+   Robinson LE, 2004, J NUTR, V134, P2528, DOI 10.1093/jn/134.10.2528
+   Rosenberg MS, 2005, EVOLUTION, V59, P464, DOI 10.1111/j.0014-3820.2005.tb01004.x
+   Rosengren A, 2004, J INTERN MED, V255, P89, DOI 10.1046/j.1365-2796.2003.01260.x
+   Salazar-Martinez E, 2004, ANN INTERN MED, V140, P1, DOI 10.7326/0003-4819-140-1-200401060-00005
+   SALVINI S, 1989, INT J EPIDEMIOL, V18, P858, DOI 10.1093/ije/18.4.858
+   Saremi A, 2003, DIABETES CARE, V26, P2211, DOI 10.2337/diacare.26.7.2211
+   Schaafsma G, 1989, VOEDING, V50, P223
+   Schaefer B, 2004, ANN INTERN MED, V141, P321, DOI 10.7326/0003-4819-141-4-200408170-00016
+   Shearer J, 2003, J NUTR, V133, P3529, DOI 10.1093/jn/133.11.3529
+   Soriguer F, 2004, ANN INTERN MED, V141, P321, DOI 10.7326/0003-4819-141-4-200408170-00017
+   Sutton AJ, 2000, STAT METHODS MED RES, V9, P421, DOI 10.1191/096228000701555244
+   Svilaas A, 2004, J NUTR, V134, P562, DOI 10.1093/jn/134.3.562
+   Tavani A, 2000, EUR J CANCER PREV, V9, P241, DOI 10.1097/00008469-200008000-00004
+   Thong FSL, 2002, J APPL PHYSIOL, V92, P2347, DOI 10.1152/japplphysiol.01229.2001
+   Thong FSL, 2002, DIABETES, V51, P583, DOI 10.2337/diabetes.51.3.583
+   Tuomilehto J, 2001, NEW ENGL J MED, V344, P1343, DOI 10.1056/NEJM200105033441801
+   Tuomilehto J, 2004, JAMA-J AM MED ASSOC, V291, P1213, DOI 10.1001/jama.291.10.1213
+   Urgert R, 1996, BRIT MED J, V313, P1362, DOI 10.1136/bmj.313.7069.1362
+   van Dam RM, 2004, DIABETOLOGIA, V47, P2152, DOI 10.1007/s00125-004-1573-6
+   Van Dam RM, 2004, DIABETES CARE, V27, P2990, DOI 10.2337/diacare.27.12.2990
+   van Dam RM, 2002, LANCET, V360, P1477, DOI 10.1016/S0140-6736(02)11436-X
+   van Dam RM, 2003, ANN NUTR METAB, V47, P627
+   van Houwelingen HC, 2002, STAT MED, V21, P589, DOI 10.1002/sim.1040
+   WACHMAN A, 1970, METABOLIS, V19, P539, DOI 10.1016/0026-0495(70)90009-0
+   Wild S, 2004, DIABETES CARE, V27, P1047, DOI 10.2337/diacare.27.5.1047
+   Yamaji T, 2004, DIABETOLOGIA, V47, P2145, DOI 10.1007/s00125-004-1590-5
+   Yoshioka K, 2003, LANCET, V361, P703, DOI 10.1016/S0140-6736(03)12585-8
+NR 62
+TC 497
+Z9 534
+U1 1
+U2 92
+PU AMER MEDICAL ASSOC
+PI CHICAGO
+PA 330 N WABASH AVE, STE 39300, CHICAGO, IL 60611-5885 USA
+SN 0098-7484
+EI 1538-3598
+J9 JAMA-J AM MED ASSOC
+JI JAMA-J. Am. Med. Assoc.
+PD JUL 6
+PY 2005
+VL 294
+IS 1
+BP 97
+EP 104
+DI 10.1001/jama.294.1.97
+PG 8
+WC Medicine, General & Internal
+SC General & Internal Medicine
+GA 941JD
+UT WOS:000230210200030
+PM 15998896
+DA 2025-04-28
+ER
+
+PT J
+AU Vukovich, MD
+   Schoorman, R
+   Heilman, C
+   Jacob, P
+   Benowitz, NL
+AF Vukovich, MD
+   Schoorman, R
+   Heilman, C
+   Jacob, P
+   Benowitz, NL
+TI Caffeine-herbal ephedra combination increases resting energy expenditure, heart rate and blood pressure
+SO CLINICAL AND EXPERIMENTAL PHARMACOLOGY AND PHYSIOLOGY
+LA English
+DT Article
+DE caffeine; dietary supplement; ephedrine; herbal medicine; Ma Huang
+ID central-nervous-system; double-blind; weight-loss; dietary-supplements; ma huang; safety; efficacy; placebo; obese; thermogenesis
+AB 1. The purpose of the present study was to determine whether the consumption of an acute dose of caffeine and Ma Huang increases resting energy expenditure (REE), heart rate (HR) and blood pressure (BP) over a 3 h period. 2. A randomized, double-blind cross-over study was performed evaluating the acute effects of caffeine (150 mg)/herbal ephedra (Ma Huang; 20 mg ephedra alkaloids) versus a placebo. A total of eight healthy subjects (four males and four females) with a mean (+/-SD) age of 23.4 +/- 0.8 years (mean ages for males and females: 25.3 +/- 0.7 and 22.0 +/- 0.7 years, respectively) and 22.5 +/- 3.1% body fat (15.7 +/- 1.2 and 27.6 +/- 3.5% body fat for males and females, respectively) were recruited to the study. Participants were moderate caffeine users (approximately 150-300 mg/day). 3. Subjects reported to the laboratory following a 12 h fast and 48 h of a caffeine-free diet. Resting energy expenditure was measured prior to supplementation and for 15 min every 30 min for 3 h following supplementation. Heart rate and BP were obtained every 15 min. Blood samples were obtained every 30 min following the measurement of REE and analysed for caffeine, ephedrine, free fatty acids and glucose. 4. By 3 h, HR was 22.7 +/- 5.5% higher (P < 0.05) than baseline for the caffeine/ephedra trial compared with 8.9 +/- 2.2% higher for the placebo grou. At 3 h, systolic BP was 9.1 +/- 2.2% higher (P < 0.05) than baseline for the caffeine/ephedra trial compared with only 1.9 +/- 2.9% different from baseline for the placebo trial. There was no effect of the caffeine/ephedra combination on diastolic BP. Resting energy expenditure during the last 30 min was 4.5 +/- 2.5% higher in the placebo trial and 10.7 +/- 2.5% higher (P < 0.05) in the caffeine/ephedra trial; REE was 8.5 +/- 2.0% higher (P < 0.05) in the caffeine/ephedra trial compared with the placebo trial. Free fatty acids increased over time in the placebo and caffeine/ephedra trials (from 0.5 +/- 0.05 to 0.63 +/- 0.05 mEq/L and from 0.48 +/- 0.06L to 0.8 +/- 0.05 mEq/L, respectively). 5. Caffeine and herbal ephedra, at doses of 150 mg and 20 mg (ephedrine), respectively, result in a significant elevation in REE, HR and BP. Although significant, the increase in energy expenditure is negligible in terms of weight loss.
+C1 S Dakota State Univ, Dept Hlth Phys Educ & Recreat, Appl Physiol Lab, Brookings, SD 57007 USA.
+   Univ Calif San Francisco, San Francisco Gen Hosp, Div Clin Pharmacol, San Francisco, CA USA.
+C3 South Dakota State University; University of California System; University of California San Francisco; San Francisco General Hospital Medical Center
+RP S Dakota State Univ, Dept Hlth Phys Educ & Recreat, Appl Physiol Lab, Box 2820, Brookings, SD 57007 USA.
+EM matt.vukovich@sdstate.edu
+FU National Institute on Drug Abuse [P30DA012393] Funding Source: NIH RePORTER; NIDA NIH HHS [DA02277, DA012393] Funding Source: Medline
+CR Armstrong WJ, 2001, JOURNAL OF EXERCISE PHYSIOLOGY ONLINE, V4, P28
+   ASTRUP A, 1991, METABOLISM, V40, P323, DOI 10.1016/0026-0495(91)90117-F
+   ASTRUP A, 1992, INT J OBESITY, V16, P269
+   ASTRUP A, 1992, METABOLISM, V41, P686, DOI 10.1016/0026-0495(92)90304-S
+   ASTRUP A, 1990, CURR THER RES CLIN E, V48, P1087
+   Boozer CN, 2001, INT J OBESITY, V25, P316, DOI 10.1038/sj.ijo.0801539
+   Boozer CN, 2002, INT J OBESITY, V26, P593, DOI 10.1038/sj.ijo.0802023
+   BYE C, 1974, BRIT J CLIN PHARMACO, V1, P71, DOI 10.1111/j.1365-2125.1974.tb00209.x
+   DALY PA, 1993, INT J OBESITY, V17, P0
+   DULLOO AG, 1986, INT J OBESITY, V10, P467
+   Haller CA, 2000, NEW ENGL J MED, V343, P1833, DOI 10.1056/NEJM200012213432502
+   Haller CA, 2002, CLIN PHARMACOL THER, V71, P421, DOI 10.1067/mcp.2002.124523
+   Horton TJ, 1996, INT J OBESITY, V20, P91
+   Jacob P, 2004, J ANAL TOXICOL, V28, P152, DOI 10.1093/jat/28.3.152
+   Kalman D, 2002, INT J OBESITY, V26, P1363, DOI 10.1038/sj.ijo.0802061
+   KRIEGER DR, 1990, T ASSOC AM PHYSICIAN, V53, P307
+   LIU YL, 1995, INT J OBESITY, V19, P678
+   MARTIN WR, 1971, CLIN PHARMACOL THER, V12, P245
+   PASQUALI R, 1985, INT J OBESITY, V9, P93
+   Samenuk D, 2002, MAYO CLIN PROC, V77, P12, DOI 10.4065/77.1.12
+   Shannon JR, 1999, CLIN SCI, V96, P483, DOI 10.1042/CS19980206
+   Shekelle PG, 2003, JAMA-J AM MED ASSOC, V289, P1537, DOI 10.1001/jama.289.12.1537
+   WEIR JBD, 1949, J PHYSIOL-LONDON, V109, P1, DOI 10.1113/jphysiol.1949.sp004363
+NR 23
+TC 38
+Z9 43
+U1 0
+U2 35
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0305-1870
+EI 1440-1681
+J9 CLIN EXP PHARMACOL P
+JI Clin. Exp. Pharmacol. Physiol.
+PD JAN-FEB 15
+PY 2005
+VL 32
+IS 1-2
+BP 47
+EP 53
+DI 10.1111/j.1440-1681.2005.04152.x
+PG 7
+WC Pharmacology & Pharmacy; Physiology
+SC Pharmacology & Pharmacy; Physiology
+GA 900XX
+UT WOS:000227248700009
+PM 15730434
+DA 2025-04-28
+ER
+
+PT J
+AU Rajeshwari, R
+   Yang, SJ
+   Nicklas, TA
+   Berenson, GS
+AF Rajeshwari, R
+   Yang, SJ
+   Nicklas, TA
+   Berenson, GS
+TI Secular trends in children's sweetened-beverage consumption (1973 to 1994): The Bogalusa heart study
+SO JOURNAL OF THE AMERICAN DIETETIC ASSOCIATION
+LA English
+DT Article
+ID body-mass index; nutrition examination surveys; energy-intake; national-health; food-intake; young adulthood; united-states; risk-factors; obesity; adolescents
+AB Objective To determine whether children's sweetened-beverage consumption has changed over a 21-year period (1973 to 1994) in Bogalusa, LA, and whether trends in energy intake, milk consumption, and body mass index (BMI) varied among the sweetened-beverage consumption groups. Design Information on food and nutrient intake was derived from a single 24-hour dietary recall collected from children who participated in one of seven cross-sectional surveys. Subjects/Setting A total of 1,548 10-year-old children (65% white, 35% African American; 51% female, 49% male) were randomly selected to participate in the study. Statistical Analyses The Cochran-Armitage Trend test was applied to examine the trends in sweetened-beverage consumption by 10-year-old children over a 21-year period. A general linear model was used to examine the trend in milk consumption, energy intake, and BMI among the sweetened-beverage consumption groups. Results The percentage of children consuming sweetened beverages significantly decreased from 83% (1973) to 81% (1994) (P<.05), particularly consumption of soft drinks (P<.01) and coffee with sugar (P<.0001). However, the mean gram amount of tea with sugar consumed significantly increased (P<.0001), with no changes in the mean gram amount of fruit drinks, soft drinks, and coffee with sugar consumed. When comparing tertiles of sweetened-beverage consumption over time, the mean gram consumption significantly increased from 1973 to 1994 for those children who were in the medium (P<.001) to high (P<.0001) tertiles. The mean BMI significantly increased (P<.001) from 1973 to 1994 in children within all of the sweetened-beverage consumption groups; however, there were no significant differences in total BMI across the sweetened-beverage consumption groups. The total gram amount of milk consumption was significantly lower in the medium to high sweetened-beverage consumption groups compared with the lower to no sweetened-beverage consumption groups. Total energy intake remained unchanged from 1973 to 1994 within all four sweetened-beverage consumption groups. Total energy intake was significantly higher in the high sweetened-beverage consumption group compared with the other three sweetened-beverage consumption groups. Conclusions Children's sweetened-beverage consumption has changed over a 21-year period. The percentage of children consuming sweetened beverages decreased from 1973 to 1994, particularly consumption of soft drinks and coffee with sugar. Data suggest that there was no linear relationship between sweetened-beverage consumption and BMI and total energy intake. However, total milk consumption was lower in the medium to high sweetened-beverage consumption groups compared with the low to no consumption groups. More studies are needed to confirm these regional findings, which may not be reflective of national trends.
+C1 Baylor Coll Med, Dept Pediat, Childrens Nutr Res Ctr, Houston, TX 77030 USA.
+   Tulane Ctr Cardiovasc Hlth, Tulane Sch Publ Hlth & Trop Med, New Orleans, LA USA.
+C3 Baylor College of Medicine; Tulane University; Tulane University Hospital
+RP Baylor Coll Med, Dept Pediat, Childrens Nutr Res Ctr, 1100 Bates Ave, Houston, TX 77030 USA.
+EM tnicklas@bcm.tmc.edu
+FU NHLBI NIH HHS [R01 HL38844] Funding Source: Medline; NIA NIH HHS [AG16592] Funding Source: Medline
+CR Ariza AJ, 2004, J URBAN HEALTH, V81, P150, DOI 10.1093/jurban/jth091
+   Ballew C, 2000, ARCH PEDIAT ADOL MED, V154, P1148, DOI 10.1001/archpedi.154.11.1148
+   Berenson GS, 1986, CAUSATION CARDIOVASC, V0, P0
+   Berenson GS, 1980, CARDIOVASCULAR RISK FACTORS IN CHILDREN: THE EARLY NATURAL HISTORY OF ATHEROSCLEROSIS AND ESSENTIAL HYPERTENSION, V0, P0
+   Bowman SA, 1999, FAMILY EC NUTR REV, V12, P31
+   Bowman SA, 2002, J AM DIET ASSOC, V102, P1234, DOI 10.1016/S0002-8223(02)90273-7
+   Braam LAJLM, 1998, AM J EPIDEMIOL, V147, P1081, DOI 10.1093/oxfordjournals.aje.a009402
+   Bray GA, 1998, AM J CLIN NUTR, V68, P1157, DOI 10.1093/ajcn/68.6.1157
+   Briefel RR, 1997, AM J CLIN NUTR, V65, P1203
+   Cavadini C, 2000, ARCH DIS CHILD, V83, P18, DOI 10.1136/adc.83.1.18
+   Demory-Luce D, 2004, J AM DIET ASSOC, V104, P1684, DOI 10.1016/j.jada.2004.07.026
+   Farris R, 1993, TXB PEDIAT NUTR, V2nd, P505
+   Ferraro KF, 2003, J GERONTOL B-PSYCHOL, V58, PS110, DOI 10.1093/geronb/58.2.S110
+   Flegal KM, 2002, JAMA-J AM MED ASSOC, V288, P1723, DOI 10.1001/jama.288.14.1723
+   FLEMING KH, 1994, J NUTR, V124, PS1426, DOI 10.1093/jn/124.suppl_8.1426S
+   Forshee RA, 2003, INT J FOOD SCI NUTR, V54, P297, DOI 10.1080/09637480120092143
+   FRANK GC, 1977, J AM DIET ASSOC, V71, P26
+   Freedman DS, 1997, PEDIATRICS, V99, P420, DOI 10.1542/peds.99.3.420
+   FREEDMAN DS, 1987, AM J PUBLIC HEALTH, V77, P588, DOI 10.2105/AJPH.77.5.588
+   GERRIOR S, 1998, FOOD REV, V21, P29
+   Gibson SA, 1996, INT J FOOD SCI NUTR, V47, P405, DOI 10.3109/09637489609006954
+   GIDDING SS, 1995, J PEDIATR-US, V127, P868, DOI 10.1016/S0022-3476(95)70020-X
+   GUO SS, 1994, AM J CLIN NUTR, V59, P810, DOI 10.1093/ajcn/59.4.810
+   Harnack L, 1999, J AM DIET ASSOC, V99, P436, DOI 10.1016/S0002-8223(99)00106-6
+   Heerstrass DW, 1998, INT J EPIDEMIOL, V27, P186, DOI 10.1093/ije/27.2.186
+   Johansson G, 2001, PUBLIC HEALTH NUTR, V4, P919, DOI 10.1079/PHN2001124
+   Johnson RK, 1998, J AM DIET ASSOC, V98, P1136, DOI 10.1016/S0002-8223(98)00263-6
+   Johnson RK, 2002, J AM DIET ASSOC, V102, P853, DOI 10.1016/S0002-8223(02)90192-6
+   Ludwig DS, 2001, LANCET, V357, P505, DOI 10.1016/S0140-6736(00)04041-1
+   Macdiarmid JI, 1998, INT J OBESITY, V22, P1053, DOI 10.1038/sj.ijo.0800724
+   Moore MC, 1982, EXTENDED TABLE NUTR, V0, P0
+   Nicklas TA, 2003, AM J PREV MED, V25, P9, DOI 10.1016/S0749-3797(03)00098-9
+   Overby NC, 2004, PUBLIC HEALTH NUTR, V7, P285, DOI 10.1079/PHN2003515
+   Rampersaud GC, 2003, J AM DIET ASSOC, V103, P97, DOI 10.1053/jada.2003.50006
+   Roberts SB, 2002, J AM COLL NUTR, V21, P140S, DOI 10.1080/07315724.2002.10719211
+   SERDULA MK, 1993, PREV MED, V22, P167, DOI 10.1006/pmed.1993.1014
+   Storey ML, 2003, INT J FOOD SCI NUTR, V54, P491, DOI 10.1080/09637480310001622350
+   Thompson B, 1999, J AM DIET ASSOC, V99, P1241, DOI 10.1016/S0002-8223(99)00306-5
+   THOMPSON FE, 1994, J NUTR, V124, PS2245, DOI 10.1093/jn/124.suppl_11.2245s
+   TORDOFF MG, 1990, AM J CLIN NUTR, V51, P963, DOI 10.1093/ajcn/51.6.963
+   TROIANO RP, 1995, ARCH PEDIAT ADOL MED, V149, P1085, DOI 10.1001/archpedi.1995.02170230039005
+   Troiano RP, 2000, AM J CLIN NUTR, V72, P1343S, DOI 10.1093/ajcn/72.5.1343s
+   WEBBER LS, 1986, J CHRON DIS, V39, P91, DOI 10.1016/0021-9681(86)90065-2
+   Zemel MB, 2000, FASEB J, V14, P1132, DOI 10.1096/fasebj.14.9.1132
+NR 47
+TC 73
+Z9 88
+U1 0
+U2 7
+PU AMER DIETETIC ASSOC
+PI CHICAGO
+PA 120 S RIVERSIDE PLZ, STE 2000, CHICAGO, IL 60606-6995 USA
+SN 0002-8223
+EI 
+J9 J AM DIET ASSOC
+JI J. Am. Diet. Assoc.
+PD FEB 15
+PY 2005
+VL 105
+IS 2
+BP 208
+EP 214
+DI 10.1016/j.jada.2004.11.026
+PG 7
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 893QA
+UT WOS:000226733100009
+PM 15668676
+DA 2025-04-28
+ER
+
+PT J
+AU Murase, T
+   Haramizu, S
+   Shimotoyodome, A
+   Nagasawa, A
+   Tokimitsu, I
+AF Murase, T
+   Haramizu, S
+   Shimotoyodome, A
+   Nagasawa, A
+   Tokimitsu, I
+TI Green tea extract improves endurance capacity and increases muscle lipid oxidation in mice
+SO AMERICAN JOURNAL OF PHYSIOLOGY-REGULATORY INTEGRATIVE AND COMPARATIVE PHYSIOLOGY
+LA English
+DT Article
+DE catechins; epigallocatechin gallate; lipid metabolism; swimming
+ID chain fatty-acids; skeletal-muscle; insulin sensitivity; caffeine ingestion; n-acetylcysteine; free-radicals; exercise; metabolism; fatigue; obesity
+AB Green tea contains a high level of polyphenolic compounds known as catechins. We investigated the effects of green tea extract (GTE), which is rich in catechins, on endurance capacity, energy metabolism, and fat oxidation in BALB/c mice over a 10-wk period. Swimming times to exhaustion for mice fed 0.2-0.5% (wt/wt) GTE were prolonged by 8-24%. The effects were dose dependent and accompanied by lower respiratory quotients and higher rates of fat oxidation as determined by indirect calorimetry. In addition, feeding with GTE increased the level of beta-oxidation activity in skeletal muscle. Plasma lactate concentrations in mice fed GTE were significantly decreased after exercise, concomitant with increases in free fatty acid concentrations in plasma, suggesting an increased lipid use as an energy source in GTE-fed mice. Epigallocatechin gallate (EGCG), a major component of tea catechins, also enhanced endurance capacity, suggesting that the endurance-improving effects of GTE were mediated, at least in part, by EGCG. The beta-oxidation activity and the level of fatty acid translocase/CD36 mRNA in the muscle was higher in GTE-fed mice compared with control mice. These results indicate that GTE are beneficial for improving endurance capacity and support the hypothesis that the stimulation of fatty acid use is a promising strategy for improving endurance capacity.
+C1 Kao Corp, Biol Sci Labs, Ichikai, Tochigi 3213497, Japan.
+C3 KAO Corporation
+RP Kao Corp, Biol Sci Labs, 2606 Akabane, Ichikai, Tochigi 3213497, Japan.
+EM murase.takatoshi@kao.co.jp
+CR ALESSIO HM, 1993, MED SCI SPORT EXER, V25, P218, DOI 10.1249/00005768-199302000-00010
+   BARCLAY JK, 1991, CAN J PHYSIOL PHARM, V69, P279, DOI 10.1139/y91-043
+   Chyu KY, 2004, CIRCULATION, V109, P2448, DOI 10.1161/01.CIR.0000128034.70732.C2
+   Coburn CT, 2000, J BIOL CHEM, V275, P32523, DOI 10.1074/jbc.M003826200
+   COLLOMP K, 1991, INT J SPORTS MED, V12, P439, DOI 10.1055/s-2007-1024710
+   Costet P, 1998, J BIOL CHEM, V273, P29577, DOI 10.1074/jbc.273.45.29577
+   COSTILL DL, 1978, MED SCI SPORT EXER, V10, P155
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   GRAHAM TE, 1995, J APPL PHYSIOL, V78, P867, DOI 10.1152/jappl.1995.78.3.867
+   Guerre-Millo M, 2000, J BIOL CHEM, V275, P16638, DOI 10.1074/jbc.275.22.16638
+   Hawley JA, 1998, SPORTS MED, V25, P241, DOI 10.2165/00007256-199825040-00003
+   Horowitz JF, 2000, AM J CLIN NUTR, V72, P558S, DOI 10.1093/ajcn/72.2.558S
+   Howlett RA, 2003, J APPL PHYSIOL, V94, P1682, DOI 10.1152/japplphysiol.00556.2002
+   Ibrahimi A, 2002, CURR OPIN CLIN NUTR, V5, P139, DOI 10.1097/00075197-200203000-00004
+   Ishihara K, 2000, J NUTR, V130, P2990, DOI 10.1093/jn/130.12.2990
+   IVY JL, 1979, MED SCI SPORT EXER, V11, P6
+   Jeukendrup AE, 1998, INT J SPORTS MED, V19, P371, DOI 10.1055/s-2007-971932
+   Jeukendrup AE, 1998, INT J SPORTS MED, V19, P293, DOI 10.1055/s-2007-971921
+   Kim KM, 1998, J NUTR, V128, P1978, DOI 10.1093/jn/128.11.1978
+   Kim KM, 1997, BIOSCI BIOTECH BIOCH, V61, P1718, DOI 10.1271/bbb.61.1718
+   Kopelman PG, 2000, NATURE, V404, P635, DOI 10.1038/35007508
+   Lee HJ, 2002, BIOCHEM BIOPH RES CO, V296, P293, DOI 10.1016/S0006-291X(02)00822-7
+   LEIJTEN PAA, 1984, J PHYSIOL-LONDON, V357, P327, DOI 10.1113/jphysiol.1984.sp015502
+   LEW EA, 1979, J CHRON DIS, V32, P563, DOI 10.1016/0021-9681(79)90119-X
+   Matsumoto K, 1996, J APPL PHYSIOL, V81, P1843, DOI 10.1152/jappl.1996.81.4.1843
+   Mikami Y, 2002, J NEUROSURG, V97, P142, DOI 10.3171/spi.2002.97.1.0142
+   Miller Y D, 2004, J SCI MED SPORT, V7, P52, DOI 10.1016/S1440-2440(04)80278-0
+   Miura Y, 2001, J NUTR, V131, P27, DOI 10.1093/jn/131.1.27
+   Mizunoya W, 2002, BIOSCI BIOTECH BIOCH, V66, P1133, DOI 10.1271/bbb.66.1133
+   Murase T, 2002, INT J OBESITY, V26, P1459, DOI 10.1038/sj.ijo.0802141
+   NOVELLI GP, 1990, FREE RADICAL BIO MED, V8, P9, DOI 10.1016/0891-5849(90)90138-9
+   REID MB, 1994, J CLIN INVEST, V94, P2468, DOI 10.1172/JCI117615
+   REID MB, 1992, J APPL PHYSIOL, V73, P1797, DOI 10.1152/jappl.1992.73.5.1797
+   RiceEvans CA, 1996, FREE RADICAL BIO MED, V20, P933, DOI 10.1016/0891-5849(95)02227-9
+   Ryan DH, 2003, INT J CLIN PRACT, V0, P28
+   Schoonjans K, 1996, J LIPID RES, V37, P907
+   SHINDOH C, 1990, J APPL PHYSIOL, V68, P2107, DOI 10.1152/jappl.1990.68.5.2107
+   Shiota S, 1999, BIOL PHARM BULL, V22, P1388, DOI 10.1248/bpb.22.1388
+   SINGH H, 1994, J BIOL CHEM, V269, P9514
+   Stremmel W, 2001, LIPIDS, V36, P981, DOI 10.1007/s11745-001-0809-2
+   Terada S, 2002, BIOCHEM BIOPH RES CO, V296, P350, DOI 10.1016/S0006-291X(02)00881-1
+   Tunstall RJ, 2002, AM J PHYSIOL-ENDOC M, V283, PE66, DOI 10.1152/ajpendo.00475.2001
+   Valet P, 2002, J LIPID RES, V43, P835
+   Viña J, 2000, IUBMB LIFE, V50, P271, DOI 10.1080/15216540051080994
+   Wang YX, 2004, PLOS BIOL, V2, P1532, DOI 10.1371/journal.pbio.0020294
+   Willett WC, 1999, NEW ENGL J MED, V341, P427, DOI 10.1056/NEJM199908053410607
+   YANG CS, 1993, J NATL CANCER I, V85, P1038, DOI 10.1093/jnci/85.13.1038
+   ZHANG Y, 1990, J PHARMACOL EXP THER, V254, P757
+NR 49
+TC 176
+Z9 188
+U1 1
+U2 34
+PU AMER PHYSIOLOGICAL SOC
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, BETHESDA, MD 20814 USA
+SN 0363-6119
+EI 1522-1490
+J9 AM J PHYSIOL-REG I
+JI Am. J. Physiol.-Regul. Integr. Comp. Physiol.
+PD MAR 15
+PY 2005
+VL 288
+IS 3
+BP R708
+EP R715
+DI 10.1152/ajpregu.00693.2004
+PG 8
+WC Physiology
+SC Physiology
+GA 895AJ
+UT WOS:000226832800023
+PM 15563575
+DA 2025-04-28
+ER
+
+PT J
+AU Kubo, K
+   Kiyose, C
+   Ogino, S
+   Saito, M
+AF Kubo, K
+   Kiyose, C
+   Ogino, S
+   Saito, M
+TI Suppressive effect of Citrus aurantium against body fat accumulation and its safety
+SO JOURNAL OF CLINICAL BIOCHEMISTRY AND NUTRITION
+LA English
+DT Article
+DE Citrus aurantium; synephrine; dietary supplement; body fat accumulation; safety
+ID human beta-3-adrenergic receptor; molecular-cloning; down-regulation; adipose-tissue; synephrine; octopamine; extracts; obesity; plants; white
+AB A large number of so-called diet foods containing Citrus aurantium (CA) and its active constituent, synephrine, for suppressing body fat accumulation are currently on the market. However, only one human study has demonstrated the efficacy of CA, and its potential cardiotoxicity has been reported in a rat study. Therefore, we investigated the safety of CA and its suppressive effect against body fat accumulation in rats. High-fat (20% (w/w)) diets containing CA (synephrine content, 6.4%) at 0, 40, 200, 1,000, and 5,000 mg/kg diet were fed to rats ad libitum for 79 days. For dieting, the recommended daily intake of CA in many dietary supplements ranges from 100 to 1,000 mg/day, and the amount used in this experiment was approximately equivalent to 40 and/or 200 mg/kg diet. In the 5,000 mg/kg CA group, the adrenaline and dopamine concentrations in plasma were significantly higher, perirenal fat pad weight was significantly lower, and body weight tended to be lower than in the control group. Although no abnormalities of serum clinical and biochemical parameters were observed except for adrenaline and dopamine, and also no histopathological abnormalities were evident in the heart, heart weight in the 5,000 mg/kg CA group was significantly lower than in the control group. Therefore, it is necessary to examine more precisely the potential cardiotoxicity caused by excess intake of CA. Particularly, the elucidation of influences of the simultaneous intake of CA and some stimulants, such as caffeine, awaits further characterization.
+C1 Natl Inst Hlth & Nutr, Div Food Sci, Inc Adm Agcy, Shinjuku Ku, Tokyo 1628636, Japan.
+C3 National Institute of Health & Nutrition - Japan
+RP Saito, M (corresponding author), Natl Inst Hlth & Nutr, Div Food Sci, Inc Adm Agcy, Shinjuku Ku, 1-23-1 Toyama, Tokyo 1628636, Japan.
+EM msaito@nih.go.jp
+CR ATWATER WO, 1910, USDA FARMERS B, V142, P48
+   BRISTOW MR, 1986, CIRC RES, V59, P297, DOI 10.1161/01.RES.59.3.297
+   Calapai G, 1999, FITOTERAPIA, V70, P586, DOI 10.1016/S0367-326X(99)00093-3
+   Carpéné C, 1999, N-S ARCH PHARMACOL, V359, P310, DOI 10.1007/PL00005357
+   Carpéné C, 1998, ANN NY ACAD SCI, V839, P186, DOI 10.1111/j.1749-6632.1998.tb10756.x
+   Colker CM, 1999, CURR THER RES CLIN E, V60, P145, DOI 10.1016/S0011-393X(00)88523-9
+   DUNCAN DB, 1957, BIOMETRICS, V13, P164, DOI 10.2307/2527799
+   EMORINE LJ, 1989, SCIENCE, V245, P1118, DOI 10.1126/science.2570461
+   GRANNEMAN JG, 1991, MOL PHARMACOL, V40, P895
+   IBRAHIM KE, 1985, J NEUROCHEM, V44, P1862, DOI 10.1111/j.1471-4159.1985.tb07180.x
+   KUSU F, 1995, CHEM PHARM BULL, V43, P1158, DOI 10.1248/cpb.43.1158
+   LAFONTAN M, 1993, J LIPID RES, V34, P1057
+   LELIAS JM, 1993, FEBS LETT, V324, P127, DOI 10.1016/0014-5793(93)81377-C
+   Marcus DM, 2003, SCIENCE, V301, P1669
+   Moro CO, 2000, FITOTERAPIA, V71, PS73, DOI 10.1016/S0367-326X(00)00177-5
+   MUZZIN P, 1991, J BIOL CHEM, V266, P24053
+   NAHMIAS C, 1991, EMBO J, V10, P3721, DOI 10.1002/j.1460-2075.1991.tb04940.x
+   Nykamp DL, 2004, ANN PHARMACOTHER, V38, P812, DOI 10.1345/aph.1D473
+   Park JH, 1998, GEN COMP ENDOCR, V110, P88, DOI 10.1006/gcen.1997.7053
+   Parra AL, 2001, PHYTOMEDICINE, V8, P395, DOI 10.1078/0944-7113-00044
+   REEVES PG, 1993, J NUTR, V123, P1939, DOI 10.1093/jn/123.11.1939
+   Shirai Y, 2003, J CLIN BIOCHEM NUTR, V33, P53
+   STEWART I, 1964, J BIOL CHEM, V239, P930
+   WHEATLEY AM, 1985, J MOL CELL CARDIOL, V17, P349, DOI 10.1016/S0022-2828(85)80134-6
+   WHEATON TA, 1970, LLOYD, V33, P244
+NR 25
+TC 9
+Z9 9
+U1 0
+U2 4
+PU JOURNAL CLINICAL BIOCHEMISTRY & NUTRITION
+PI KYOTO
+PA KYOTO PREFECTURAL UNIV MED, GRAD SCH MEDICAL SCIENCE, DEPT MOLECULAR GASTROENTEROLOGY & HEPATOLOGY, KYOTO, 602-8566, JAPAN
+SN 0912-0009
+EI 1880-5086
+J9 J CLIN BIOCHEM NUTR
+JI J. Clin. Biochem. Nutr.
+PD JUN 15
+PY 2005
+VL 36
+IS 1
+BP 11
+EP 17
+DI 10.3164/jcbn.36.11
+PG 7
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 916QV
+UT WOS:000228401600002
+DA 2025-04-28
+ER
+
+PT J
+AU Diepvens, K
+   Kovacs, EMR
+   Nijs, IMT
+   Vogels, N
+   Westerterp-Plantenga, MS
+AF Diepvens, K
+   Kovacs, EMR
+   Nijs, IMT
+   Vogels, N
+   Westerterp-Plantenga, MS
+TI Effect of green tea on resting energy expenditure and substrate oxidation during weight loss in overweight females
+SO BRITISH JOURNAL OF NUTRITION
+LA English
+DT Article
+DE green tea; weight loss; resting energy expenditure; substrate oxidation
+ID total-body water; catechin-polyphenols; caffeine consumption; semisolid meal; metabolic-rate; guar gum; maintenance; fat; thermogenesis; appetite
+AB We assessed the effect of ingestion of green tea (GT) extract along with a low-energy diet (LED) on resting energy expenditure (REE), substrate oxidation and body weight as GT has been shown to increase energy expenditure and fat oxidation in the short term in both animals and people. Forty-six overweight women (BMI 27 center dot 6 (sd 1 center dot 8) kg/m(2)) were fed in energy balance from day 1 to day 3, followed by a LED with GT (1125 mg tea catechins +225 mg caffeine/d) or placebo (PLAC) from day 4 to day 87. Caffeine intake was standardised to 300 mg/d. Energy expenditure was measured on days 4 and 32. Reductions in weight (4 center dot 19 (sd 2 center dot 0) kg PLAC, 4 center dot 21 (sd 2 center dot 7) kg GT), BMI, waist:hip ratio, fat mass and fat-free mass were not statistically different between treatments. REE as a function of fat-free mass and fat mass was significantly reduced over 32 d in the PLAC group (P < 0 center dot 05) but not in the GT group. Dietary restraint increased over time (P < 0 center dot 001) in both groups, whereas disinhibition and general hunger decreased (P < 0 center dot 05). The GT group became more hungry over time and less thirsty, and showed increased prospective food consumption compared with PLAC (P < 0 center dot 05). Taken together, the ingestion of GT along with a LED had no additional benefit for any measures of body weight or body composition. Although the decrease in REE as a function of fat-free mass and fat mass was not significant with GT treatment, whereas it was with PLAC treatment, no significant effect of treatment over time was seen, suggesting that a robust limitation of REE reduction during a LED was not achieved by GT.
+C1 Maastricht Univ, Maastricht, Netherlands.
+   Unilever Res Labs, Unilever Food & Hlth Res Inst, Vlaardingen, Netherlands.
+C3 Maastricht University; Unilever
+RP Maastricht Univ, Maastricht, Netherlands.
+EM K.Diepvens@HB.Unimaas.NL
+CR ASTRUP A, 1990, AM J CLIN NUTR, V51, P759, DOI 10.1093/ajcn/51.5.759
+   Astrup A, 1999, AM J CLIN NUTR, V69, P1117
+   BORCHARDT RT, 1975, J MED CHEM, V18, P120, DOI 10.1021/jm00235a030
+   BRACCO D, 1995, AM J PHYSIOL-ENDOC M, V269, PE671, DOI 10.1152/ajpendo.1995.269.4.E671
+   Chantre P, 2002, PHYTOMEDICINE, V9, P3, DOI 10.1078/0944-7113-00078
+   Dulloo AG, 2000, INT J OBESITY, V24, P252, DOI 10.1038/sj.ijo.0801101
+   DULLOO AG, 1989, AM J CLIN NUTR, V49, P44, DOI 10.1093/ajcn/49.1.44
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   DULLOO AG, 1992, METABOLISM, V41, P1233, DOI 10.1016/0026-0495(92)90015-3
+   GRAHAM HN, 1992, PREV MED, V21, P334, DOI 10.1016/0091-7435(92)90041-F
+   Hase T, 2001, JOURNAL OF OLEO SCIENCE, V50, P599, DOI 10.5650/jos.50.599
+   Hodgson JM, 1999, J HYPERTENS, V17, P457, DOI 10.1097/00004872-199917040-00002
+   Hulshof KFAM, 2003, EUR J CLIN NUTR, V57, P128, DOI 10.1038/sj.ejcn.1601503
+   Kao YH, 2000, ENDOCRINOLOGY, V141, P980, DOI 10.1210/en.141.3.980
+   Kovacs EMR, 2004, BRIT J NUTR, V91, P431, DOI 10.1079/BJN20041061
+   Kovacs EMR, 2002, EUR J CLIN NUTR, V56, P771, DOI 10.1038/sj.ejcn.1601407
+   Kovacs EMR, 2001, INT J OBESITY, V25, P307, DOI 10.1038/sj.ijo.0801546
+   LEJEUNE MPG, 2003, BR J NUTR, V90, P1
+   LICHTENBELT WDV, 1994, BRIT J NUTR, V72, P491, DOI 10.1079/BJN19940053
+   Menozzi R, 2000, BRIT J NUTR, V84, P515
+   Nagao T, 2005, AM J CLIN NUTR, V81, P122
+   Nagao T, 2001, JOURNAL OF OLEO SCIENCE, V50, P717
+   Pasman WJ, 1999, METABOLISM, V48, P15, DOI 10.1016/S0026-0495(99)90004-5
+   Pasman WJ, 1999, OBES RES, V7, P43, DOI 10.1002/j.1550-8528.1999.tb00389.x
+   RAVUSSIN E, 1992, AM J CLIN NUTR, V55, P242
+   RAVUSSIN E, 1988, NEW ENGL J MED, V318, P467, DOI 10.1056/NEJM198802253180802
+   Rayner DV, 2001, J MOL MED, V79, P8, DOI 10.1007/s001090100198
+   SCHOELLER DA, 1980, AM J CLIN NUTR, V33, P2686, DOI 10.1093/ajcn/33.12.2686
+   Schoffelen PFM, 1997, J APPL PHYSIOL, V83, P2064, DOI 10.1152/jappl.1997.83.6.2064
+   STUNKARD AJ, 1985, J PSYCHOSOM RES, V29, P71, DOI 10.1016/0022-3999(85)90010-8
+   Stunkard AJ, 1996, AM J MED, V100, P230, DOI 10.1016/S0002-9343(97)89464-8
+   Trayhurn P, 1999, INT J OBESITY, V23, P22, DOI 10.1038/sj.ijo.0800791
+   Trayhurn P, 2001, INT J OBESITY, V25, PS26, DOI 10.1038/sj.ijo.0801692
+   TSUCHIDA T, 2002, PROGR MED, V22, P2189
+   van Boxtel MPJ, 2003, PHARMACOL BIOCHEM BE, V75, P921, DOI 10.1016/S0091-3057(03)00171-0
+   van Dam RM, 2002, LANCET, V360, P1477, DOI 10.1016/S0140-6736(02)11436-X
+   WADDEN TA, 1988, J CONSULT CLIN PSYCH, V56, P925, DOI 10.1037/0022-006X.56.6.925
+   WEIR JBD, 1949, J PHYSIOL-LONDON, V109, P1, DOI 10.1113/jphysiol.1949.sp004363
+   Weisburger JH, 1997, CANCER LETT, V114, P315, DOI 10.1016/S0304-3835(97)04691-0
+   WESTERTERP KR, 1995, OBES RES, V3, P49, DOI 10.1002/j.1550-8528.1995.tb00007.x
+   WESTERTERP KR, 1995, BRIT J NUTR, V73, P337, DOI 10.1079/BJN19950037
+   Westerterp-Plantenga MS, 1998, INT J OBESITY, V22, P1, DOI 10.1038/sj.ijo.0800536
+   WHO Consultation, 2000, WHO TECH REP SER, V894, P1
+   Yoshioka M, 2001, BRIT J NUTR, V85, P203, DOI 10.1079/BJN2000224
+NR 44
+TC 102
+Z9 111
+U1 0
+U2 28
+PU CAMBRIDGE UNIV PRESS
+PI CAMBRIDGE
+PA EDINBURGH BLDG, SHAFTESBURY RD, CB2 8RU CAMBRIDGE, ENGLAND
+SN 0007-1145
+EI 1475-2662
+J9 BRIT J NUTR
+JI Br. J. Nutr.
+PD DEC 15
+PY 2005
+VL 94
+IS 6
+BP 1026
+EP 1034
+DI 10.1079/BJN20051580
+PG 9
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 992WC
+UT WOS:000233913700024
+PM 16351782
+DA 2025-04-28
+ER
+
+PT J
+AU Lee, S
+   Hudson, R
+   Kilpatrick, K
+   Graham, TE
+   Ross, R
+AF Lee, S
+   Hudson, R
+   Kilpatrick, K
+   Graham, TE
+   Ross, R
+TI Caffeine ingestion is associated with reductions in glucose uptake independent of obesity and type 2 diabetes before and after exercise training
+SO DIABETES CARE
+LA English
+DT Article
+ID insulin sensitivity; tolerance test; weight-loss; coffee consumption; induced impairment; controlled-trial; skeletal-muscle; men; resistance; humans
+AB OBJECTIVE - We investigated the effect of caffeine ingestion oil insulin sensitivity in sedentary lean men (n = 8) and obese men with (n = 7) and without (11 = 8) type 2 diabetes. We also examined whether chronic exercise influences the relationship between caffeine and insulin sensitivity in these individuals. RESEARCH DESIGN AND METHODS - Subjects underwent two hyperinsulinemic-euglycemic clamp procedures, caffeine (5 mg/kg body wt) and placebo, in a double-blind, randomized manner before and after a 3-month aerobic exercise program. Body composition was measured by magnetic resonance imaging. RESULTS - At baseline, caffeine ingestion was associated with a significant reduction (P < 0.05) in insulin sensitivity by a similar magnitude in the lean (33%), obese (33%), and type 2 diabetic (37%) groups in comparison with placebo. After exercise training, caffeine ingestion was Still associated with a reduction (P < 0.05) in insulin sensitivity by a similar magnitude in the lean (23%), obese (26%), and type 2 diabetic (36%) groups in comparison with placebo, Exercise was not associated with a significant increase in insulin sensitivity in either the caffeine or placebo trials, independent of group (P > 0.10). CONCLUSIONS - Caffeine consumption is associated with a substantial reduction in insulin-mediated glucose uptake independent of obesity, type 2 diabetes, and chronic exercise.
+C1 Queens Univ, Sch Phys & Hlth Educ, Kingston, ON K7L 3N6, Canada.
+   Queens Univ, Div Endocrinol & Metab, Dept Med, Kingston, ON, Canada.
+   Queens Univ, Div Geriatr, Dept Med, Kingston, ON, Canada.
+   Univ Guelph, Dept Human Biol & Nutr Sci, Guelph, ON N1G 2W1, Canada.
+C3 Queens University - Canada; Queens University - Canada; Queens University - Canada; University of Guelph
+RP Queens Univ, Sch Phys & Hlth Educ, Kingston, ON K7L 3N6, Canada.
+EM rossr@post.queensu.ca
+CR Arnaud MJ, 1993, CAFFEINE COFFEE HLTH, V0, P43
+   BARON AD, 1987, J CLIN ENDOCR METAB, V64, P889, DOI 10.1210/jcem-64-5-889
+   BOGARDUS C, 1984, DIABETES, V33, P311, DOI 10.2337/diabetes.33.4.311
+   Brown J, 2001, AM J EPIDEMIOL, V153, P815, DOI 10.1093/aje/153.8.815
+   Cuff DJ, 2003, DIABETES CARE, V26, P2977, DOI 10.2337/diacare.26.11.2977
+   DEIBERT DC, 1980, J CLIN INVEST, V65, P717, DOI 10.1172/JCI109718
+   Dengel DR, 1996, J APPL PHYSIOL, V81, P318, DOI 10.1152/jappl.1996.81.1.318
+   Duncan GE, 2003, DIABETES CARE, V26, P557, DOI 10.2337/diacare.26.3.557
+   Graham TE, 2001, CAN J PHYSIOL PHARM, V79, P559, DOI 10.1139/cjpp-79-7-559
+   Greer F, 2001, DIABETES, V50, P2349, DOI 10.2337/diabetes.50.10.2349
+   Han DH, 1998, DIABETES, V47, P1671, DOI 10.2337/diabetes.47.11.1671
+   Harland BF, 2000, NUTRITION, V16, P522, DOI 10.1016/S0899-9007(00)00369-5
+   Harris J, 1919, BIOMETRIC STUDY BASA, V0, P0
+   HUGHES VA, 1993, AM J PHYSIOL, V264, PE855, DOI 10.1152/ajpendo.1993.264.6.E855
+   Keijzers GB, 2002, DIABETES CARE, V25, P364, DOI 10.2337/diacare.25.2.364
+   Lopez-Ridaura R, 2004, DIABETES CARE, V27, P134, DOI 10.2337/diacare.27.1.134
+   MILES J, 1983, J LIPID RES, V24, P96
+   NUUTILA P, 1995, DIABETES, V44, P31, DOI 10.2337/diabetes.44.1.31
+   Perseghin G, 1996, NEW ENGL J MED, V335, P1357, DOI 10.1056/NEJM199610313351804
+   Petrie HJ, 2004, AM J CLIN NUTR, V80, P22
+   Pizziol A, 1998, EUR J CLIN NUTR, V52, P846, DOI 10.1038/sj.ejcn.1600657
+   Rice B, 1999, DIABETES CARE, V22, P684, DOI 10.2337/diacare.22.5.684
+   Robinson LE, 2004, J NUTR, V134, P2528, DOI 10.1093/jn/134.10.2528
+   Rodríguez-Morán M, 2003, DIABETES CARE, V26, P1147, DOI 10.2337/diacare.26.4.1147
+   Ross R, 2004, OBES RES, V12, P789, DOI 10.1038/oby.2004.95
+   ROSS R, 1992, J APPL PHYSIOL, V72, P787, DOI 10.1152/jappl.1992.72.2.787
+   Ross R, 2000, EXERC SPORT SCI REV, V28, P165
+   Salazar-Martinez E, 2004, ANN INTERN MED, V140, P1, DOI 10.7326/0003-4819-140-1-200401060-00005
+   SEGAL KR, 1991, J APPL PHYSIOL, V71, P2402, DOI 10.1152/jappl.1991.71.6.2402
+   Shearer J, 2003, J NUTR, V133, P3529, DOI 10.1093/jn/133.11.3529
+   Snyder WS, 1974, REPORT TASK GROUP RE, V0, P0
+   Thong FSL, 2002, J APPL PHYSIOL, V92, P2347, DOI 10.1152/japplphysiol.01229.2001
+   Thong FSL, 2002, DIABETES, V51, P583, DOI 10.2337/diabetes.51.3.583
+   Tuomilehto J, 2004, JAMA-J AM MED ASSOC, V291, P1213, DOI 10.1001/jama.291.10.1213
+   VERGAUWEN L, 1994, J CLIN INVEST, V93, P974, DOI 10.1172/JCI117104
+NR 35
+TC 75
+Z9 80
+U1 0
+U2 19
+PU AMER DIABETES ASSOC
+PI ALEXANDRIA
+PA 1701 N BEAUREGARD ST, ALEXANDRIA, VA 22311-1717 USA
+SN 0149-5992
+EI 1935-5548
+J9 DIABETES CARE
+JI Diabetes Care
+PD MAR 15
+PY 2005
+VL 28
+IS 3
+BP 566
+EP 572
+DI 10.2337/diacare.28.3.566
+PG 7
+WC Endocrinology & Metabolism
+SC Endocrinology & Metabolism
+GA 903ME
+UT WOS:000227429200011
+PM 15735189
+DA 2025-04-28
+ER
+
+PT J
+AU Wolfram, S
+   Raederstorff, D
+   Wang, Y
+   Teixeira, SR
+   Elste, V
+   Weber, P
+AF Wolfram, S
+   Raederstorff, D
+   Wang, Y
+   Teixeira, SR
+   Elste, V
+   Weber, P
+TI TEAVIGO™ (epigallocatechin gallate) supplementation prevents obesity in rodents by reducing adipose tissue mass
+SO ANNALS OF NUTRITION AND METABOLISM
+LA English
+DT Article
+DE TEAVIGO (TM); epigallocatechin gallate; obesity; adipose tissue; rodents; gene expression; green tea; catechin
+ID green tea; catechin-polyphenols; diabetes-mellitus; fat oxidation; in-vitro; rats; inhibition; prevalence; absorption; caffeine
+AB Background: This study investigated the antiobesity effects of TEAVIGO(TM), a product providing the most abundant green tea catechin, epigallocatechin gallate ( EGCG), in a pure form. Two models of diet-induced obesity and an in vitro adipocyte differentiation assay were employed. Methods: Prevention and regression of diet-induced obesity by dietary supplementation with EGCG was studied in C57BL/6J mice and Sprague-Dawley rats, respectively. Expression of genes regulating lipid metabolism was assessed in adipose tissue. The effects of EGCG on adipocyte differentiation were investigated in vitro. Results: In C57BL/6J mice, EGCG supplementation prevented diet-induced increases in body weight and in fed state plasma levels of glucose, triglycerides, and leptin. EGCG decreased subcutaneous and epididymal adipose tissue weights. Supplementation of EGCG reversed the established obesity in Sprague-Dawley rats. Fatty acid synthase and acetyl-CoA carboxylase-1 mRNA levels were markedly decreased in adipose tissue of EGCG-supplemented mice. EGCG dose dependently inhibited adipocyte differentiation in vitro. Conclusion: This study shows for the first time that supplementation with the most abundant green tea polyphenol, EGCG, abolishes diet-induced obesity. This effect is at least partly mediated via a direct influence on adipose tissue. Thus, dietary supplementation with EGCG should be considered as a valuable natural treatment option for obesity. Copyright (C) 2005 S. Karger AG, Basel.
+C1 DSM Nutr Prod Ltd, Dept Human Nutr & Hlth, CH-4002 Basel, Switzerland.
+C3 DSM NV
+RP Wolfram, S (corresponding author), DSM Nutr Prod Ltd, Dept Human Nutr & Hlth, Bldg 205-020,POB 3255, CH-4002 Basel, Switzerland.
+EM swen.wolfram@dsm.com
+CR Abu-Elheiga L, 2003, P NATL ACAD SCI USA, V100, P10207, DOI 10.1073/pnas.1733877100
+   Allison DB, 1999, JAMA-J AM MED ASSOC, V282, P1530, DOI 10.1001/jama.282.16.1530
+   Chen LS, 1997, DRUG METAB DISPOS, V25, P1045
+   Dulloo AG, 2000, INT J OBESITY, V24, P252, DOI 10.1038/sj.ijo.0801101
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   Flegal KM, 2002, JAMA-J AM MED ASSOC, V288, P1723, DOI 10.1001/jama.288.14.1723
+   Goran MI, 2003, J CLIN ENDOCR METAB, V88, P1417, DOI 10.1210/jc.2002-021442
+   HARA Y, 1990, AGR BIOL CHEM TOKYO, V54, P1939, DOI 10.1080/00021369.1990.10870239
+   Juhel C, 2000, J NUTR BIOCHEM, V11, P45, DOI 10.1016/S0955-2863(99)00070-4
+   Jung YD, 2001, INT J EXP PATHOL, V82, P309, DOI 10.1046/j.1365-2613.2001.00205.x
+   Kao YH, 2000, ENDOCRINOLOGY, V141, P980, DOI 10.1210/en.141.3.980
+   Kavanagh KT, 2001, J CELL BIOCHEM, V82, P387, DOI 10.1002/jcb.1164
+   Kobayashi Y, 2000, J AGR FOOD CHEM, V48, P5618, DOI 10.1021/jf0006832
+   MATSUMOTO N, 1993, BIOSCI BIOTECH BIOCH, V57, P525, DOI 10.1271/bbb.57.525
+   Murase T, 2002, INT J OBESITY, V26, P1459, DOI 10.1038/sj.ijo.0802141
+   Ntambi JM, 2002, P NATL ACAD SCI USA, V99, P11482, DOI 10.1073/pnas.132384699
+   Osada K, 2001, COMP BIOCHEM PHYS C, V128, P153, DOI 10.1016/S1532-0456(00)00192-7
+   Raederstorff DG, 2003, J NUTR BIOCHEM, V14, P326, DOI 10.1016/S0955-2863(03)00054-8
+   Rios MS, 1998, EUR J CLIN INVEST, V28, P14
+   Rumpler W, 2001, J NUTR, V131, P2848, DOI 10.1093/jn/131.11.2848
+   Sano M, 2001, ANALYST, V126, P816, DOI 10.1039/b102541b
+   Sartippour MR, 2002, J NUTR, V132, P2307, DOI 10.1093/jn/132.8.2307
+   Seidell JC, 2002, J ENDOCRINOL INVEST, V25, P816, DOI 10.1007/BF03344045
+   Sheard NF, 2003, NUTR REV, V61, P76, DOI 10.1301/nr.2003.febr.76-79
+   Shimizu M, 2000, BIOFACTORS, V13, P61, DOI 10.1002/biof.5520130111
+   Sueoka N, 2001, ANN NY ACAD SCI, V928, P274
+   Ullmann U, 2003, J INT MED RES, V31, P88, DOI 10.1177/147323000303100205
+   Visscher TLS, 2001, ANNU REV PUBL HEALTH, V22, P355, DOI 10.1146/annurev.publhealth.22.1.355
+NR 28
+TC 173
+Z9 197
+U1 1
+U2 23
+PU KARGER
+PI BASEL
+PA ALLSCHWILERSTRASSE 10, CH-4009 BASEL, SWITZERLAND
+SN 0250-6807
+EI 
+J9 ANN NUTR METAB
+JI Ann. Nutr. Metab.
+PD JUN 15
+PY 2005
+VL 49
+IS 1
+BP 54
+EP 63
+DI 10.1159/000084178
+PG 10
+WC Endocrinology & Metabolism; Nutrition & Dietetics
+SC Endocrinology & Metabolism; Nutrition & Dietetics
+GA 920DZ
+UT WOS:000228670900009
+PM 15735368
+DA 2025-04-28
+ER
+
+PT J
+AU Schulze, MB
+   Hu, FB
+AF Schulze, MB
+   Hu, FB
+TI Primary prevention of diabetes: What can be done and how much can be prevented?
+SO ANNUAL REVIEW OF PUBLIC HEALTH
+LA English
+DT Review; Book Chapter
+ID impaired glucose-tolerance; coronary-heart-disease; time physical-activity; body-fat distribution; dietary fiber intake; moderate alcohol-consumption; fructose corn syrup; whole-grain intake; 20-year follow-up; aged finnish men
+AB Although it is widely believed that type 2 diabetes mellitus is the result of a complex interplay between genetic and environmental factors, compelling evidence from epidemiologic studies indicates that the current worldwide diabetes epidemic is largely due to changes in diet and lifestyle. Prospective cohort studies and randomized clinical trials have demonstrated that type 2 diabetes can be prevented largely through moderate diet and lifestyle modifications. Excess adiposity is the most important risk factor for diabetes, and thus, maintaining a healthy body weight and avoiding weight gain during adulthood is the cornerstone of diabetes prevention. Increasing physical activity and reducing sedentary behaviors such as prolonged TV watching are important both for maintaining body weight and improving insulin sensitivity. There is increasing evidence that the quality of fat and carbohydrate plays a more important role than does the quantity, and thus, public health strategies should emphasize replacing saturated and trans fats with unsaturated fats and replacing refined grain products with whole grains. Recent studies have also suggested a potential role for coffee, dairy, nuts, magnesium, and calcium in preventing diabetes. Overall, a healthy diet, together with regular physical activity, maintenance of a healthy weight, moderate alcohol consumption, and avoidance of sedentary behaviors and smoking, could nearly eliminate type 2 diabetes. However, there is still a wide gap between what we know and what we practice in the field of public health; how to narrow that gap remains a major public health challenge.
+C1 Harvard Univ, Sch Publ Hlth, Dept Nutr, Boston, MA 02115 USA.
+   Harvard Univ, Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+   Brigham & Womens Hosp, Dept Med, Channing Lab, Boston, MA 02115 USA.
+   Harvard Univ, Sch Med, Boston, MA 02115 USA.
+C3 Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Harvard University Medical Affiliates; Brigham & Women's Hospital; Harvard University; Harvard Medical School
+RP Harvard Univ, Sch Publ Hlth, Dept Nutr, Boston, MA 02115 USA.
+EM mschulze@mail.dife.de; frank.hu@channing.harvard.edu
+CR Ajani UA, 2000, ARCH INTERN MED, V160, P1025, DOI 10.1001/archinte.160.7.1025
+   Unknown -, 2003, WORLD HLTH REP 2002, V0, P0
+   BALKAU B, 1985, AM J EPIDEMIOL, V122, P594, DOI 10.1093/oxfordjournals.aje.a114139
+   Bray GA, 2004, AM J CLIN NUTR, V79, P537
+   Buchanan TA, 2002, DIABETES, V51, P2796, DOI 10.2337/diabetes.51.9.2796
+   BUTLER WJ, 1982, AM J EPIDEMIOL, V116, P971, DOI 10.1093/oxfordjournals.aje.a113499
+   Carey VJ, 1997, AM J EPIDEMIOL, V145, P614, DOI 10.1093/oxfordjournals.aje.a009158
+   Carlsson S, 2003, DIABETES CARE, V26, P2785, DOI 10.2337/diacare.26.10.2785
+   Chandalia M, 2000, NEW ENGL J MED, V342, P1392, DOI 10.1056/NEJM200005113421903
+   Chiasson JL, 2002, LANCET, V359, P2072, DOI 10.1016/S0140-6736(02)08905-5
+   Christiansen E, 1997, DIABETES CARE, V20, P881, DOI 10.2337/diacare.20.5.881
+   COLDITZ GA, 1992, AM J CLIN NUTR, V55, P1018, DOI 10.1093/ajcn/55.5.1018
+   COLDITZ GA, 1995, ANN INTERN MED, V122, P481, DOI 10.7326/0003-4819-122-7-199504010-00001
+   COLLINS VR, 1994, DIABETES CARE, V17, P288, DOI 10.2337/diacare.17.4.288
+   Conigrave KM, 2001, DIABETES, V50, P2390, DOI 10.2337/diabetes.50.10.2390
+   Cordain L, 2000, METABOLISM, V49, P1473, DOI 10.1053/meta.2000.17672
+   Davies MJ, 2002, JAMA-J AM MED ASSOC, V287, P2559, DOI 10.1001/jama.287.19.2559
+   de Vegt F, 2002, DIABETES RES CLIN PR, V57, P53, DOI 10.1016/S0168-8227(02)00013-X
+   Duncan GE, 2003, DIABETES CARE, V26, P557, DOI 10.2337/diacare.26.3.557
+   Eliasson B, 1997, EUR J CLIN INVEST, V27, P450, DOI 10.1046/j.1365-2362.1997.1330680.x
+   Eliasson M, 2004, J INTERN MED, V256, P101, DOI 10.1111/j.1365-2796.2004.01344.x
+   FESKENS EJM, 1989, AM J EPIDEMIOL, V130, P1101, DOI 10.1093/oxfordjournals.aje.a115437
+   FESKENS EJM, 1995, DIABETES CARE, V18, P1104, DOI 10.2337/diacare.18.8.1104
+   Field AE, 2004, OBES RES, V12, P267, DOI 10.1038/oby.2004.34
+   Flanagan DEH, 2002, EUR J CLIN INVEST, V32, P187, DOI 10.1046/j.1365-2362.2002.00970.x
+   Ford ES, 2001, PREV MED, V32, P33, DOI 10.1006/pmed.2000.0772
+   Foster GD, 2003, NEW ENGL J MED, V348, P2082, DOI 10.1056/NEJMoa022207
+   Freeman DJ, 2001, CIRCULATION, V103, P357
+   FUKAGAWA NK, 1990, AM J CLIN NUTR, V52, P524, DOI 10.1093/ajcn/52.3.524
+   Fung TT, 2002, AM J CLIN NUTR, V76, P535, DOI 10.1093/ajcn/76.3.535
+   FUNG TT, 2004, IN PRESS ARCH INTERN, V0, P0
+   GOHDES D, 1993, DIABETES CARE, V16, P239, DOI 10.2337/diacare.16.1.239
+   GURWITZ JH, 1994, J AM GERIATR SOC, V42, P1235, DOI 10.1111/j.1532-5415.1994.tb06503.x
+   Haapanen N, 1997, INT J EPIDEMIOL, V26, P739, DOI 10.1093/ije/26.4.739
+   Harding AH, 2004, AM J EPIDEMIOL, V159, P73, DOI 10.1093/aje/kwh004
+   HELMRICH SP, 1991, NEW ENGL J MED, V325, P147, DOI 10.1056/NEJM199107183250302
+   Herman WH, 2003, DIABETES CARE, V26, P36
+   HODGE AM, 1993, AM J EPIDEMIOL, V137, P178, DOI 10.1093/oxfordjournals.aje.a116658
+   HODGE AM, 1994, INT J OBESITY, V18, P419
+   HOLBROOK TL, 1990, AM J EPIDEMIOL, V132, P902, DOI 10.1093/oxfordjournals.aje.a115733
+   Howard AA, 2004, ANN INTERN MED, V140, P211, DOI 10.7326/0003-4819-140-6-200403160-00011
+   Hu FB, 2001, NEW ENGL J MED, V345, P790, DOI 10.1056/NEJMoa010492
+   Hu FB, 1999, JAMA-J AM MED ASSOC, V282, P1433, DOI 10.1001/jama.282.15.1433
+   Hu FB, 2001, DIABETOLOGIA, V44, P805, DOI 10.1007/s001250100547
+   Hu FB, 2003, JAMA-J AM MED ASSOC, V289, P1785, DOI 10.1001/jama.289.14.1785
+   Hu FB, 2001, ARCH INTERN MED, V161, P1542, DOI 10.1001/archinte.161.12.1542
+   Hu G, 2004, ARCH INTERN MED, V164, P892, DOI 10.1001/archinte.164.8.892
+   Hu G, 2003, DIABETOLOGIA, V46, P322, DOI 10.1007/s00125-003-1031-x
+   JENKINS DJA, 1981, AM J CLIN NUTR, V34, P362, DOI 10.1093/ajcn/34.3.362
+   Jéquier E, 2002, AM J MED, V113, P41, DOI 10.1016/S0002-9343(01)00991-3
+   Jiang R, 2004, JAMA-J AM MED ASSOC, V291, P711, DOI 10.1001/jama.291.6.711
+   Jiang R, 2004, AM J CLIN NUTR, V79, P70
+   Jiang R, 2002, JAMA-J AM MED ASSOC, V288, P2554, DOI 10.1001/jama.288.20.2554
+   Juntunen KS, 2003, AM J CLIN NUTR, V77, P385
+   Kao WHL, 1999, ARCH INTERN MED, V159, P2151, DOI 10.1001/archinte.159.18.2151
+   Kao WHL, 2001, AM J EPIDEMIOL, V154, P748, DOI 10.1093/aje/154.8.748
+   Kawakami N, 1997, AM J EPIDEMIOL, V145, P103
+   KAYE SA, 1991, J CLIN EPIDEMIOL, V44, P329, DOI 10.1016/0895-4356(91)90044-A
+   Keenan Joseph M, 2002, J FAM PRACT, V51, P369
+   Klonoff DC, 2000, DIABETES CARE, V23, P390, DOI 10.2337/diacare.23.3.390
+   Knowler WC, 2002, NEW ENGL J MED, V346, P393, DOI 10.1056/nejmoa012512
+   Koh-Banerjee P, 2004, AM J EPIDEMIOL, V159, P1150, DOI 10.1093/aje/kwh167
+   Kriska AM, 2003, AM J EPIDEMIOL, V158, P669, DOI 10.1093/aje/kwg191
+   Lee DH, 2004, DIABETOLOGIA, V47, P185, DOI 10.1007/s00125-003-1307-1
+   Lichtenstein AH, 2003, ATHEROSCLEROSIS, V171, P97, DOI 10.1016/j.atherosclerosis.2003.07.005
+   Lichtenstein AH, 2000, ATHEROSCLEROSIS, V150, P227, DOI 10.1016/S0021-9150(99)00504-3
+   Lindholm LH, 2002, J HYPERTENS, V20, P1879, DOI 10.1097/00004872-200209000-00035
+   Liu SM, 2002, J AM COLL NUTR, V21, P298, DOI 10.1080/07315724.2002.10719227
+   Liu SM, 2000, AM J PUBLIC HEALTH, V90, P1409, DOI 10.2105/AJPH.90.9.1409
+   Lopez-Ridaura R, 2004, DIABETES CARE, V27, P134, DOI 10.2337/diacare.27.1.134
+   Louheranta AM, 1999, METABOLISM, V48, P870, DOI 10.1016/S0026-0495(99)90221-4
+   Lovejoy JC, 2002, DIABETES CARE, V25, P1283, DOI 10.2337/diacare.25.8.1283
+   Lu WQ, 2003, METABOLISM, V52, P129, DOI 10.1053/meta.2003.50020
+   Ludwig DS, 2001, LANCET, V357, P505, DOI 10.1016/S0140-6736(00)04041-1
+   LUNDGREN H, 1989, INT J OBESITY, V13, P413
+   MANSON JE, 1994, AM J PREV MED, V10, P172, DOI 10.1016/S0749-3797(18)30615-9
+   MANSON JE, 1991, LANCET, V338, P774, DOI 10.1016/0140-6736(91)90664-B
+   MARSHALL JA, 1994, DIABETES CARE, V17, P50, DOI 10.2337/diacare.17.1.50
+   Mayer-Davis EJ, 1998, JAMA-J AM MED ASSOC, V279, P669, DOI 10.1001/jama.279.9.669
+   MCPHILLIPS JB, 1990, AM J EPIDEMIOL, V131, P443, DOI 10.1093/oxfordjournals.aje.a115519
+   MEDALIE JH, 1975, ARCH INTERN MED, V135, P811, DOI 10.1001/archinte.135.6.811
+   Meyer KA, 2000, AM J CLIN NUTR, V71, P921
+   Meyer KA, 2001, DIABETES CARE, V24, P1528, DOI 10.2337/diacare.24.9.1528
+   MONTERROSA AE, 1995, DIABETES CARE, V18, P448, DOI 10.2337/diacare.18.4.448
+   Montonen J, 2003, AM J CLIN NUTR, V77, P622, DOI 10.1093/ajcn/77.3.622
+   Nakanishi N, 2003, DIABETES CARE, V26, P48, DOI 10.2337/diacare.26.1.48
+   NEEL JV, 1962, AM J HUM GENET, V14, P353
+   OHLSON LO, 1988, DIABETOLOGIA, V31, P798
+   OHLSON LO, 1985, DIABETES, V34, P1055, DOI 10.2337/diabetes.34.10.1055
+   Okada K, 2000, DIABETIC MED, V17, P53, DOI 10.1046/j.1464-5491.2000.00229.x
+   PAFFENBARGER RS, 1973, AM J EPIDEMIOL, V97, P314, DOI 10.1093/oxfordjournals.aje.a121511
+   Palmer AJ, 2004, CLIN THER, V26, P304, DOI 10.1016/S0149-2918(04)90029-X
+   Pan XR, 1997, DIABETES CARE, V20, P537, DOI 10.2337/diacare.20.4.537
+   Paolisso G, 1997, AM J HYPERTENS, V10, P346, DOI 10.1016/S0895-7061(96)00342-1
+   Parikh SJ, 2003, AM J CLIN NUTR, V77, P281, DOI 10.1093/ajcn/77.2.281
+   Pereira MA, 2002, JAMA-J AM MED ASSOC, V287, P2081, DOI 10.1001/jama.287.16.2081
+   Pereira MA, 2002, AM J CLIN NUTR, V75, P848, DOI 10.1093/ajcn/75.5.848
+   Pereira MA, 2001, PEDIATR CLIN N AM, V48, P969, DOI 10.1016/S0031-3955(05)70351-5
+   Perry IJ, 2001, INT J EPIDEMIOL, V30, P554, DOI 10.1093/ije/30.3.554
+   Petersen M, 2003, DIABETES CARE, V26, P917
+   Pi-Sunyer FX, 1998, OBES RES, V6, P0
+   Raben A, 2002, AM J CLIN NUTR, V76, P721, DOI 10.1093/ajcn/76.4.721
+   RIMM EB, 1993, AM J PUBLIC HEALTH, V83, P211, DOI 10.2105/AJPH.83.2.211
+   RIMM EB, 1995, BRIT MED J, V310, P555, DOI 10.1136/bmj.310.6979.555
+   Rosengren A, 2004, J INTERN MED, V255, P89, DOI 10.1046/j.1365-2796.2003.01260.x
+   Sairenchi T, 2004, AM J EPIDEMIOL, V160, P158, DOI 10.1093/aje/kwh183
+   Salazar-Martinez E, 2004, ANN INTERN MED, V140, P1, DOI 10.7326/0003-4819-140-1-200401060-00005
+   Salmeron J, 1997, JAMA-J AM MED ASSOC, V277, P472, DOI 10.1001/jama.277.6.472
+   Salmeron J, 1997, DIABETES CARE, V20, P545, DOI 10.2337/diacare.20.4.545
+   Salmerón J, 2001, AM J CLIN NUTR, V73, P1019
+   Samaha FF, 2003, NEW ENGL J MED, V348, P2074, DOI 10.1056/NEJMoa022637
+   Saremi A, 2003, DIABETES CARE, V26, P2211, DOI 10.2337/diacare.26.7.2211
+   Schulze MB, 2004, JAMA-J AM MED ASSOC, V292, P927, DOI 10.1001/jama.292.8.927
+   Schulze MB, 2004, AM J CLIN NUTR, V80, P348, DOI 10.1093/ajcn/80.2.348
+   Schulze MB, 2003, DIABETOLOGIA, V46, P1465, DOI 10.1007/s00125-003-1220-7
+   Sierksma A, 2004, DIABETES CARE, V27, P184, DOI 10.2337/diacare.27.1.184
+   Slattery M L, 2000, SEMIN GASTROINTEST DIS, V11, P142
+   Song Y, 2004, DIABETES CARE, V27, P2108, DOI 10.2337/diacare.27.9.2108
+   Song YQ, 2004, DIABETES CARE, V27, P59, DOI 10.2337/diacare.27.1.59
+   STAMPFER MJ, 1988, AM J EPIDEMIOL, V128, P549, DOI 10.1093/oxfordjournals.aje.a115002
+   Stampfer MJ, 2000, NEW ENGL J MED, V343, P16, DOI 10.1056/NEJM200007063430103
+   Steven J, 2002, DIABETES CARE, V25, P1715, DOI 10.2337/diacare.25.10.1715
+   Stumvoll M, 2002, ANN MED, V34, P217, DOI 10.1080/713782132
+   Sugimori H, 1998, J MED SYST, V22, P27, DOI 10.1023/A:1022650305109
+   Summers LKM, 2002, DIABETOLOGIA, V45, P369, DOI 10.1007/s00125-001-0768-3
+   THORBURN A, 1993, METABOLISM, V42, P780, DOI 10.1016/0026-0495(93)90249-N
+   TORDOFF MG, 1990, AM J CLIN NUTR, V51, P963, DOI 10.1093/ajcn/51.6.963
+   Tosiello L, 1996, ARCH INTERN MED, V156, P1143, DOI 10.1001/archinte.156.11.1143
+   Tsumura K, 1999, DIABETES CARE, V22, P1432, DOI 10.2337/diacare.22.9.1432
+   Tuomilehto J, 2001, NEW ENGL J MED, V344, P1343, DOI 10.1056/NEJM200105033441801
+   Tuomilehto J, 2004, JAMA-J AM MED ASSOC, V291, P1213, DOI 10.1001/jama.291.10.1213
+   van Dam RM, 2003, EUR J EPIDEMIOL, V18, P1115
+   van Dam RM, 2002, DIABETES CARE, V25, P417, DOI 10.2337/diacare.25.3.417
+   van Dam RM, 2002, LANCET, V360, P1477, DOI 10.1016/S0140-6736(02)11436-X
+   van Dam RM, 2002, ANN INTERN MED, V136, P201, DOI 10.7326/0003-4819-136-3-200202050-00008
+   Vessby B, 2001, DIABETOLOGIA, V44, P312, DOI 10.1007/s001250051620
+   Wannamethee SG, 2003, ARCH INTERN MED, V163, P1329, DOI 10.1001/archinte.163.11.1329
+   Wannamethee SG, 2002, J EPIDEMIOL COMMUN H, V56, P542, DOI 10.1136/jech.56.7.542
+   Wannamethee SG, 2001, DIABETES CARE, V24, P1590, DOI 10.2337/diacare.24.9.1590
+   Wannamethee SG, 2000, ARCH INTERN MED, V160, P2108, DOI 10.1001/archinte.160.14.2108
+   Watanabe M, 2002, DIABETES RES CLIN PR, V57, P191, DOI 10.1016/S0168-8227(02)00083-9
+   Wei M, 2000, DIABETES CARE, V23, P18, DOI 10.2337/diacare.23.1.18
+   Wei M, 1997, OBES RES, V5, P16, DOI 10.1002/j.1550-8528.1997.tb00278.x
+   Weinstein AR, 2004, JAMA-J AM MED ASSOC, V292, P1188, DOI 10.1001/jama.292.10.1188
+   Wild S, 2004, DIABETES CARE, V27, P1047, DOI 10.2337/diacare.27.5.1047
+   Will JC, 2001, INT J EPIDEMIOL, V30, P540, DOI 10.1093/ije/30.3.540
+   Willemsen R, 2002, NEUE RUNDSCH, V113, P9
+   Wilson JG, 2003, AM J MED SCI, V325, P332, DOI 10.1097/00000441-200306000-00004
+   WILSON PWF, 1986, AM J MED, V80, P3, DOI 10.1016/0002-9343(86)90532-2
+   Yusuf S, 2001, JAMA-J AM MED ASSOC, V286, P1882, DOI 10.1001/jama.286.15.1882
+   Zilkens RR, 2003, DIABETES CARE, V26, P608, DOI 10.2337/diacare.26.3.608
+NR 152
+TC 211
+Z9 247
+U1 2
+U2 40
+PU ANNUAL REVIEWS
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0139 USA
+SN 0163-7525
+EI 1545-2093
+J9 ANNU REV PUBL HEALTH
+JI Annu. Rev. Public Health
+PD JUN 15
+PY 2005
+VL 26
+IS 
+BP 445
+EP 467
+DI 10.1146/annurev.publhealth.26.021304.144532
+PG 23
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 924LY
+UT WOS:000228981500020
+PM 15760297
+DA 2025-04-28
+ER
+
+PT J
+AU Westerterp-Plantenga, MS
+   Lejeune, MPGM
+   Kovacs, EMR
+AF Westerterp-Plantenga, MS
+   Lejeune, MPGM
+   Kovacs, EMR
+TI Body weight loss and weight maintenance in relation to habitual caffeine intake and green tea supplementation
+SO OBESITY RESEARCH
+LA English
+DT Article
+DE energy expenditure; fat oxidation; satiety; leptin; thermogenesis
+ID follow-up; energy-expenditure; fat oxidation; double-blind; diet; ephedrine; protein; obesity; thermogenesis; carbohydrate
+AB Objective: Investigation of the effect of a green tea-caffeine mixture on weight maintenance after body weight loss in moderately obese subjects in relation to habitual caffeine intake. Research Methods and Procedures: A randomized placebo-controlled double blind parallel trial in 76 overweight and moderately obese subjects, (BMI, 27.5 +/- 2.7 kg/m(2)) matched for sex, age, BMI, height, body mass, and habitual caffeine intake was conducted. A very low energy diet intervention during 4 weeks was followed by 3 months of weight maintenance (WM); during the WM period, the subjects received a green tea-caffeine mixture (270 mg epigallocatechin gallate + 150 mg caffeine per day) or placebo. Results: Subjects lost 5.9 +/- 1.8 (SD) kg (7.0 +/- 2.1%) of body weight (p < 0.001). At baseline, satiety was positively, and in women, leptin was inversely, related to subjects' habitual caffeine consumption (p < 0.01). High caffeine consumers reduced weight, fat mass, and waist circumference more than low caffeine consumers; resting energy expenditure was reduced less and respiratory quotient was reduced more during weight loss (p < 0.01). In the low caffeine consumers, during WM, green tea still reduced body weight, waist, respiratory quotient and body fat, whereas resting energy expenditure was increased compared with a restoration of these variables with placebo (p < 0.01). In the high caffeine consumers, no effects of the green tea-caffeine mixture were observed during WM. Discussion: High caffeine intake was associated with weight loss through thermogenesis and fat oxidation and with suppressed leptin in women. In habitual low caffeine consumers, the green tea-caffeine mixture improved WM, partly through thermogenesis and fat oxidation.
+C1 Maastricht Univ, Dept Human Biol, NL-6200 MD Maastricht, Netherlands.
+C3 Maastricht University
+RP Maastricht Univ, Dept Human Biol, POB 616, NL-6200 MD Maastricht, Netherlands.
+EM m.westerterp@hb.unimaas.nl
+CR ARCIERO PJ, 2002, 49 ANN M AM COLL SPO, V0, P0
+   ASTRUP A, 1992, INT J OBESITY, V16, P269
+   ASTRUP A, 1990, AM J CLIN NUTR, V51, P759, DOI 10.1093/ajcn/51.5.759
+   BORCHARDT RT, 1975, J MED CHEM, V18, P120, DOI 10.1021/jm00235a030
+   BRACCO D, 1995, AM J PHYSIOL, V0, PE671
+   DULLOO AG, 1989, AM J CLIN NUTR, V49, P44, DOI 10.1093/ajcn/49.1.44
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   DULLOO AG, 1992, METABOLISM, V41, P1233, DOI 10.1016/0026-0495(92)90015-3
+   Ekelund U, 2000, INT J SPORTS MED, V21, P586, DOI 10.1055/s-2000-8487
+   GOLDSTEIN DJ, 1992, INT J OBESITY, V16, P397
+   Goris AHC, 2001, AM J CLIN NUTR, V73, P549
+   Herman CP, 1980, OBESITY, V0, P208
+   Hongu N, 2000, J NUTR, V130, P152, DOI 10.1093/jn/130.2.152
+   HUBERT HB, 1983, CIRCULATION, V67, P968, DOI 10.1161/01.CIR.67.5.968
+   Hulshof KFAM, 2003, EUR J CLIN NUTR, V57, P128, DOI 10.1038/sj.ejcn.1601503
+   Kao YH, 2000, ENDOCRINOLOGY, V141, P980, DOI 10.1210/en.141.3.980
+   Kolaczynski JW, 1996, DIABETES, V45, P1511, DOI 10.2337/diabetes.45.11.1511
+   Kovacs EMR, 2004, BRIT J NUTR, V91, P431, DOI 10.1079/BJN20041061
+   KRAMER FM, 1989, INT J OBESITY, V13, P123
+   KROMHOUT D, 1983, AM J CLIN NUTR, V38, P591, DOI 10.1093/ajcn/38.4.591
+   LICHTENBELT WDV, 1994, BRIT J NUTR, V72, P491, DOI 10.1079/BJN19940053
+   NOPPA H, 1980, AM J EPIDEMIOL, V111, P693, DOI 10.1093/oxfordjournals.aje.a112947
+   Pasman WJ, 1997, INT J OBESITY, V21, P1143, DOI 10.1038/sj.ijo.0800528
+   Pasman WJ, 1997, INT J OBESITY, V21, P548, DOI 10.1038/sj.ijo.0800439
+   Pasman WJ, 1999, METABOLISM, V48, P15, DOI 10.1016/S0026-0495(99)90004-5
+   Rumpler W, 2001, J NUTR, V131, P2848, DOI 10.1093/jn/131.11.2848
+   Schoffelen PFM, 1997, J APPL PHYSIOL, V83, P2064, DOI 10.1152/jappl.1997.83.6.2064
+   SEIDELL JC, 1995, OBES RES, V3, PS89, DOI 10.1002/j.1550-8528.1995.tb00451.x
+   STUNKARD AJ, 1985, J PSYCHOSOM RES, V29, P71, DOI 10.1016/0022-3999(85)90010-8
+   TOUBRO S, 1993, INT J OBESITY, V17, P0
+   Trayhurn P, 1999, INTERNATIONAL JOURNAL OF OBESITY, V23, P0
+   VanGaal LF, 1997, INT J OBESITY, V21, P0
+   WADDEN TA, 1988, J CONSULT CLIN PSYCH, V56, P925, DOI 10.1037/0022-006X.56.6.925
+   WEIR JBD, 1949, J PHYSIOL-LONDON, V109, P1, DOI 10.1113/jphysiol.1949.sp004363
+   Westerterp-Plantenga MS, 2004, INT J OBESITY, V28, P57, DOI 10.1038/sj.ijo.0802461
+   Westerterp-Plantenga MS, 1998, INT J OBESITY, V22, P1, DOI 10.1038/sj.ijo.0800536
+   Westerterp-Plantenga MS, 2001, AM J CLIN NUTR, V74, P426
+   Westerterp-Plantenga MS, 1999, EUR J CLIN NUTR, V53, P495, DOI 10.1038/sj.ejcn.1600782
+   WING RR, 1992, AM J CLIN NUTR, V55, P1086, DOI 10.1093/ajcn/55.6.1086
+NR 39
+TC 239
+Z9 263
+U1 2
+U2 89
+PU NORTH AMER ASSOC STUDY OBESITY
+PI SILVER SPRING
+PA 8630 FENTON ST, SUITE 918, SILVER SPRING, MD 20910 USA
+SN 1071-7323
+EI 
+J9 OBES RES
+JI Obes. Res.
+PD JUL 15
+PY 2005
+VL 13
+IS 7
+BP 1195
+EP 1204
+DI 10.1038/oby.2005.142
+PG 10
+WC Endocrinology & Metabolism; Nutrition & Dietetics
+SC Endocrinology & Metabolism; Nutrition & Dietetics
+GA 955GE
+UT WOS:000231212800011
+PM 16076989
+DA 2025-04-28
+ER
+
+PT J
+AU Greenberg, JA
+   Axen, KV
+   Schnoll, R
+   Boozer, CN
+AF Greenberg, JA
+   Axen, KV
+   Schnoll, R
+   Boozer, CN
+TI Coffee, tea and diabetes: the role of weight loss and caffeine
+SO INTERNATIONAL JOURNAL OF OBESITY
+LA English
+DT Article
+DE coffee; tea; beverages; caffeine; diabetes risk; weight loss
+ID glucose-tolerance; consumption; risk; men; mellitus; obese
+AB OBJECTIVE: To assess the effect of weight change on the relationship between coffee and tea consumption and diabetes risk. DESIGN: Prospective cohort study, using data from the First National Health and Nutrition Examination Survey Epidemiologic Follow Up Study. Survival analyses were conducted using 301 selfreported cases of diabetes and eight documented diabetes deaths during an 8.4-y follow-up. SUBJECTS: A total of 7006 subjects aged 32-88 y with no reported history of diabetes were included in the study. RESULTS: For all subjects combined, increases in consumption of ground-caffeinated coffee and caffeine at baseline were followed by decreases in diabetes risk during follow-up. There were significant statistical interactions between age and consumption of caffeine (P = 0.02) and ground-caffeinated coffee (P = 0.03). Age-stratified analysis showed that the decrease in diabetes risk only applied to <= 60-y-old subjects, for whom the decrease in diabetes risk also obtained for ground-decaffeinated coffee and regular tea. The multivariate hazard ratio (HR) and 95% confidence interval for a 2 cups/day increment in the intake of ground-caffeinated coffee, ground-decaffeinated coffee and regular tea was 0.86 (0.75-0.99), 0.58 (0.34-0.99) and 0.77 (0.59-1.00), respectively. The diabetes risk was negatively related to the consumption in a dose-response manner. There were strong statistical interactions between prior weight change and beverage consumption for <= 60-y-old subjects. Further analysis revealed that the decrease in diabetes risk only applied to those who had lost weight, and that there was a positive dose response relationship between diabetes risk and weight change. For example, the multivariate HR and 95% confidence interval for 40 vs 0 cups/day of ground-decaffeinated coffee was 0.17 (0.04-0.74), 0.52 (0.19-1.42), 0.77 (0.30-1.96) and 0.91 (0.39-2.14)for subgroups with weight change of <= 0, 0-10, 10-20 and > 20 lbs, respectively. There was no significant association between diabetes risk and consumption of instant-caffeinated coffee, instant-decaffeinated coffee or herbal tea. Caffeine intake appeared to explain some, but not all, of the diabetes-risk reduction and weight change. CONCLUSION: The negative relationship between diabetes risk and consumption of ground coffee and regular tea, observed for all NHEFS subjects, actually only applied to nonelderly adults who had previously lost weight.
+C1 CUNY Brooklyn Coll, Dept Hlth & Nutr Sci, Brooklyn, NY 11210 USA.
+   St Lukes Roosevelt Hosp, New York Obes Res Ctr, Energy Metab Core Lab, Bronx, NY USA.
+   Columbia Univ, Ctr Med, Inst Human Nutr, Dept Med, New York, NY USA.
+C3 City University of New York (CUNY) System; Brooklyn College (CUNY); Mount Sinai West; Mount Sinai St. Luke's; Columbia University
+RP CUNY Brooklyn Coll, Dept Hlth & Nutr Sci, 2900 Bedford Ave, Brooklyn, NY 11210 USA.
+EM jamesg@brooklyn.cuny.edu
+CR Agardh EE, 2004, J INTERN MED, V255, P645, DOI 10.1111/j.1365-2796.2004.01331.x
+   Arciero PJ, 2000, METABOLISM, V49, P101, DOI 10.1016/S0026-0495(00)90888-6
+   Ärnlöv J, 2004, JAMA-J AM MED ASSOC, V291, P1199, DOI 10.1001/jama.291.10.1199-b
+   ASTRUP A, 1993, INT J OBESITY, V17, P0
+   BRACCO D, 1995, AM J PHYSIOL-ENDOC M, V269, PE671, DOI 10.1152/ajpendo.1995.269.4.E671
+   *BUNK MCW, 1979, 8 USDA, V0, P0
+   COX DR, 1972, J R STAT SOC B, V34, P187
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   Greenberg JA, 2001, INT J OBESITY, V25, P1071, DOI 10.1038/sj.ijo.0801648
+   HARRIS MI, 1998, DIABETES CARE, V21, P475
+   HILLAR P, 1973, VITAL HLTH STAT SER, V1, P0
+   Isogawa A, 2003, LANCET, V361, P703, DOI 10.1016/S0140-6736(03)12586-X
+   Johnston KL, 2003, AM J CLIN NUTR, V78, P728, DOI 10.1093/ajcn/78.4.728
+   KATZEL LI, 1995, JAMA-J AM MED ASSOC, V274, P1915, DOI 10.1001/jama.274.24.1915
+   *NAT COFF ASS, 2000, COFF DRINK TRENDS SU, V0, P0
+   *NAT CTR HLTH STAT, 1987, VITAL HLTH STAT SER, V1, P0
+   Reunanen A, 2003, LANCET, V361, P702, DOI 10.1016/S0140-6736(03)12583-4
+   Rosengren A, 2004, J INTERN MED, V255, P89, DOI 10.1046/j.1365-2796.2003.01260.x
+   Salazar-Martinez E, 2004, ANN INTERN MED, V140, P1, DOI 10.7326/0003-4819-140-1-200401060-00005
+   Saremi A, 2003, DIABETES CARE, V26, P2211, DOI 10.2337/diacare.26.7.2211
+   *SPSS INC, 1997, ADV STAT 7 5, V0, P285
+   Tabachnick BG, 1996, USING MUTIVARIATE STATISTICS, V0, P0
+   *TEA ASS US INC, 2004, TEA FACT SHEET, V0, P0
+   Tuomilehto J, 2004, JAMA-J AM MED ASSOC, V291, P1213, DOI 10.1001/jama.291.10.1213
+   *USDA, 1967, AGR HDB REV COMP FOO, V0, P0
+   van Dam RM, 2002, LANCET, V360, P1477, DOI 10.1016/S0140-6736(02)11436-X
+   van Dam RM, 2002, ANN INTERN MED, V136, P201, DOI 10.7326/0003-4819-136-3-200202050-00008
+NR 27
+TC 132
+Z9 145
+U1 1
+U2 60
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0307-0565
+EI 1476-5497
+J9 INT J OBESITY
+JI Int. J. Obes.
+PD SEP 15
+PY 2005
+VL 29
+IS 9
+BP 1121
+EP 1129
+DI 10.1038/sj.ijo.0802999
+PG 9
+WC Endocrinology & Metabolism; Nutrition & Dietetics
+SC Endocrinology & Metabolism; Nutrition & Dietetics
+GA 954CC
+UT WOS:000231130700014
+PM 15925959
+DA 2025-04-28
+ER
+
+PT J
+AU Ruzzin, J
+   Lai, YC
+   Jensen, J
+AF Ruzzin, J
+   Lai, YC
+   Jensen, J
+TI Consumption of carbohydrate solutions enhances energy intake without increased body weight and impaired insulin action in rat skeletal muscles
+SO DIABETES & METABOLISM
+LA English
+DT Article
+DE diet; soft drinks; beverages; obesity; catecholamines; fructose; sucrose
+ID sympathetic-nervous-system; protein-kinase b; glycogen-synthesis; adipose-tissue; fructose; sucrose; resistance; glucose; diet; caffeine
+AB Objectives: In the present study, we investigated whether replacement of tap water by fructose or sucrose solutions affect rat body weight and insulin action in skeletal muscles. Methods: Rats were fed standard rodent chow ad libitum with water, or water containing fructose (10.5% or 35%) or sucrose (10,5% or 35%) for 11 weeks. Body weight and energy intake from chow and drinking solutions were measured. Urinary catecholamines secretion was determined after 50-60 days. At the end of the feeding period, soleus and epitrochlearis were removed for in vitro measurements of glucose uptake (with tracer amount of 2- [H-3]-deoxy-D-glucose) and PKB Ser(473) phosphorylation (assessed by Western Blot) with or without insulin. Results: Fructose and sucrose solutions enhanced daily energy intake by about 15% without increasing rat body weight. Secretion of urinary noradrenaline was higher in rats drinking a 35% sucrose solution than in rats drinking water. In the other groups, urinary noradrenaline secretion was similar to rats consuming water. Urinary adrenaline secretion was similar in all groups. Insulin-stimulated glucose uptake and insulin-stimulated PKB phosphorylation were not reduced by intake of fructose or sucrose solution. Conclusions: Fructose and sucrose solutions enhanced energy intake but did not increase body weight. Although noradrenaline may regulate body weight in rats drinking 35% sucrose solution, body weight seems to be regulated by other mechanisms. Intake of fructose or sucrose solution did not impair insulin-stimulated glucose uptake or signaling in skeletal muscles.
+C1 Natl Inst Occupat Hlth, Dept Physiol, N-0033 Oslo, Norway.
+RP Natl Inst Occupat Hlth, Dept Physiol, POB 8149 Dep, N-0033 Oslo, Norway.
+EM jorgen.jensen@stami.no
+CR ACHESON KJ, 1980, AM J CLIN NUTR, V33, P989, DOI 10.1093/ajcn/33.5.989
+   APUVIAN CM, 2004, JAMA-J AM MED ASSOC, V292, P978
+   Argyropoulos G, 2002, J APPL PHYSIOL, V92, P2187, DOI 10.1152/japplphysiol.00994.2001
+   Aslesen R, 1998, AM J PHYSIOL-ENDOC M, V275, PE448, DOI 10.1152/ajpendo.1998.275.3.E448
+   Bachman ES, 2002, SCIENCE, V297, P843, DOI 10.1126/science.1073160
+   BECKNIELSEN H, 1980, AM J CLIN NUTR, V33, P273, DOI 10.1093/ajcn/33.2.273
+   BELLET S, 1969, METABOLIS, V18, P288, DOI 10.1016/0026-0495(69)90049-3
+   Bezerra RMN, 2000, J NUTR, V130, P1531, DOI 10.1093/jn/130.6.1531
+   Block G, 2004, J FOOD COMPOS ANAL, V17, P439, DOI 10.1016/j.jfca.2004.02.007
+   Bray GA, 2004, AM J CLIN NUTR, V79, P537
+   BUKOWIECKI LJ, 1983, AM J PHYSIOL, V244, PR500, DOI 10.1152/ajpregu.1983.244.4.R500
+   Choi SB, 2002, J NUTR BIOCHEM, V13, P727, DOI 10.1016/S0955-2863(02)00216-4
+   CHOU T, 1992, WESTERN J MED, V157, P544
+   Clapham JC, 2000, NATURE, V406, P415, DOI 10.1038/35019082
+   COTTETEMARD JM, 1980, J NEURAL TRANSM, V48, P189, DOI 10.1007/BF01243503
+   DAI S, 1995, J PHARMACOL TOX MET, V33, P101, DOI 10.1016/1056-8719(94)00063-A
+   Dulloo AG, 2002, SCIENCE, V297, P780, DOI 10.1126/science.1074923
+   EIFFERT KC, 1993, J GERONTOL, V48, PB206, DOI 10.1093/geronj/48.6.B206
+   El Yacoubi M, 2000, BRIT J PHARMACOL, V129, P1465, DOI 10.1038/sj.bjp.0703170
+   French SA, 2001, ANNU REV PUBL HEALTH, V22, P309, DOI 10.1146/annurev.publhealth.22.1.309
+   Gross LS, 2004, AM J CLIN NUTR, V79, P774
+   Hay M, 2000, J ANIM SCI, V78, P420
+   HILL R, 1954, J BIOL CHEM, V209, P705
+   HOLMES C, 1994, J CHROMATOGR B, V653, P131, DOI 10.1016/0378-4347(93)E0430-X
+   HOWRD BV, 2002, AM J MED S9B, V113, P0
+   Hu FB, 2001, DIABETOLOGIA, V44, P805, DOI 10.1007/s001250100547
+   Jensen J, 2002, PFLUG ARCH EUR J PHY, V444, P213, DOI 10.1007/s00424-002-0793-1
+   Jiang ZY, 2003, P NATL ACAD SCI USA, V100, P7569, DOI 10.1073/pnas.1332633100
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   LANDSBERG L, 1978, NEW ENGL J MED, V298, P1295, DOI 10.1056/NEJM197806082982306
+   LANDSBERG L, 1983, AM J CLIN NUTR, V38, P1018, DOI 10.1093/ajcn/38.6.1018
+   Lentner C, 1981, GEIGY SCI TABLES, V8th, P0
+   Levi B, 1998, J NUTR, V128, P1442, DOI 10.1093/jn/128.9.1442
+   LEVI L, 1967, ACTA MED SCAND, V181, P431
+   Levine James A, 1999, SCIENCE (WASHINGTON D C), V283, P212, DOI 10.1126/science.283.5399.212
+   Lowell BB, 2000, NATURE, V404, P652, DOI 10.1038/35007527
+   Lowry OH, 1972, FLEXIBLE SYSTEM ENZY, V0, P1
+   Ludwig DS, 2001, LANCET, V357, P505, DOI 10.1016/S0140-6736(00)04041-1
+   MAEGAWA H, 1986, AM J PHYSIOL, V251, PE616, DOI 10.1152/ajpendo.1986.251.5.E616
+   Newby PK, 2004, J AM DIET ASSOC, V104, P1086, DOI 10.1016/j.jada.2004.04.020
+   Pagliassotti MJ, 1996, AM J PHYSIOL-REG I, V271, PR1319, DOI 10.1152/ajpregu.1996.271.5.R1319
+   Pagliassotti MJ, 2002, AM J PHYSIOL-ENDOC M, V282, PE170, DOI 10.1152/ajpendo.2002.282.1.E170
+   PAGLIASSOTTI MJ, 1994, AM J PHYSIOL, V266, PR1637, DOI 10.1152/ajpregu.1994.266.5.R1637
+   PAGLIASSOTTI MJ, 1995, AM J PHYSIOL-REG I, V269, PR641, DOI 10.1152/ajpregu.1995.269.3.R641
+   Qin B, 2004, HORM METAB RES, V36, P119, DOI 10.1055/s-2004-814223
+   Schulze MB, 2004, JAMA-J AM MED ASSOC, V292, P927, DOI 10.1001/jama.292.8.927
+   Seals DR, 2004, DIABETES, V53, P276, DOI 10.2337/diabetes.53.2.276
+   Stark AH, 2000, EUR J NUTR, V39, P229, DOI 10.1007/s003940070016
+   Strack AM, 1997, AM J PHYSIOL-REG I, V272, PR840, DOI 10.1152/ajpregu.1997.272.3.R840
+   THORBURN AW, 1989, AM J CLIN NUTR, V49, P1155, DOI 10.1093/ajcn/49.6.1155
+   Thresher JS, 2000, AM J PHYSIOL-REG I, V279, PR1334, DOI 10.1152/ajpregu.2000.279.4.R1334
+   TOPPING DL, 1971, NUTR METAB, V13, P331
+   Ueki K, 1998, J BIOL CHEM, V273, P5315, DOI 10.1074/jbc.273.9.5315
+   VRANA A, 1978, METABOLISM, V27, P885, DOI 10.1016/0026-0495(78)90131-2
+   VRANA A, 1978, NUTR METAB, V22, P313
+   WALGREN MC, 1987, METABOLISM, V36, P585, DOI 10.1016/0026-0495(87)90172-7
+   Wang QH, 1999, MOL CELL BIOL, V19, P4008
+   Webber J, 2003, P NUTR SOC, V62, P539, DOI 10.1079/PNS2003256
+   Wild S, 2004, DIABETES CARE, V27, P1047, DOI 10.2337/diacare.27.5.1047
+   Wood IS, 2003, BRIT J NUTR, V89, P3, DOI 10.1079/BJN2002763
+   YOUNG JB, 1977, NATURE, V269, P615, DOI 10.1038/269615a0
+   YOUNG JB, 1977, CLIN RES, V25, P0
+   YOUNG JB, 1981, AM J PHYSIOL, V240, PE314, DOI 10.1152/ajpendo.1981.240.3.E314
+NR 63
+TC 7
+Z9 8
+U1 0
+U2 5
+PU MASSON EDITEUR
+PI MOULINEAUX CEDEX 9
+PA 21 STREET CAMILLE DESMOULINS, ISSY, 92789 MOULINEAUX CEDEX 9, FRANCE
+SN 1262-3636
+EI 1878-1780
+J9 DIABETES METAB
+JI Diabetes Metab.
+PD APR 15
+PY 2005
+VL 31
+IS 2
+BP 178
+EP 188
+DI 10.1016/S1262-3636(07)70184-2
+PG 11
+WC Endocrinology & Metabolism
+SC Endocrinology & Metabolism
+GA 921FG
+UT WOS:000228749000011
+PM 15959424
+DA 2025-04-28
+ER
+
+PT J
+AU Wu, TY
+   Hankinson, SE
+   Willett, WC
+   Giovannucci, E
+AF Wu, TY
+   Hankinson, SE
+   Willett, WC
+   Giovannucci, E
+TI Caffeinated coffee, decaffeinated coffee, and caffeine in relation to plasma C-peptide levels, a marker of insulin secretion, in US women
+SO DIABETES CARE
+LA English
+DT Article
+ID glucose disposal; consumption; risk; reproducibility; resistance; ingestion; validity; blood; model; acid
+AB OBJECTIVE - Coffee consumption is associated with reduced risk of type 2 diabetes, but the mechanism is not clearly understood. Elevated C-peptide, as a marker of insulin secretion, has been linked to insulin-resistant type 2 diabetes. In this study, we examined consumption of caffeinated and decaffeinated coffee and total caffeine in relation to concentrations of plasma C-peptide. RESEARCH DESIGN AND METHODS - Plasma C-peptide concentrations were measured in a cross-sectional setting among 2,112 healthy women from the Nurses' Health Study I who provided blood samples in 1989-1990. Consumption of caffeinated and decaffeinated coffee and total caffeine was assessed using a semiquantitative food-frequency questionnaire in 1990. RESULTS - intakes of caffeinated and decaffeinated coffee and caffeine in 1990 were each inversely associated with C-peptide concentration in age-adjusted, BMI-adjusted, and multivariable-adjusted analyses. In multivariable analysis, concentrations of C-peptide were 16% less in women who drank > 4 cups/day of caffeinated or decaffeinated coffee compared with nondrinkers (P < 0.005 for each). Women in the highest quintile compared with the lowest quintile of caffeine intake had 10% lower C-pepticle levels (P = 0.02). We did not find any association between tea and C-peptide. The inverse association between caffeinated coffee and C-peptide was considerably stronger in obese (27% reduction) and overweight women (20% reduction) than in normal weight women (11% reduction) (P = 0.005). CONCLUSIONS - Our findings suggest a potential reduction of insulin secretion by coffee in women. This reduction may be related to other components in coffee rather than caffeine.
+C1 Harvard Univ, Sch Publ Hlth, Dept Nutr, Boston, MA 02115 USA.
+   Harvard Univ, Sch Publ Hlth, Dept Epidemiol, Boston, MA 02115 USA.
+   Harvard Univ, Sch Med, Channing Lab, Dept Med, Boston, MA USA.
+   Brigham & Womens Hosp, Boston, MA 02115 USA.
+C3 Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Harvard T.H. Chan School of Public Health; Harvard University; Harvard Medical School; Harvard University; Harvard University Medical Affiliates; Brigham & Women's Hospital
+RP Harvard Univ, Sch Publ Hlth, Dept Nutr, 655 Huntington Ave, Boston, MA 02115 USA.
+EM tianying@hsph.harvard.edu
+FU NCI NIH HHS [5P01 CA 87969, CA 49449] Funding Source: Medline; NIDDK NIH HHS [5R01 DK 58845] Funding Source: Medline
+CR Arion WJ, 1997, ARCH BIOCHEM BIOPHYS, V339, P315, DOI 10.1006/abbi.1996.9874
+   Ärnlöv J, 2004, JAMA-J AM MED ASSOC, V291, P1199, DOI 10.1001/jama.291.10.1199-b
+   ASTRUP A, 1990, AM J CLIN NUTR, V51, P759, DOI 10.1093/ajcn/51.5.759
+   Boozer CN, 2002, INT J OBESITY, V26, P593, DOI 10.1038/sj.ijo.0802023
+   BROWN CR, 1989, PHARMACOL BIOCHEM BE, V34, P565, DOI 10.1016/0091-3057(89)90559-5
+   Bruce CR, 2003, DIABETES, V52, P2338, DOI 10.2337/diabetes.52.9.2338
+   Chen CH, 1999, INT J CARDIOL, V68, P179, DOI 10.1016/S0167-5273(98)00366-0
+   CHERASKIN E, 1968, LANCET, V2, P689
+   Colditz GA, 1997, J WOMENS HEALTH, V6, P49, DOI 10.1089/jwh.1997.6.49
+   Greer F, 2001, DIABETES, V50, P2349, DOI 10.2337/diabetes.50.10.2349
+   Haban Peter, 2002, MED SCI MONIT, V8, P0
+   Haffner SM, 1996, DIABETES CARE, V19, P1138, DOI 10.2337/diacare.19.10.1138
+   HANKINSON SE, 1989, CLIN CHEM, V35, P2313
+   JACOB S, 1995, ARZNEIMITTEL-FORSCH, V45-2, P872
+   JENKINS DJA, 1988, AM J CLIN NUTR, V48, P248, DOI 10.1093/ajcn/48.2.248
+   Kaaks R, 2000, JNCI-J NATL CANCER I, V92, P1592, DOI 10.1093/jnci/92.19.1592
+   Keijzers GB, 2002, DIABETES CARE, V25, P364, DOI 10.2337/diacare.25.2.364
+   MATTHEWS DR, 1985, DIABETOLOGIA, V28, P412, DOI 10.1007/BF00280883
+   Meyer KA, 2003, J AM COLL NUTR, V22, P185, DOI 10.1080/07315724.2003.10719292
+   Rimm E B, 1990, EPIDEMIOLOGY, V1, P466, DOI 10.1097/00001648-199011000-00009
+   ROBERTSON D, 1981, J CLIN INVEST, V67, P1111, DOI 10.1172/JCI110124
+   Salazar-Martinez E, 2004, ANN INTERN MED, V140, P1, DOI 10.7326/0003-4819-140-1-200401060-00005
+   SPRIET LL, 1992, AM J PHYSIOL, V262, PE891, DOI 10.1152/ajpendo.1992.262.6.E891
+   Svilaas A, 2004, J NUTR, V134, P562, DOI 10.1093/jn/134.3.562
+   Thirunavukkarasu V, 2004, DIABETES OBES METAB, V6, P200, DOI 10.1111/j.1462-8902.2004.00332.x
+   Tuomilehto J, 2004, JAMA-J AM MED ASSOC, V291, P1213, DOI 10.1001/jama.291.10.1213
+   van Dam RM, 2002, LANCET, V360, P1477, DOI 10.1016/S0140-6736(02)11436-X
+   Wahren J, 2000, AM J PHYSIOL-ENDOC M, V278, PE759, DOI 10.1152/ajpendo.2000.278.5.E759
+   WILLETT W, 1986, AM J EPIDEMIOL, V124, P17, DOI 10.1093/oxfordjournals.aje.a114366
+   Willett WC, 1997, AM J CLIN NUTR, V65, P1220, DOI 10.1093/ajcn/65.4.1220S
+   WILLETT WC, 1985, AM J EPIDEMIOL, V122, P51, DOI 10.1093/oxfordjournals.aje.a114086
+   Willett WC, 1998, NUTR EPIDEMIOLOGY, V0, P0
+   WOLF AM, 1994, INT J EPIDEMIOL, V23, P991, DOI 10.1093/ije/23.5.991
+   Wu TY, 2004, AM J CLIN NUTR, V80, P1043, DOI 10.1093/ajcn/80.4.1043
+   ZEGER SL, 1986, BIOMETRICS, V42, P121, DOI 10.2307/2531248
+NR 36
+TC 120
+Z9 128
+U1 0
+U2 5
+PU AMER DIABETES ASSOC
+PI ALEXANDRIA
+PA 1701 N BEAUREGARD ST, ALEXANDRIA, VA 22311-1717 USA
+SN 0149-5992
+EI 1935-5548
+J9 DIABETES CARE
+JI Diabetes Care
+PD JUN 15
+PY 2005
+VL 28
+IS 6
+BP 1390
+EP 1396
+DI 10.2337/diacare.28.6.1390
+PG 7
+WC Endocrinology & Metabolism
+SC Endocrinology & Metabolism
+GA 931QM
+UT WOS:000229500000019
+PM 15920057
+DA 2025-04-28
+ER
+
+PT J
+AU Haller, CA
+   Jacob, P
+   Benowitz, NL
+AF Haller, CA
+   Jacob, P
+   Benowitz, NL
+TI Short-term metabolic and hemodynamic effects of ephedra and guarana combinations
+SO CLINICAL PHARMACOLOGY & THERAPEUTICS
+LA English
+DT Article
+ID dietary-supplement; ma-huang; healthy-volunteers; caffeine; pharmacokinetics; multicomponent; pharmacology; alkaloids; sinica
+AB Objective: Serious adverse health events have been reported with the use of dietary supplements containing ephedra and guarana. We sought to determine whether repeated dosing and multi-ingredient formulations contribute to the adverse effects of these supplements. Methods. In this study, 16 healthy adults (8 women) took 2 doses each of ephedra-guarana alone, Xenadrine RFA, a multicomponent dietary supplement containing 25 mg ephedra alkaloids and 200 mg caffeine, or placebo 5 hours apart in a randomized, double-blind, 3-arm crossover study. Results. Peak plasma ephedrine levels averaged 130 to 140 ng/mL. Compared with placebo, Xenadrine and ephedra-guarana significantly increased heart rate (maximum increase, 9.4 +/- 8.6 beats/min; P = .002), blood pressure (maximum increase in systolic and diastolic pressure, 11.5 +/- 10.7 min Hg and 7.3 +/- 7.4 min Hg, respectively; P = .015), postprandial glucose concentration (maximum change, 41.0 +/- 18.8 mg/dL; P < .0001), and insulin concentration (maximum change, 41.2 +/- 47.8 mu IU/mL; P = .005). Serum potassium concentrations were significantly decreased by both treatments. Hemodynamic and metabolic changes were observed after both the first and second doses. However, plasma free fatty acid concentrations increased after the first dose only. Xenadrine RFA produced higher increases in glucose concentration than ephedra-guarana, but no other pharmacodynamic differences between the treatments were found. Conclusions: Consumption of 2 doses of ephedra and guarana supplements, per supplement label recommendations, results in persistent increases in heart rate and blood pressure and unfavorable actions on glucose and potassium homeostasis. Such effects could be detrimental in persons with hypertension, atherosclerosis, or glucose intolerance, conditions that are strongly associated with obesity.
+C1 Univ Calif San Francisco, Dept Med, Div Clin Pharmacol, San Francisco, CA 94143 USA.
+C3 University of California System; University of California San Francisco
+RP Haller, CA (corresponding author), Univ Calif San Francisco, Dept Med, Div Clin Pharmacol, Box 1220, San Francisco, CA 94143 USA.
+EM dchaller@worldnet.att.net
+FU NCCIH NIH HHS [K23AT00069-04] Funding Source: Medline; NCRR NIH HHS [M01RR00083-41] Funding Source: Medline; NIDA NIH HHS [DA12393] Funding Source: Medline; National Institute on Drug Abuse [P30DA012393] Funding Source: NIH RePORTER
+CR ASTRUP A, 1991, METABOLISM, V40, P323, DOI 10.1016/0026-0495(91)90117-F
+   ASTRUP A, 1986, ACTA ENDOCRINOLOGICA SUPPLEMENTUM, V112, P1
+   BYE C, 1975, EUR J CLIN PHARMACOL, V8, P47, DOI 10.1007/BF00616414
+   COSTELLO JF, 1975, BRIT J CLIN PHARMACO, V2, P0
+   DICKERSON J, 1978, EUR J CLIN PHARMACOL, V14, P253, DOI 10.1007/BF00560458
+   DULLOO AG, 1986, INT J OBESITY, V10, P467
+   Gardner SF, 2003, AM J CARDIOL, V91, P1510, DOI 10.1016/S0002-9149(03)00413-2
+   Gurley BJ, 1998, THER DRUG MONIT, V20, P439, DOI 10.1097/00007691-199808000-00015
+   Haller CA, 2000, NEW ENGL J MED, V343, P1833, DOI 10.1056/NEJM200012213432502
+   Haller CA, 2004, CLIN PHARMACOL THER, V75, P259, DOI 10.1016/j.clpt.2003.11.375
+   Haller CA, 2002, CLIN PHARMACOL THER, V71, P421, DOI 10.1067/mcp.2002.124523
+   Horton TJ, 1996, INT J OBESITY, V20, P91
+   Jacob P, 2004, J ANAL TOXICOL, V28, P152, DOI 10.1093/jat/28.3.152
+   Kockler DR, 2001, PHARMACOTHERAPY, V21, P647, DOI 10.1592/phco.21.6.647.34542
+   LEAHY JL, 1992, DIABETES CARE, V15, P442, DOI 10.2337/diacare.15.3.442
+   Lewis GF, 2002, ENDOCR REV, V23, P201, DOI 10.1210/er.23.2.201
+   McBride BF, 2004, JAMA-J AM MED ASSOC, V291, P216, DOI 10.1001/jama.291.2.216
+   PATIL PN, 1965, J PHARMACOL EXP THER, V148, P158
+   PENTEL P, 1984, JAMA-J AM MED ASSOC, V252, P1898, DOI 10.1001/jama.252.14.1898
+   SACCA L, 1983, AM J PHYSIOL, V245, PE294, DOI 10.1152/ajpendo.1983.245.3.E294
+   Samenuk D, 2002, MAYO CLIN PROC, V77, P12, DOI 10.4065/77.1.12
+   SAWYNOK J, 1993, PHARMACOL REV, V45, P43
+   Schier JG, 2003, J TOXICOL-CLIN TOXIC, V41, P849, DOI 10.1081/CLT-120025350
+   Shekelle PG, 2003, JAMA-J AM MED ASSOC, V289, P1537, DOI 10.1001/jama.289.12.1537
+   Vahedi K, 2000, J NEUROL NEUROSUR PS, V68, P112, DOI 10.1136/jnnp.68.1.112
+   White LM, 1997, J CLIN PHARMACOL, V37, P116, DOI 10.1002/j.1552-4604.1997.tb04769.x
+NR 28
+TC 43
+Z9 49
+U1 0
+U2 11
+PU MOSBY, INC
+PI ST LOUIS
+PA 11830 WESTLINE INDUSTRIAL DR, ST LOUIS, MO 63146-3318 USA
+SN 0009-9236
+EI 
+J9 CLIN PHARMACOL THER
+JI Clin. Pharmacol. Ther.
+PD JUN 15
+PY 2005
+VL 77
+IS 6
+BP 560
+EP 571
+DI 10.1016/j.clpt.2005.01.023
+PG 12
+WC Pharmacology & Pharmacy
+SC Pharmacology & Pharmacy
+GA 935EU
+UT WOS:000229763200012
+PM 15961987
+DA 2025-04-28
+ER
+
+PT J
+AU Wilsgaard, T
+   Jacobsen, BK
+   Arnesen, E
+AF Wilsgaard, T
+   Jacobsen, BK
+   Arnesen, E
+TI Determining lifestyle correlates of body mass index using multilevel analyses: The Tromso study, 1979-2001
+SO AMERICAN JOURNAL OF EPIDEMIOLOGY
+LA English
+DT Article
+DE body mass index; longitudinal studies; obesity; population; sex
+ID cardiovascular risk-factors; middle-aged men; nutrition examination survey; 3rd national-health; international perspective; socioeconomic differences; educational-level; physical-activity; monica project; blood-pressure
+AB Increases in overweight and obesity have been observed globally in both developed and developing countries. The authors assessed the relation between lifestyle factors and body mass index (BMI) (weight (kg)/height (m)(2)) in a population-based longitudinal study, using BMI and its subsequent change as responses in a multilevel model. The authors included 11,115 men and women aged 20-61 years at baseline who were living in the municipality of Tromso, Norway, and who participated in three or four consecutive health surveys between 1979-1980 and 2001. Baseline age, physical activity at work, coffee consumption, and desired BMI (i.e., the BMI that the subjects reported they would like to have) were positively associated with baseline BMI, whereas height, alcohol consumption, leisure-time physical activity, and level of education were inversely associated. Most relations were found to be stronger in women than in men. Clinically relevant effect sizes were observed for most of the significant associations, especially in women. For instance, on an ordinal scale, a one-category increase in educational level would decrease the mean baseline BMI among women by 0.30 kg/m(2). Significant associations between several lifestyle factors and subsequent BMI change revealed that observed baseline associations were strengthened over time, especially in women.
+C1 Univ Tromso, Fac Med, Inst Community Med, N-9037 Tromso, Norway.
+C3 UiT The Arctic University of Tromso
+RP Wilsgaard, T (corresponding author), Univ Tromso, Fac Med, Inst Community Med, N-9037 Tromso, Norway.
+EM tom.wilsgaard@ism.uit.no
+CR Unknown -, 2003, WHO TECH REP SER, V916, P1
+   Unknown -, 2017, ANNEX 3-03, V0, P4
+   BONAA KH, 1991, CIRCULATION, V83, P1305, DOI 10.1161/01.CIR.83.4.1305
+   BONAA KH, 1992, CIRCULATION, V86, P394
+   Cameron AJ, 2003, MED J AUSTRALIA, V178, P427, DOI 10.5694/j.1326-5377.2003.tb05283.x
+   Cho S, 2003, J AM COLL NUTR, V22, P296, DOI 10.1080/07315724.2003.10719307
+   Droyvold WB, 2004, INT J OBESITY, V28, P410, DOI 10.1038/sj.ijo.0802569
+   FOSS OP, 1986, SCAND J CLIN LAB INV, V46, P245, DOI 10.3109/00365518609083666
+   HUBERT HB, 1987, AM J EPIDEMIOL, V125, P812, DOI 10.1093/oxfordjournals.aje.a114598
+   JACOBSEN BK, 1987, SCAND J SOC MED, V15, P41, DOI 10.1177/140349488701500107
+   JACOBSEN BK, 1987, J CHRON DIS, V40, P795, DOI 10.1016/0021-9681(87)90131-7
+   JEFFERY RW, 1989, INT J OBESITY, V13, P59
+   Jousilahti P, 1996, CIRCULATION, V93, P1372, DOI 10.1161/01.CIR.93.7.1372
+   Kawada T, 2004, ARCH MED RES, V35, P181, DOI 10.1016/j.arcmed.2003.09.012
+   Laaksonen M, 1998, PREV MED, V27, P431, DOI 10.1006/pmed.1998.0288
+   Lahti-Koski M, 2000, AM J CLIN NUTR, V72, P1436
+   LamonFava S, 1996, ARTERIOSCL THROM VAS, V16, P1509, DOI 10.1161/01.ATV.16.12.1509
+   Lin YC, 2003, PREV MED, V37, P233, DOI 10.1016/S0091-7435(03)00119-1
+   LOCHEN ML, 1992, J EPIDEMIOL COMMUNIT, V43, P103
+   MACMAHON S, 1987, EUR HEART J, V8, P57, DOI 10.1093/eurheartj/8.suppl_B.57
+   Marques-Vidal P, 2001, ATHEROSCLEROSIS, V157, P431, DOI 10.1016/S0021-9150(00)00734-6
+   Martikainen PT, 1999, AM J CLIN NUTR, V69, P719
+   Molarius A, 1997, J EPIDEMIOL COMMUN H, V51, P252, DOI 10.1136/jech.51.3.252
+   Molarius A, 2000, AM J PUBLIC HEALTH, V90, P1260, DOI 10.2105/AJPH.90.8.1260
+   Myllykangas M, 1995, INT J EPIDEMIOL, V24, P1110, DOI 10.1093/ije/24.6.1110
+   Petersen L, 2004, INT J OBESITY, V28, P105, DOI 10.1038/sj.ijo.0802548
+   Rasky E, 1996, INT J EPIDEMIOL, V25, P1208, DOI 10.1093/ije/25.6.1208
+   Rothman KJ, 1998, MODERN EPIDEMIOLOGY, V2, P0
+   Seidell JC, 2000, BRIT J NUTR, V83, PS5, DOI 10.1017/S000711450000088X
+   Singer D, 2003, APPL LONGITUDINAL DA, V0, P0, DOI DOI 10.1093/ACPROF:OSO/9780195152968.003.0015
+   Stamler J, 1991, ANN EPIDEMIOL, V1, P347, DOI 10.1016/1047-2797(91)90045-E
+   Sundquist J, 1998, INT J EPIDEMIOL, V27, P57, DOI 10.1093/ije/27.1.57
+   THELLE DS, 1976, ACTA MED SCAND, V200, P107
+   Wannamethee SG, 2003, AM J CLIN NUTR, V77, P1312, DOI 10.1093/ajcn/77.5.1312
+   Wilhelmsen L, 1976, ADV CARDIOL, V18, P217
+   Wilsgaard T, 2000, ARCH INTERN MED, V160, P2847, DOI 10.1001/archinte.160.18.2847
+   Wilsgaard T, 2004, ANN EPIDEMIOL, V14, P265, DOI 10.1016/j.annepidem.2003.08.004
+   Wilsgaard T, 2001, AM J EPIDEMIOL, V154, P418, DOI 10.1093/aje/154.5.418
+   Winkleby MA, 1998, JAMA-J AM MED ASSOC, V280, P356, DOI 10.1001/jama.280.4.356
+NR 40
+TC 40
+Z9 45
+U1 0
+U2 3
+PU OXFORD UNIV PRESS INC
+PI CARY
+PA JOURNALS DEPT, 2001 EVANS RD, CARY, NC 27513 USA
+SN 0002-9262
+EI 
+J9 AM J EPIDEMIOL
+JI Am. J. Epidemiol.
+PD DEC 15
+PY 2005
+VL 162
+IS 12
+BP 1179
+EP 1188
+DI 10.1093/aje/kwi328
+PG 10
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 991YI
+UT WOS:000233850400006
+PM 16269586
+DA 2025-04-28
+ER
+
+PT J
+AU Dwyer, JT
+   Allison, DB
+   Coates, PM
+AF Dwyer, JT
+   Allison, DB
+   Coates, PM
+TI Dietary supplements in weight reduction
+SO JOURNAL OF THE AMERICAN DIETETIC ASSOCIATION
+LA English
+DT Article
+ID body-weight; calcium intake; bone turnover; fat loss; overweight; efficacy; safety; restriction; obesity; adults
+AB We summarize evidence on the role of dietary supplements in weight reduction, with particular attention to their safety and benefits. Dietary supplements are used for two purposes in weight reduction: (a) providing nutrients that may be inadequate in calorie-restricted diets and (b) for their potential benefits in stimulating weight loss. The goal in planning weight-reduction diets is that total intake from food and supplements should meet recommended dietary allowance/adequate intake levels without greatly exceeding them for all nutrients, except energy. If nutrient amounts from food sources in the reducing diet fall short, dietary supplements containing a single nutrient/element or a multivitamin-mineral combination may be helpful. On hypocaloric diets, the addition of dietary supplements providing nutrients at a level equal to or below recommended dietary allowance/adequate intake levels or 100% daily value, as stated in a supplement's facts box on the label, may help dieters to achieve nutrient adequacy and maintain electrolyte balance while avoiding the risk of excessive nutrient intakes. Many botanical and other types of dietary supplements are purported to be useful for stimulating or enhancing weight loss. Evidence of their efficacy in stimulating weight loss is inconclusive at present. Although there are few examples of safety concerns related to products that are legal and on the market for this purpose, there is also a paucity of evidence on safety for this intended use. Ephedra and ephedrine-containing supplements, with or without caffeine, have been singled out in recent alerts from the Food and Drug Administration because of safety concerns, and use of products containing these substances cannot be recommended. Dietitians should periodically check the Food and Drug Administration Web site (http://www.cfsan.fda.gov) for updates and warnings and alert patients/clients to safety concerns. Dietetics professionals should also consult authoritative sources for new data on efficacy as it becomes available (ods.od.nih.gov).
+C1 NIH, Off Dietary Supplements, Bethesda, MD 20892 USA.
+   Univ Alabama Birmingham, Sect Stat Genet, Dept Biostat, Birmingham, AL USA.
+   Univ Alabama Birmingham, Clin Nutr Res Ctr, Dept Nutr Sci, Birmingham, AL USA.
+C3 National Institutes of Health (NIH) - USA; University of Alabama System; University of Alabama Birmingham; University of Alabama System; University of Alabama Birmingham
+RP NIH, Off Dietary Supplements, 6100 Execut Blvd,Room 3B01 MSC 7517, Bethesda, MD 20892 USA.
+EM DwyerJ1@od.nih.gov
+CR Allison DB, 2001, CRIT REV FOOD SCI, V41, P1, DOI 10.1080/20014091091661
+   Barr SI, 2003, J NUTR, V133, P0
+   Bent S, 2004, AM J CARDIOL, V94, P1359, DOI 10.1016/j.amjcard.2004.07.137
+   Black A, 2001, J GERONTOL A-BIOL, V56, PB98, DOI 10.1093/gerona/56.3.B98
+   Bowen J, 2004, J NUTR, V134, P568, DOI 10.1093/jn/134.3.568
+   BREUM L, 1994, INT J OBESITY, V2, P99
+   Chamberlain A, 2004, NUTR CLIN CARE, V7, P19
+   Cifuentes MC, 2004, AM J CLIN NUTR, V80, P123
+   COLKER CM, 2004, J STRENGTH COND RES, V16, P1
+   *COMM FRAM EV SAF, 2004, FOOD NUTR BOARD BOAR, V0, P0
+   *CORP, 1993, JAMA-J AM MED ASSOC, V270, P967
+   Crawford V, 1999, DIABETES OBES METAB, V1, P331, DOI 10.1046/j.1463-1326.1999.00055.x
+   Egger G, 1999, MED J AUSTRALIA, V171, P604, DOI 10.5694/j.1326-5377.1999.tb123817.x
+   FLIER J, 2004, HARRISONS PRINCIPLES, V0, P422
+   Food and Drug Administration HHS, 2004, FED REGIST, V69, P6787
+   [Food and Nutrition Board Institute of Medicine], 2004, DIET REF INT WAT POT, V0, P0
+   Fugh-Berman A, 2004, EXP BIOL MED, V229, P698, DOI 10.1177/153537020422900802
+   Goode LR, 2004, OBES RES, V12, P40, DOI 10.1038/oby.2004.7
+   Gurley BJ, 2004, CLIN PHARMACOL THER, V75, PP35, DOI 10.1016/j.clpt.2003.11.134
+   Hedley AA, 2004, JAMA-J AM MED ASSOC, V291, P2847, DOI 10.1001/jama.291.23.2847
+   Hunt J, 2001, J AM DIET ASSOC, V101, P115, DOI 10.1016/S0002-8223(01)00026-8
+   Kroll DJ, 2004, AM J HEALTH-SYST PH, V61, P1707, DOI 10.1093/ajhp/61.16.1707
+   Larsen TM, 2003, J LIPID RES, V44, P2234, DOI 10.1194/jlr.R300011-JLR200
+   Lenz Thomas L, 2004, J AM PHARM ASSOC (2003), V44, P59, DOI 10.1331/154434504322713246
+   Mhurchu CN, 2004, INT J OBESITY, V28, P1149, DOI 10.1038/sj.ijo.0802693
+   *NAT I HLTH, 2004, NIH STRAT PLAN OB RE, V0, P0
+   Pi-Sunyer FX, 1998, OBES RES, V6, P0
+   Pittler MH, 2004, AM J CLIN NUTR, V79, P529
+   Pittler MH, 2003, INT J OBESITY, V27, P522, DOI 10.1038/sj.ijo.0802262
+   Risérus U, 2004, AM J CLIN NUTR, V79, P0
+   Shapses SA, 2004, J CLIN ENDOCR METAB, V89, P632, DOI 10.1210/jc.2002-021136
+   Shapses SA, 2001, J BONE MINER RES, V16, P1329, DOI 10.1359/jbmr.2001.16.7.1329
+   Shekelle PG, 2003, JAMA-J AM MED ASSOC, V289, P1537, DOI 10.1001/jama.289.12.1537
+   SQUIRES RD, 1959, J CLIN INVEST, V38, P1134, DOI 10.1172/JCI103890
+   Thomson C, 2002, J AM DIET ASSOC, V102, P1158, DOI 10.1016/S0002-8223(02)90257-9
+   Zemel MB, 2004, OBES RES, V12, P582, DOI 10.1038/oby.2004.67
+   ZEMEL MB, 2004, IN PRESS OBES RES, V0, P0
+NR 39
+TC 66
+Z9 79
+U1 0
+U2 23
+PU AMER DIETETIC ASSOC
+PI CHICAGO
+PA 120 S RIVERSIDE PLZ, STE 2000, CHICAGO, IL 60606-6995 USA
+SN 0002-8223
+EI 
+J9 J AM DIET ASSOC
+JI J. Am. Diet. Assoc.
+PD MAY 15
+PY 2005
+VL 105
+IS 5
+BP S80
+EP S86
+DI 10.1016/j.jada.2005.02.028
+PG 7
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 927VL
+UT WOS:000229228500014
+PM 15867902
+DA 2025-04-28
+ER
+

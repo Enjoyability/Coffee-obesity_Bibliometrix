@@ -1,0 +1,5 @@
+"","microbiota","weight","polyphenol","risk"
+"microbiota",1,-0.0345,1,-0.0345
+"weight",-0.0345,1,-0.0345,-0.0345
+"polyphenol",1,-0.0345,1,-0.0345
+"risk",-0.0345,-0.0345,-0.0345,1

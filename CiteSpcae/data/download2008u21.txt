@@ -1,0 +1,2171 @@
+PT J
+AU Dalbo, VJ
+   Roberts, MD
+   Stout, JR
+   Kerksick, CM
+AF Dalbo, Vincent J.
+   Roberts, Michael D.
+   Stout, Jeffrey R.
+   Kerksick, Chad M.
+TI Acute effects of ingesting a commercial thermogenic drink on changes in energy expenditure and markers of lipolysis
+SO JOURNAL OF THE INTERNATIONAL SOCIETY OF SPORTS NUTRITION
+LA English
+DT Article
+ID caffeine ingestion; substrate utilization; food ingredients; metabolic-rate; fat oxidation; double-blind; exercise; obesity; weight; coffee
+AB Background: To determine the acute effects of ingesting a thermogenic drink (Celsius, Delray Beach, FL) (TD) on changes in metabolism and lipolysis. Methods: Healthy college-aged male (23.2 +/- 4.0 y, 177.2 +/- 6.1 cm, 81.7 +/- 11.3 kg, 22.8 +/- 7.3% fat; n = 30) and female (23.4 +/- 3.1 y, 165.6 +/- 8.7 cm, 62.1 +/- 9.9 kg, 28.3 +/- 7.4% fat; n = 30) participants were matched according to height and weight to consume 336 ml of the TD or a non-caloric, non-caffeinated placebo (PLA). After a 12 h fast, participants reported for pre-consumption measures of height, weight, heart rate, blood pressure, resting energy expenditure (REE), respiratory exchange ratio (RER), glycerol and free-fatty acid (FFA) concentrations. REE and RER were determined at 60, 120, and 180 min post-consumption. Serum glycerol and FFA concentrations were determined at 30, 60, 120 and 180 min post-consumption. Results: When compared to PLA, TD significantly increased REE at 60, 120 and 180 min (p < 0.05). FFA concentrations were significantly greater in TD compared to PLA at 30, 60, 120 and 180 min post-consumption (p < 0.05). No between-group differences were found in RER. Conclusion: Acute TD ingestion significantly increased REE, FFA and glycerol appearance. If sustained, these changes may help to promote weight loss and improve body composition; however, these findings are currently unknown as are the general safety and efficacy of prolonged consumption.
+C1 [Dalbo, Vincent J.; Roberts, Michael D.; Stout, Jeffrey R.; Kerksick, Chad M.] Univ Oklahoma, Dept Hlth & Exercise Sci, Norman, OK 73019 USA.
+C3 University of Oklahoma System; University of Oklahoma - Norman
+RP Kerksick, CM (corresponding author), Univ Oklahoma, Dept Hlth & Exercise Sci, Norman, OK 73019 USA.
+EM vinnyjames@ou.edu; mike_roberts@ou.edu; jrstout@ou.edu; chad_kerksick@ou.edu
+FU Celsius Inc. (Delray Beach, FL)
+CR Acheson KJ, 2004, AM J CLIN NUTR, V79, P40
+   ACHESON KJ, 1980, AM J CLIN NUTR, V33, P989, DOI 10.1093/ajcn/33.5.989
+   Unknown -, 2003, HLTH AFF MILLWOOD S, V0, P0
+   ASTRUP A, 1990, AM J CLIN NUTR, V51, P759, DOI 10.1093/ajcn/51.5.759
+   BANGSBO J, 1992, J APPL PHYSIOL, V72, P1297, DOI 10.1063/1.351736
+   Baron M, 2004, HLTH CARE FOOD NUTR, V21, P5
+   BEAVO JA, 1970, MOL PHARMACOL, V6, P597
+   BELLET S, 1968, METABOLISM, V17, P702, DOI 10.1016/0026-0495(68)90054-1
+   Belza A, 2007, INT J OBESITY, V31, P121, DOI 10.1038/sj.ijo.0803351
+   Boschmann M, 2007, J AM COLL NUTR, V26, P389S, DOI 10.1080/07315724.2007.10719627
+   BRACCO D, 1995, AM J PHYSIOL-ENDOC M, V269, PE671, DOI 10.1152/ajpendo.1995.269.4.E671
+   COLLINS LC, 1994, INT J OBESITY, V18, P551
+   Crewe HK, 2007, J CHROMATOGR B, V847, P296, DOI 10.1016/j.jchromb.2006.10.019
+   Diepvens K, 2007, AM J PHYSIOL-REG I, V292, PR77, DOI 10.1152/ajpregu.00832.2005
+   Dobrzyn P, 2004, P NATL ACAD SCI USA, V101, P6409, DOI 10.1073/pnas.0401627101
+   DULLOO AG, 1989, AM J CLIN NUTR, V49, P44, DOI 10.1093/ajcn/49.1.44
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   Essig D, 1980, INT J SPORTS MED, V1, P86, DOI 10.1055/S-2008-1034637
+   Graham TE, 1998, J APPL PHYSIOL, V85, P883, DOI 10.1152/jappl.1998.85.3.883
+   GRAHAM TE, 1994, CAN J APPL PHYSIOL, V19, P111, DOI 10.1139/h94-010
+   Graham TE, 2000, J PHYSIOL-LONDON, V529, P837, DOI 10.1111/j.1469-7793.2000.00837.x
+   Hill AM, 2007, J AM COLL NUTR, V26, P396S, DOI 10.1080/07315724.2007.10719628
+   Hoffman Jay R, 2006, J INT SOC SPORTS NUTR, V3, P35, DOI 10.1186/1550-2783-3-1-35
+   Jessen AB, 2003, AM J CLIN NUTR, V77, P1442, DOI 10.1093/ajcn/77.6.1442
+   Klaus S, 2005, INT J OBESITY, V29, P615, DOI 10.1038/sj.ijo.0802926
+   Knapik JJ, 1983, BIOCHEM EXERC, V13, P514
+   Kovacs EMR, 2006, OBES REV, V7, P59, DOI 10.1111/j.1467-789X.2006.00203.x
+   LEBLANC J, 1985, J APPL PHYSIOL, V59, P832, DOI 10.1152/jappl.1985.59.3.832
+   Must A, 1999, JAMA-J AM MED ASSOC, V282, P1523, DOI 10.1001/jama.282.16.1523
+   Pittler MH, 2004, AM J CLIN NUTR, V79, P529
+   POEHLMAN ET, 1985, MED SCI SPORT EXER, V17, P689, DOI 10.1249/00005768-198512000-00012
+   POWERS SK, 1985, SPORTS MED, V2, P165, DOI 10.2165/00007256-198502030-00002
+   POWERS SK, 1983, EUR J APPL PHYSIOL, V50, P301, DOI 10.1007/BF00423236
+   Raederstorff DG, 2003, J NUTR BIOCHEM, V14, P326, DOI 10.1016/S0955-2863(03)00054-8
+   Roth M, 2000, BIOL CHEM, V381, P269, DOI 10.1515/BC.2000.035
+   Rudelle S, 2007, OBESITY, V15, P349, DOI 10.1038/oby.2007.529
+   Ryu S, 2001, J NUTR SCI VITAMINOL, V47, P139, DOI 10.3177/jnsv.47.139
+   Stein CJ, 2004, J CLIN ENDOCR METAB, V89, P2522, DOI 10.1210/jc.2004-0288
+   TAYLOR LW, 2007, J INT SOC SPORTS NUT, V4, P0
+   vanSoeren M, 1996, J APPL PHYSIOL, V80, P999, DOI 10.1152/jappl.1996.80.3.999
+   WOLF AM, 1994, PHARMACOECONOMICS, V5, P34, DOI 10.2165/00019053-199400051-00007
+   Wolpoff M, 1998, EVOL ANTHROPOL, V7, P1
+NR 42
+TC 26
+Z9 28
+U1 0
+U2 15
+PU BMC
+PI LONDON
+PA CAMPUS, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 
+EI 1550-2783
+J9 J INT SOC SPORT NUTR
+JI J. Int. Soc. Sport Nutr.
+PD FEB 20
+PY 2008
+VL 5
+IS 
+BP 
+EP 
+DI 10.1186/1550-2783-5-6
+PG 7
+WC Nutrition & Dietetics; Sport Sciences
+SC Nutrition & Dietetics; Sport Sciences
+GA 486NS
+UT WOS:000269204500001
+PM 18289388
+DA 2025-04-28
+ER
+
+PT J
+AU Nakabayashi, H
+   Hashimoto, T
+   Ashida, H
+   Nishiumi, S
+   Kanazawa, K
+AF Nakabayashi, Hideo
+   Hashimoto, Takashi
+   Ashida, Hitoshi
+   Nishiumi, Shin
+   Kanazawa, Kazuki
+TI Inhibitory effects of caffeine and its metabolites on intracellular lipid accumulation in murine 3T3-L1 adipocytes
+SO BIOFACTORS
+LA English
+DT Article; Proceedings Paper
+DE Caffeine; caffeine metabolites; 3T3-L1 adipocytes; glucose uptake; adipocyte differentiation
+ID glucose-transport; green tea; partial clearances; insulin; rat; differentiation; expression; cells; adipogenesis; allopurinol
+AB To understand the mechanisms of the anti-obesity effects of dietary caffeine, the effects of caffeine and its metabolites on adipocyte differentiation and insulin-stimulated glucose uptake in murine 3T3-L1 adipocytes were investigated. Caffeine did not inhibit the differentiation of 3T3-L1 pre-adipocytes to mature adipocytes, but it did suppress the intracellular lipid accumulation after complete differentiation in a dose-dependent manner (0.125-1.0 mM). This effect was also observed in 1,3,7-trimethyluric acid-3,7-dimethyluric acid-and 5-acetylamino-6-formylamino-3-methyluracil-treated cells. Caffeine also inhibited insulin-stimulated glucose uptake in differentiated 3T3-L1 adipocytes in a dose-dependent manner. Treatment with theophylline, paraxanthine, 1-methylxanthine (MX), 3-MX, or 7-MX also inhibited glucose uptake in differentiated adipocytes. These results suggest that the anti-obesity activity of dietary caffeine is due to the additive and/or synergistic inhibitory effects of caffeine and its metabolites on intracellular lipid accumulation and that caffeine does not affect adipocyte differentiation.
+C1 [Nakabayashi, Hideo; Hashimoto, Takashi; Ashida, Hitoshi; Nishiumi, Shin; Kanazawa, Kazuki] Kobe Univ, Grad Sch Agr Sci, Kobe, Hyogo 657, Japan.
+C3 Kobe University
+RP Hashimoto, T (corresponding author), 1-1 Rokkodai, Kobe, Hyogo 6578501, Japan.
+EM takashi@kobe-u.ac.jp
+CR Akiba T, 2004, BIOCHEM PHARMACOL, V68, P1929, DOI 10.1016/j.bcp.2004.07.036
+   Arnaud MJ, 1993, CAFFEINE COFFEE HLTH, V0, P43
+   ASTRUP A, 1990, AM J CLIN NUTR, V51, P759, DOI 10.1093/ajcn/51.5.759
+   Baumann CA, 2001, BIOESSAYS, V23, P215, DOI 10.1002/1521-1878(200103)23:3<215::AID-BIES1031>3.0.CO;2-S
+   BENOWITZ NL, 1990, ANNU REV MED, V41, P277, DOI 10.1146/annurev.me.41.020190.001425
+   BUKOWIECKI LJ, 1983, AM J PHYSIOL, V244, PR500, DOI 10.1152/ajpregu.1983.244.4.R500
+   CAO ZD, 1991, GENE DEV, V5, P1538, DOI 10.1101/gad.5.9.1538
+   CHOI OH, 1988, LIFE SCI, V43, P387, DOI 10.1016/0024-3205(88)90517-6
+   FLEDHOLM BB, 1978, BIOCHEM PHARMACOL, V27, P2845
+   GOULD GW, 1993, BIOCHEM J, V295, P329, DOI 10.1042/bj2950329
+   Graham TE, 2001, CAN J PHYSIOL PHARM, V79, P559, DOI 10.1139/cjpp-79-7-559
+   GREEN H, 1974, CELL, V3, P127, DOI 10.1016/0092-8674(74)90116-0
+   Greer F, 2001, DIABETES, V50, P2349, DOI 10.2337/diabetes.50.10.2349
+   Gregoire FM, 1998, PHYSIOL REV, V78, P783, DOI 10.1152/physrev.1998.78.3.783
+   GRYGIEL JJ, 1979, CLIN PHARMACOL THER, V26, P660
+   Hamm JK, 2001, J BIOL CHEM, V276, P18464, DOI 10.1074/jbc.M100797200
+   Hansen JB, 2001, J BIOL CHEM, V276, P3175, DOI 10.1074/jbc.M005567200
+   Hasegawa N, 2000, J HEALTH SCI, V46, P153
+   Hinds TS, 1996, NUTR REV, V54, P203, DOI 10.1111/j.1753-4887.1996.tb03933.x
+   JOOST HG, 1987, MOL PHARMACOL, V31, P279
+   KALOW W, 1993, CLIN PHARMACOL THER, V53, P503, DOI 10.1038/clpt.1993.63
+   KALOW W, 1991, CLIN PHARMACOL THER, V49, P44, DOI 10.1038/clpt.1991.8
+   KASHIWAGI A, 1983, J BIOL CHEM, V258, P3685
+   KIMURA K, 1994, J BIOL CHEM, V269, P18961
+   LELO A, 1986, BRIT J CLIN PHARMACO, V22, P183, DOI 10.1111/j.1365-2125.1986.tb05247.x
+   LELO A, 1989, J PHARMACOL EXP THER, V248, P315
+   LOWRY OH, 1951, J BIOL CHEM, V193, P265
+   Magun R, 1996, ENDOCRINOLOGY, V137, P3590, DOI 10.1210/en.137.8.3590
+   Michna L, 2003, LIFE SCI, V73, P1383, DOI 10.1016/S0024-3205(03)00468-5
+   MINERS JO, 1982, DRUG METAB DISPOS, V10, P672
+   PARSONS WD, 1976, PEDIATR RES, V10, P333
+   STEINFELDER HJ, 1990, BIOCHEM PHARMACOL, V40, P1154, DOI 10.1016/0006-2952(90)90508-I
+   TOMIYAMA K, 1995, BIOCHEM BIOPH RES CO, V212, P263, DOI 10.1006/bbrc.1995.1965
+   TONTONOZ P, 1994, CELL, V79, P1147, DOI 10.1016/0092-8674(94)90006-X
+   VERGAUWEN L, 1994, J CLIN INVEST, V93, P974, DOI 10.1172/JCI117104
+   WHITMAN M, 1988, NATURE, V332, P644, DOI 10.1038/332644a0
+   YEH WC, 1995, GENE DEV, V9, P168, DOI 10.1101/gad.9.2.168
+   Zheng GD, 2004, IN VIVO, V18, P55
+NR 38
+TC 43
+Z9 45
+U1 1
+U2 12
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0951-6433
+EI 1872-8081
+J9 BIOFACTORS
+JI Biofactors
+PD JUN 15
+PY 2008
+VL 34
+IS 4
+BP 293
+EP 302
+DI 10.1002/biof.5520340405
+PG 10
+WC Biochemistry & Molecular Biology; Endocrinology & Metabolism
+SC Biochemistry & Molecular Biology; Endocrinology & Metabolism
+GA 509NT
+UT WOS:000271025400005
+PM 19850984
+DA 2025-04-28
+ER
+
+PT J
+AU Gerhauser, C
+AF Gerhauser, Clarissa
+TI Cancer Chemopreventive Potential of Apples, Apple juice, and Apple Components
+SO PLANTA MEDICA
+LA English
+DT Review
+DE apples; Malus sp.; Rosaceae; cancer chemoprevention; oligomeric procyanidins; polyphenols
+ID plasma antioxidant capacity; pomace extraction juices; growth-factor receptor; kappa-b activation; dna-damage; hydrogen-peroxide; chlorogenic acid; malus-pumila; in-vitro; antiproliferative activity
+AB Apples (Malus sp., Rosaceae) are a rich source of nutrient as well as non-nutrient components and contain high levels of polyphenols and other phytochemicals. Main structural classes of apple constituents include hydroxycinnamic acids, di-hydrochalcones, flavonols (quercetin glycosides), catechins and oligomeric procyaniclins, as well as triterpenoids in apple peel and anthocyanins in red apples. Several lines of evidence suggest that apples and apple products possess a wide range of biological activities which may contribute to health beneficial effects against cardiovascular disease, asthma and pulmonary dysfunction, diabetes, obesity, and cancer (reviewed by Boyer and Liu, Nutr J 2004). The present review will summarize the current knowledge on potential cancer preventive effects of apples, apple juice and apple extracts (jointly designated as apple products). In brief, apple extracts and components, especially oligomeric procyanidins, have been shown to influence multiple mechanisms relevant for cancer prevention in in vitro studies. These include antimutagenic activity, modulation of carcinogen metabolism, antioxidant activity, anti-inflammatory mechanisms, modulation of signal transduction pathways, antiproliferative and apoptosis-inducing activity, as well as novel mechanisms on epigenetic events and innate immunity. Apple products have been shown to prevent skin, mammary and colon carcinogenesis in animal models. Epidemiological observations indicate that regular consumption of one or more apples a day may reduce the risk for lung and colon cancer.
+C1 German Canc Res Ctr, Div Toxicol & Canc Risk Factors, D-9120 Heidelberg, Germany.
+C3 Helmholtz Association; German Cancer Research Center (DKFZ)
+RP Gerhauser, C (corresponding author), German Canc Res Ctr, Div Toxicol & Canc Risk Factors, Neuenheimer Feld 280, D-9120 Heidelberg, Germany.
+EM c.gerhauser@dkfz.de
+CR Aggarwal BB, 2006, BIOCHEM PHARMACOL, V71, P1397, DOI 10.1016/j.bcp.2006.02.009
+   Ahn KS, 2007, CURR MOL MED, V7, P619, DOI 10.2174/156652407782564363
+   Akazome Y, 2004, BIOFACTORS, V22, P311, DOI 10.1002/biof.5520220161
+   Akiyama H, 2005, FEBS LETT, V579, P4485, DOI 10.1016/j.febslet.2005.07.019
+   Alonso-Salces RM, 2004, J AGR FOOD CHEM, V52, P2938, DOI 10.1021/jf035416l
+   Aprikian O, 2003, J NUTR, V133, P1860, DOI 10.1093/jn/133.6.1860
+   Aron PM, 2008, MOL NUTR FOOD RES, V52, P79, DOI 10.1002/mnfr.200700137
+   Arts ICW, 2001, INT J CANCER, V92, P298, DOI 10.1002/1097-0215(200102)9999:9999<::AID-IJC1187>3.0.CO;2-8
+   Balavenkatraman KK, 2006, ONCOGENE, V25, P6319, DOI 10.1038/sj.onc.1209647
+   Barth SW, 2007, J AGR FOOD CHEM, V55, P1181, DOI 10.1021/jf063078t
+   Barth SW, 2005, CARCINOGENESIS, V26, P1414, DOI 10.1093/carcin/bgi082
+   Boyer J, 2004, NUTR J, V3, P0, DOI 10.1186/1475-2891-3-5
+   Briviba K, 2007, J AGR FOOD CHEM, V55, P7716, DOI 10.1021/jf0710534
+   Burda S, 2001, J AGR FOOD CHEM, V49, P2774, DOI 10.1021/jf001413m
+   Chen D, 2008, HISTOL HISTOPATHOL, V23, P487, DOI 10.14670/HH-23.487
+   Chen MS, 2004, IN VIVO, V18, P73
+   Chinnici F, 2004, J AGR FOOD CHEM, V52, P4684, DOI 10.1021/jf049770a
+   Chrzczanowicz J, 2008, CLIN CHEM LAB MED, V46, P342, DOI 10.1515/CCLM.2008.062
+   Crespy V, 2001, J NUTR, V131, P3227, DOI 10.1093/jn/131.12.3227
+   Crespy V, 2001, J NUTR, V131, P2109, DOI 10.1093/jn/131.8.2109
+   DAngelo S, 2007, J AGR FOOD CHEM, V55, P9977, DOI 10.1021/jf071773a
+   Davie JR, 2003, J NUTR, V133, P2485S, DOI 10.1093/jn/133.7.2485S
+   Davis PA, 2006, EXP BIOL MED, V231, P594
+   De Flora S, 2005, MUTAT RES-FUND MOL M, V591, P8, DOI 10.1016/j.mrfmmm.2005.02.029
+   DeneoPellegrini H, 1996, NUTR CANCER, V25, P297, DOI 10.1080/01635589609514453
+   Déprez S, 2000, J NUTR, V130, P2733, DOI 10.1093/jn/130.11.2733
+   Ding M, 2004, J BIOL CHEM, V279, P10670, DOI 10.1074/jbc.M311465200
+   Eberhardt MV, 2000, NATURE, V405, P903, DOI 10.1038/35016148
+   Ellinger W, 2007, ZMP MARKTBILANZ OBST, V0, P0
+   Fang MZ, 2007, J NUTR, V137, P223S, DOI 10.1093/jn/137.1.223S
+   FERGUSON LR, 1994, MUTAT RES, V307, P395, DOI 10.1016/0027-5107(94)90313-1
+   Ferguson LR, 2003, FOOD CHEM TOXICOL, V41, P785, DOI 10.1016/S0278-6915(03)00012-7
+   Feskanich D, 2000, JNCI-J NATL CANCER I, V92, P1812, DOI 10.1093/jnci/92.22.1812
+   Fini L, 2007, J NUTR, V137, P2622, DOI 10.1093/jn/137.12.2622
+   Fridrich D, 2007, MOL NUTR FOOD RES, V51, P594, DOI 10.1002/mnfr.200600189
+   Frighetto RTS, 2008, FOOD CHEM, V106, P767, DOI 10.1016/j.foodchem.2007.06.003
+   Gallus S, 2005, ANN ONCOL, V16, P1841, DOI 10.1093/annonc/mdi361
+   Gerhäuser C, 2008, EJC SUPPL, V6, P50, DOI 10.1016/S1359-6349(08)70258-1
+   Gerhäuser C, 2003, MUTAT RES-FUND MOL M, V523, P163, DOI 10.1016/S0027-5107(02)00332-9
+   GERHAUSER C, 2007, FORUM DTSCH KREBSGES, V0, P5
+   Gonthier MP, 2003, J NUTR, V133, P1853, DOI 10.1093/jn/133.6.1853
+   Goodlad RA, 2007, NUTRITION, V23, P434, DOI 10.1016/j.nut.2006.10.010
+   Gossé F, 2005, CARCINOGENESIS, V26, P1291, DOI 10.1093/carcin/bgi074
+   Gossé F, 2006, INT J ONCOL, V29, P423
+   Graff JC, 2007, J LEUKOCYTE BIOL, V82, P603, DOI 10.1189/jlb.0207125
+   Gu LW, 2004, J NUTR, V134, P613, DOI 10.1093/jn/134.3.613
+   Guyot S, 2003, J AGR FOOD CHEM, V51, P6240, DOI 10.1021/jf0301798
+   Guyot S, 2001, J AGR FOOD CHEM, V49, P14, DOI 10.1021/jf000814z
+   Guyot S, 1998, J AGR FOOD CHEM, V46, P1698, DOI 10.1021/jf970832p
+   He XJ, 2007, J AGR FOOD CHEM, V55, P4366, DOI 10.1021/jf063563o
+   Hensel A, 1999, PLANTA MED, V65, P395, DOI 10.1055/s-1999-14013
+   Hibasami H, 2004, INT J MOL MED, V13, P795
+   Hoffmann Raymond G, 2007, V404, V0, PP19, DOI 10.1007/978-1-59745-530-5_2
+   Holderness J, 2007, J IMMUNOL, V179, P6468, DOI 10.4049/jimmunol.179.10.6468
+   Huemmer Wolfgang, 2008, BIOTECHNOL J, V3, P234, DOI 10.1002/biot.200700116
+   Jaenisch R, 2003, NAT GENET, V33, P245, DOI 10.1038/ng1089
+   Kahle K, 2005, MOL NUTR FOOD RES, V49, P1143, DOI 10.1002/mnfr.200500132
+   Kahle K, 2005, MOL NUTR FOOD RES, V49, P797, DOI 10.1002/mnfr.200500064
+   Kahle K, 2007, J AGR FOOD CHEM, V55, P10605, DOI 10.1021/jf071942r
+   Kang NJ, 2004, BIOFACTORS, V21, P361, DOI 10.1002/biof.552210169
+   Kelloff GJ, 2006, CLIN CANCER RES, V12, P3661, DOI 10.1158/1078-0432.CCR-06-1104
+   Kern M, 2005, MOL NUTR FOOD RES, V49, P317, DOI 10.1002/mnfr.200400086
+   Kern M, 2007, J AGR FOOD CHEM, V55, P4999, DOI 10.1021/jf063158x
+   Kern M, 2006, J AGR FOOD CHEM, V54, P7041, DOI 10.1021/jf0606611
+   Kestell P, 2004, J CHROMATOGR B, V802, P201, DOI 10.1016/j.jchromb.2003.10.046
+   Kisselev AF, 2001, CHEM BIOL, V8, P739, DOI 10.1016/S1074-5521(01)00056-4
+   Knekt P, 2002, AM J CLIN NUTR, V76, P560, DOI 10.1093/ajcn/76.3.560
+   Ko SH, 2005, J MED FOOD, V8, P41, DOI 10.1089/jmf.2005.8.41
+   Köhle C, 2007, BIOCHEM PHARMACOL, V73, P1853, DOI 10.1016/j.bcp.2007.01.009
+   Lapidot T, 2002, J AGR FOOD CHEM, V50, P3156, DOI 10.1021/jf011522g
+   Lata B, 2005, J AGR FOOD CHEM, V53, P8970, DOI 10.1021/jf051503x
+   Lata B, 2007, J AGR FOOD CHEM, V55, P10795, DOI 10.1021/jf072035p
+   Le Marchand L, 2000, JNCI-J NATL CANCER I, V92, P154, DOI 10.1093/jnci/92.2.154
+   Lee KW, 2003, J AGR FOOD CHEM, V51, P6516, DOI 10.1021/jf034475w
+   Lee Se Young, 2005, KOREAN J GASTROENTEROL, V45, P23
+   Lindblad P, 1997, CANCER EPIDEM BIOMAR, V6, P215
+   Liu RH, 2005, J AGR FOOD CHEM, V53, P2341, DOI 10.1021/jf058010c
+   Liu RH, 2003, J AGR FOOD CHEM, V51, P1718, DOI 10.1021/jf026162r
+   Long LH, 2000, BIOCHEM BIOPH RES CO, V273, P50, DOI 10.1006/bbrc.2000.2895
+   Lotito SB, 2004, FREE RADICAL BIO MED, V36, P201
+   Lotito SB, 2004, FREE RADICAL BIO MED, V37, P251, DOI 10.1016/j.freeradbiomed.2004.04.019
+   Lotito SB, 2006, FREE RADICAL BIO MED, V41, P1727, DOI 10.1016/j.freeradbiomed.2006.04.033
+   Maffei F, 2007, BRIT J NUTR, V97, P921, DOI 10.1017/S0007114507665192
+   Maldonado-Celis ME, 2008, CELL MOL LIFE SCI, V65, P1425, DOI 10.1007/s00018-008-8023-4
+   Manach C, 2005, AM J CLIN NUTR, V81, P230S, DOI 10.1093/ajcn/81.1.230S
+   MANDIR N, 2008, BR J NUTR, V0, P1
+   Mangas JJ, 1997, J AGR FOOD CHEM, V45, P4777, DOI 10.1021/jf970262t
+   Mayer B, 2001, ANAL BIOCHEM, V297, P144, DOI 10.1006/abio.2001.5333
+   McCann MJ, 2007, FOOD CHEM TOXICOL, V45, P1224, DOI 10.1016/j.fct.2007.01.003
+   McGhie TK, 2005, J AGR FOOD CHEM, V53, P3065, DOI 10.1021/jf047832r
+   Mehrländer K, 2002, J AGR FOOD CHEM, V50, P1230, DOI 10.1021/jf011007i
+   Meier P, 2000, NATURE, V407, P796, DOI 10.1038/35037734
+   Michels KB, 2006, CANCER RES, V66, P3942, DOI 10.1158/0008-5472.CAN-05-3637
+   Milner JA, 2006, NUTR CANCER, V56, P216, DOI 10.1207/s15327914nc5602_13
+   Miura D, 2007, BIOSCI BIOTECH BIOCH, V71, P2743, DOI 10.1271/bbb.70359
+   Miura T, 2008, CARCINOGENESIS, V29, P585, DOI 10.1093/carcin/bgm198
+   MULERONAVARRO S, 2008, CRIT REV ONCOL HEMAT, V0, P0, DOI DOI 10.1016/J.CRI-TREVONC.2008.03.001
+   OHKAMI H, 1995, JPN J CANCER RES, V86, P523, DOI 10.1111/j.1349-7006.1995.tb02429.x
+   OhnishiKameyama M, 1997, RAPID COMMUN MASS SP, V11, P31, DOI 10.1002/(SICI)1097-0231(19970115)11:1<31::AID-RCM784>3.0.CO;2-T
+   Olthof MR, 2003, J NUTR, V133, P1806, DOI 10.1093/jn/133.6.1806
+   Olthof MR, 2001, J NUTR, V131, P66, DOI 10.1093/jn/131.1.66
+   Oszmianski J, 2007, J SCI FOOD AGR, V87, P573, DOI 10.1002/jsfa.2707
+   Ovesná Z, 2004, NEOPLASMA, V51, P327
+   OWEN R W, 1987, NUTRITION AND CANCER, V9, P67
+   Pan L, 2005, CANCER EPIDEM BIOMAR, V14, P0
+   Park SY, 2007, J MED FOOD, V10, P581, DOI 10.1089/jmf.2007.116
+   Pearson DA, 1999, LIFE SCI, V64, P1913, DOI 10.1016/S0024-3205(99)00137-X
+   Percival SS, 2008, J NUTR, V138, P1
+   Pohl C, 2006, J AGR FOOD CHEM, V54, P10262, DOI 10.1021/jf061791c
+   Prior RL, 2005, PHYTOCHEMISTRY, V66, P2264, DOI 10.1016/j.phytochem.2005.03.025
+   Ramos S, 2008, MOL NUTR FOOD RES, V52, P507, DOI 10.1002/mnfr.200700326
+   Rios LY, 2002, AM J CLIN NUTR, V76, P1106, DOI 10.1093/ajcn/76.5.1106
+   Sanoner P, 1999, J AGR FOOD CHEM, V47, P4847, DOI 10.1021/jf990563y
+   Scalbert A, 2000, J NUTR, V130, P2073S, DOI 10.1093/jn/130.8.2073S
+   Schaefer S, 2006, MOL NUTR FOOD RES, V50, P24, DOI 10.1002/mnfr.200500136
+   Schmitz-Eiberger M, 2003, J APPL BOT-ANGEW BOT, V77, P167
+   Sembries S, 2004, J NUTR BIOCHEM, V15, P296, DOI 10.1016/j.jnutbio.2003.12.005
+   Sembries S, 2003, BRIT J NUTR, V90, P607, DOI 10.1079/BJN2003925
+   Sembries S, 2006, J AGR FOOD CHEM, V54, P10269, DOI 10.1021/jf0618168
+   Sengupta S, 2006, J GASTROEN HEPATOL, V21, P209, DOI 10.1111/j.1440-1746.2006.04213.x
+   Shi David, 2002, JOURNAL OF ENVIRONMENTAL PATHOLOGY TOXICOLOGY AND ONCOLOGY, V21, P233
+   Shibusawa Y, 2001, J CHROMATOGR A, V915, P253, DOI 10.1016/S0021-9673(01)00575-1
+   Shimizu J, 1996, J NUTR SCI VITAMINOL, V42, P527, DOI 10.3177/jnsv.42.527
+   Shoji T, 2006, J CHROMATOGR A, V1102, P206, DOI 10.1016/j.chroma.2005.10.065
+   Shoji T, 2004, FOOD CHEM TOXICOL, V42, P959, DOI 10.1016/j.fct.2004.02.008
+   Souci SW, 2005, FOOD COMPOSITION NUT, V0, P0
+   Spencer JPE, 2001, ANTIOXID REDOX SIGN, V3, P1023, DOI 10.1089/152308601317203558
+   SPORN MB, 1979, FED PROC, V38, P2528
+   Surh YJ, 2003, NAT REV CANCER, V3, P768, DOI 10.1038/nrc1189
+   Theodoratou E, 2007, CANCER EPIDEM BIOMAR, V16, P684, DOI 10.1158/1055-9965.EPI-06-0785
+   Thielen C, 2004, DEUT LEBENSM-RUNDSCH, V100, P389
+   Trosko JE, 2006, CONTRIB MICROBIOL, V13, P45, DOI 10.1159/000092965
+   Tsao R, 2003, J AGR FOOD CHEM, V51, P6347, DOI 10.1021/jf0346298
+   Ulrich CM, 2006, NAT REV CANCER, V6, P130, DOI 10.1038/nrc1801
+   Valko M, 2007, INT J BIOCHEM CELL B, V39, P44, DOI 10.1016/j.biocel.2006.07.001
+   Van Buren J, 1970, THE BIOCHEMISTRY OF FRUITS AND THEIR PRODUCTS, V0, P0
+   van der Sluis AA, 2000, J AGR FOOD CHEM, V48, P4116, DOI 10.1021/jf000156i
+   Vanzani P, 2005, J AGR FOOD CHEM, V53, P3377, DOI 10.1021/jf040482o
+   Veeriah S, 2006, MOL CARCINOGEN, V45, P164, DOI 10.1002/mc.20158
+   Veeriah S, 2008, INT J CANCER, V122, P2647, DOI 10.1002/ijc.23440
+   Veeriah S, 2007, J AGR FOOD CHEM, V55, P2892, DOI 10.1021/jf063386r
+   Vermeulen K, 2005, ANN HEMATOL, V84, P627, DOI 10.1007/s00277-005-1065-x
+   Vrhovsek U, 2004, J AGR FOOD CHEM, V52, P6532, DOI 10.1021/jf049317z
+   Waldecker M, 2008, NUTRITION, V24, P366, DOI 10.1016/j.nut.2007.12.013
+   Walle T, 2000, J NUTR, V130, P2658, DOI 10.1093/jn/130.11.2658
+   Walle Thomas, 2001, JOURNAL OF NUTRITION, V131, P2648
+   Will F, 2000, EUR FOOD RES TECHNOL, V211, P291, DOI 10.1007/s002170000171
+   Wilms LC, 2005, MUTAT RES-GEN TOX EN, V582, P155, DOI 10.1016/j.mrgentox.2005.01.006
+   Wilms LC, 2007, CARCINOGENESIS, V28, P1800, DOI 10.1093/carcin/bgm145
+   *WIRTSCH ALK GETR, 2008, PROKOPF VERBR ALK GE, V0, P0
+   Wolfe KL, 2003, J AGR FOOD CHEM, V51, P1676, DOI 10.1021/jf025916z
+   Yanagida A, 1999, J CHROMATOGR A, V855, P181, DOI 10.1016/S0021-9673(99)00684-6
+   Yanagida A, 2000, J CHROMATOGR A, V890, P251, DOI 10.1016/S0021-9673(00)00614-2
+   Yang CS, 2001, ANNU REV NUTR, V21, P381, DOI 10.1146/annurev.nutr.21.1.381
+   Yang GY, 1998, CARCINOGENESIS, V19, P611, DOI 10.1093/carcin/19.4.611
+   Yoon H, 2007, J AGR FOOD CHEM, V55, P3167, DOI 10.1021/jf0632379
+   Zessner H, 2008, MOL NUTR FOOD RES, V52, PS28, DOI 10.1002/mnfr.200700317
+NR 158
+TC 196
+Z9 219
+U1 9
+U2 104
+PU GEORG THIEME VERLAG KG
+PI STUTTGART
+PA RUDIGERSTR 14, D-70469 STUTTGART, GERMANY
+SN 0032-0943
+EI 1439-0221
+J9 PLANTA MED
+JI Planta Med.
+PD OCT 15
+PY 2008
+VL 74
+IS 13
+BP 1608
+EP 1624
+DI 10.1055/s-0028-1088300
+PG 17
+WC Plant Sciences; Chemistry, Medicinal; Integrative & Complementary Medicine; Pharmacology & Pharmacy
+SC Plant Sciences; Pharmacology & Pharmacy; Integrative & Complementary Medicine
+GA 370RT
+UT WOS:000260781300010
+PM 18855307
+DA 2025-04-28
+ER
+
+PT J
+AU Dallas, C
+   Gerbi, A
+   Tenca, G
+   Juchaux, F
+   Bernard, FX
+AF Dallas, Constantin
+   Gerbi, Alain
+   Tenca, Guillaume
+   Juchaux, Franck
+   Bernard, Francois-Xavier
+TI Lipolytic effect of a polyphenolic citrus dry extract of red orange, grapefruit, orange (SINETROL) in human body fat adipocytes. Mechanism of action by inhibition of cAMP-phosphodiesterase (PDE)
+SO PHYTOMEDICINE
+LA English
+DT Article
+DE Lipolysis; Citrus; Adipocytes; Phosphodiesterase; Body fat; Free fatty acids (FFA)
+ID model wine solutions; green tea; oligomeric procyanidins; rat adipocytes; 3t3-l1 cells; anthocyanins; acetaldehyde; consumption; substances; flavonoids
+AB The present study investigated the lipolytic (break of fat stored) effect of a citrus-based polyphenolic dietary supplement (SINETROL) at human adipocytes (ex vivo), body fat (clinical) and biochemical levels (inhibition of phosphodiesterase). Free fatty acids (FFA) release was used as indicator of human adipocyte lipolysis and SINETROL activity has been compared with known lipolytic products (isoproterenol, theopylline and caffeine). SINETROL stimulated significantly the lipolytic activity in a range of 6 fold greater than the control. Moreover, SINETROL has 2.1 greater activity than guarana 12% caffeine while its content in caffeine is 3 times lower. Clinically, two groups of 10 volunteers with BMI relevant of overweight were compared during 4 and 12 weeks with 1.4 g/day SINETROL and placebo supplementation. In the SINETROL Group the body fat (%) decreased with a significant difference of 5.53% and 15.6% after 4 and 12 weeks, respectively, while the body weight (kg) decreased with a significant difference of 2.2 and 5.2 kg after 4 and 12 weeks, respectively. These observed effects are linked to SINETROL polyphenolic composition and its resulting synergistic activity. SINETROL is a potent inhibitor of cAMP-phosphodiesterase (PDE) (97%) compared to other purified compounds (cyanidin-3 glycoside, narangin, caffeine). These results suggest that SINETROL has a strong lipolytic effect mediated by cAMP-PDE inhibition. SINETROL may serve to prevent obesity by decreasing BMI. (C) 2008 Elsevier GmbH. All rights reserved.
+C1 [Dallas, Constantin] FYTEXIA NB Consulting Grp, ZAC Mercorent, F-34500 Beziers, France.
+   [Tenca, Guillaume; Juchaux, Franck; Bernard, Francois-Xavier] BIOalternat SAS, F-86160 Gencay, France.
+RP Dallas, C (corresponding author), FYTEXIA NB Consulting Grp, ZAC Mercorent, 280 Rue Nicolas Joseph Cugnot, F-34500 Beziers, France.
+EM cdallas@fytexia.com
+CR Balkau B, 2007, CIRCULATION, V116, P1942, DOI 10.1161/CIRCULATIONAHA.106.676379
+   Ballard TLP, 2006, CLIN EXP PHARMACOL P, V33, P310, DOI 10.1111/j.1440-1681.2006.04367.x
+   BEAVO JA, 1971, ANN NY ACAD SCI, V185, P129
+   Chen D, 2004, FRONT BIOSCI-LANDMRK, V9, P2618, DOI 10.2741/1421
+   Dallas C, 1996, J AGR FOOD CHEM, V44, P2402, DOI 10.1021/jf940433j
+   Dallas C, 1995, VITIS, V34, P51
+   DALLAS C, 1994, J SCI FOOD AGR, V65, P477, DOI 10.1002/jsfa.2740650416
+   Dallas C, 1996, J SCI FOOD AGR, V70, P493, DOI 10.1002/(SICI)1097-0010(199604)70:4<493::AID-JSFA528>3.3.CO;2-Z
+   DALLAS C, 1994, VITIS, V33, P41
+   FRANKEL EN, 1993, LANCET, V341, P454, DOI 10.1016/0140-6736(93)90206-V
+   Fujioka K, 2006, J MED FOOD, V9, P49, DOI 10.1089/jmf.2006.9.49
+   Girotti C, 2005, PLANTA MED, V71, P1170, DOI 10.1055/s-2005-873146
+   Jiang M, 1998, PLANTA MED, V64, P375, DOI 10.1055/s-2006-957456
+   KUPPUSAMY UR, 1992, BIOCHEM PHARMACOL, V44, P1307, DOI 10.1016/0006-2952(92)90531-M
+   LAUGHTON MJ, 1991, BIOCHEM PHARMACOL, V42, P1673, DOI 10.1016/0006-2952(91)90501-U
+   Mochizuki M, 2004, PHYTOTHER RES, V18, P1029, DOI 10.1002/ptr.1612
+   Mochizuki M, 2004, PHYTOTHER RES, V18, P945, DOI 10.1002/ptr.1580
+   Orgogozo JM, 1997, REV NEUROL-FRANCE, V153, P185
+   RENOLD AE, 1965, HDB PHYSL 5, V0, P0
+   Robidoux J, 2006, J BIOL CHEM, V281, P37794, DOI 10.1074/jbc.M605572200
+   RODBELL M, 1964, J BIOL CHEM, V239, P375
+   Shixian Q, 2006, J MED FOOD, V9, P451, DOI 10.1089/jmf.2006.9.451
+   SPECTOR AA, 1975, J LIPID RES, V16, P165
+   STEINBERG D, 1977, FED PROC, V36, P1986
+   Tsuda T, 2005, BBA-MOL CELL BIOL L, V1733, P137, DOI 10.1016/j.bbalip.2004.12.014
+   Yoshikawa M, 2002, J NUTR, V132, P1819, DOI 10.1093/jn/132.7.1819
+NR 26
+TC 64
+Z9 74
+U1 2
+U2 38
+PU ELSEVIER GMBH, URBAN & FISCHER VERLAG
+PI JENA
+PA OFFICE JENA, P O BOX 100537, 07705 JENA, GERMANY
+SN 0944-7113
+EI 
+J9 PHYTOMEDICINE
+JI Phytomedicine
+PD OCT 15
+PY 2008
+VL 15
+IS 10
+BP 783
+EP 792
+DI 10.1016/j.phymed.2008.05.006
+PG 10
+WC Plant Sciences; Chemistry, Medicinal; Integrative & Complementary Medicine; Pharmacology & Pharmacy
+SC Plant Sciences; Pharmacology & Pharmacy; Integrative & Complementary Medicine
+GA 364RG
+UT WOS:000260352200001
+PM 18617377
+DA 2025-04-28
+ER
+
+PT J
+AU Moisey, LL
+   Kacker, S
+   Bickerton, AC
+   Robinson, LE
+   Graham, TE
+AF Moisey, Lesley L.
+   Kacker, Sita
+   Bickerton, Andrea C.
+   Robinson, Lindsay E.
+   Graham, Terry E.
+TI Caffeinated coffee consumption impairs blood glucose homeostasis in response to high and low glycemic index meals in healthy men
+SO AMERICAN JOURNAL OF CLINICAL NUTRITION
+LA English
+DT Article
+ID type-2 diabetes-mellitus; tolerance test; insulin sensitivity; risk; ingestion; humans; women; management; increases; secretion
+AB Background: The ingestion of caffeine (5 mg/kg body weight) and a 75-g oral glucose load has been shown to elicit an acute insulin-insensitive environment in healthy and obese individuals and in those with type 2 diabetes. Objective: In this study we investigated whether a similar impairment in blood glucose management exists when coffee and foods typical of a Western diet were used in a similar protocol. Design: Ten healthy men underwent 4 trials in a randomized order. They ingested caffeinated (5 mg/kg) coffee (CC) or the same volume of decaffeinated coffee (DC) followed 1 h later by either a high or low glycemic index (GI) cereal (providing 75 g of carbohydrate) mixed meal tolerance test. Results: CC with the high GI meal resulted in 147%, 29%, and 40% greater areas under the curve for glucose (P < 0.001), insulin (NS), and C-peptide (P < 0.001), respectively, compared with the values for DC. Similarly, with the low GI treatment, CC elicited 216%, 44%, and 36% greater areas under the curve for glucose (P < 0.001), insulin (P < 0.01), and C-peptide (P < 0.01), respectively. Insulin sensitivity was significantly reduced (40%) with the high GI treatment after CC was ingested compared with DC; with the low GI treatment, CC ingestion resulted in a 29% decrease in insulin sensitivity, although this difference was not significant. Conclusion: The ingestion of CC with either a high or low GI meal significantly impairs acute blood glucose management and insulin sensitivity compared with ingestion of DC. Future investigations are warranted to determine whether CC is a risk factor for insulin resistance.
+C1 [Moisey, Lesley L.; Kacker, Sita; Bickerton, Andrea C.; Robinson, Lindsay E.; Graham, Terry E.] Univ Guelph, Dept Human Hlth & Nutr Sci, Guelph, ON N1G 2W1, Canada.
+C3 University of Guelph
+RP Graham, TE (corresponding author), Univ Guelph, Dept Human Hlth & Nutr Sci, Guelph, ON N1G 2W1, Canada.
+EM terrygra@uoguelph.ca
+CR Agardh EE, 2004, J INTERN MED, V255, P645, DOI 10.1111/j.1365-2796.2004.01331.x
+   ALLISON DB, 1995, DIABETES CARE, V18, P245, DOI 10.2337/diacare.18.2.245
+   Unknown -, 2003, CANADIAN DIABETES AS, V27, P0
+   Avogaro A, 1996, DIABETES, V45, P1373, DOI 10.2337/diabetes.45.10.1373
+   Battram DS, 2006, J NUTR, V136, P1276, DOI 10.1093/jn/136.5.1276
+   BATTRAM DS, 2000, J PHYSL, V583, P1069
+   Brand-Miller J, 2003, DIABETES CARE, V26, P2261, DOI 10.2337/diacare.26.8.2261
+   Carlsson S, 2004, INT J EPIDEMIOL, V33, P616, DOI 10.1093/ije/dyh185
+   Farah A, 2006, J AGR FOOD CHEM, V54, P374, DOI 10.1021/jf0518305
+   FREDHOLM BB, 1995, PHARMACOL TOXICOL, V76, P93, DOI 10.1111/j.1600-0773.1995.tb00111.x
+   GILBERT RM, 1984, METHYLXANTHINE BEVER, V0, P185
+   Graham TE, 1998, J APPL PHYSIOL, V85, P883, DOI 10.1152/jappl.1998.85.3.883
+   Graham TE, 2001, CAN J PHYSIOL PHARM, V79, P559, DOI 10.1139/cjpp-79-7-559
+   Greer F, 2001, DIABETES, V50, P2349, DOI 10.2337/diabetes.50.10.2349
+   Harland BF, 2000, NUTRITION, V16, P522, DOI 10.1016/S0899-9007(00)00369-5
+   Johnston KL, 2003, AM J CLIN NUTR, V78, P728, DOI 10.1093/ajcn/78.4.728
+   Keijzers GB, 2002, DIABETES CARE, V25, P364, DOI 10.2337/diacare.25.2.364
+   Lane James D, 2007, ENDOCR PRACT, V13, P239
+   Lane JD, 2004, DIABETES CARE, V27, P2047, DOI 10.2337/diacare.27.8.2047
+   LOWRY OH, 1993, ENZYMATIC ANAL PRACT, V0, P0
+   Matsuda M, 1999, DIABETES CARE, V22, P1462, DOI 10.2337/diacare.22.9.1462
+   Nawrot P, 2003, FOOD ADDIT CONTAM A, V20, P1, DOI 10.1080/0265203021000007840
+   Pereira MA, 2006, ARCH INTERN MED, V166, P1311, DOI 10.1001/archinte.166.12.1311
+   Petrie HJ, 2004, AM J CLIN NUTR, V80, P22
+   Pizziol A, 1998, EUR J CLIN NUTR, V52, P846, DOI 10.1038/sj.ejcn.1600657
+   Robinson LE, 2004, J NUTR, V134, P2528, DOI 10.1093/jn/134.10.2528
+   Rosengren A, 2004, J INTERN MED, V255, P89, DOI 10.1046/j.1365-2796.2003.01260.x
+   Salazar-Martinez E, 2004, ANN INTERN MED, V140, P1, DOI 10.7326/0003-4819-140-1-200401060-00005
+   Shearer J, 2007, CAN J PHYSIOL PHARM, V85, P823, DOI 10.1139/Y07-070
+   Shearer J, 2003, J NUTR, V133, P3529, DOI 10.1093/jn/133.11.3529
+   SPILLER MA, 1984, METHYLXANTHINE BEVER, V0, P91
+   Thong FSL, 2007, APPL PHYSIOL NUTR ME, V32, P701, DOI 10.1139/H07-039
+   Thong FSL, 2002, J APPL PHYSIOL, V92, P2347, DOI 10.1152/japplphysiol.01229.2001
+   Thong FSL, 2002, DIABETES, V51, P583, DOI 10.2337/diabetes.51.3.583
+   Tuomilehto J, 2004, JAMA-J AM MED ASSOC, V291, P1213, DOI 10.1001/jama.291.10.1213
+   van Dam RM, 2006, DIABETES CARE, V29, P398, DOI 10.2337/diacare.29.02.06.dc05-1512
+   van Dam RM, 2005, JAMA-J AM MED ASSOC, V294, P97, DOI 10.1001/jama.294.1.97
+   van Dam RM, 2002, LANCET, V360, P1477, DOI 10.1016/S0140-6736(02)11436-X
+   WOLEVER TMS, 1991, AM J CLIN NUTR, V54, P846, DOI 10.1093/ajcn/54.5.846
+   Yamaji T, 2004, DIABETOLOGIA, V47, P2145, DOI 10.1007/s00125-004-1590-5
+NR 40
+TC 93
+Z9 102
+U1 0
+U2 13
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0002-9165
+EI 1938-3207
+J9 AM J CLIN NUTR
+JI Am. J. Clin. Nutr.
+PD MAY 15
+PY 2008
+VL 87
+IS 5
+BP 1254
+EP 1261
+DI 10.1093/ajcn/87.5.1254
+PG 8
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 301EZ
+UT WOS:000255880500022
+PM 18469247
+DA 2025-04-28
+ER
+
+PT J
+AU Ito, Y
+   Ichikawa, T
+   Morohosh, Y
+   Nakamura, T
+   Saegusa, Y
+   Ishihara, K
+AF Ito, Yuko
+   Ichikawa, Takafumi
+   Morohosh, Yasuo
+   Nakamura, Takeshi
+   Saegusa, Yoichi
+   Ishihara, Kazuhiko
+TI Effect of tea catechins on body fat accumulation in rats fed a normal diet
+SO BIOMEDICAL RESEARCH-TOKYO
+LA English
+DT Article
+ID cholesterol-fed rats; green tea; energy-expenditure; lipid-metabolism; adipose-tissue; caffeine; thermogenesis; polyphenols; activation; extracts
+AB Although it is known that tea catechins exert potent effects in obese subjects, there is scant information concerning these effects on body weight gain and body fat accumulation in the non-obese. We studied normal rats fed a normal diet and water containing either 0.1% or 0.5% tea catechins to examine the effects on body fat content and serum cholesterol levels, as well as evaluating whether the effect is related to bile acids, which in recent years have emerged as an inducer of energy expenditure. The administration of 0.5% catechins decreased the accumulation of body fat and the serum levels of cholesterol and bile acids. These results indicate that tea catechins modulate lipid metabolism not only in obese subjects, but also in the non-obese.
+C1 [Ito, Yuko; Ishihara, Kazuhiko] Kitasato Univ, Sch Allied Hlth Sci, Dept Biochem, Sagamihara, Kanagawa 2288555, Japan.
+   [Ichikawa, Takafumi] Kitasato Univ, Sch Med, Dept Biochem, Sagamihara, Kanagawa 2288555, Japan.
+   [Morohosh, Yasuo] Kitasato Univ, Sch Med, Dept Lab Anim Sci, Sagamihara, Kanagawa 2288555, Japan.
+   [Nakamura, Takeshi] Kitasato Univ, Sch Med, Dept Parasitol, Sagamihara, Kanagawa 2288555, Japan.
+   [Saegusa, Yoichi] Kitasato Univ, Sch Med, Dept Internal Med, Sagamihara, Kanagawa 2288555, Japan.
+C3 Kitasato University; Kitasato University; Kitasato University; Kitasato University; Kitasato University
+RP Ishihara, K (corresponding author), Kitasato Univ, Sch Allied Hlth Sci, Dept Biochem, 1-15-1 kitasato, Sagamihara, Kanagawa 2288555, Japan.
+EM yukodietitian@yahoo.co.jp
+CR Carr DB, 2004, DIABETES, V53, P2087, DOI 10.2337/diabetes.53.8.2087
+   CARR TP, 1993, CLIN BIOCHEM, V26, P39, DOI 10.1016/0009-9120(93)90015-X
+   Chen ZY, 2001, J AGR FOOD CHEM, V49, P477, DOI 10.1021/jf000877h
+   Choo JJ, 2003, J NUTR BIOCHEM, V14, P671, DOI 10.1016/j.jnutbio.2003.08.005
+   Dulloo AG, 2000, INT J OBESITY, V24, P252, DOI 10.1038/sj.ijo.0801101
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   FOLCH J, 1963, BIOL CHEM, V226, P497
+   FRIED SK, 1987, INT J OBESITY, V11, P129
+   Hasegawa N, 2003, PHYTOTHER RES, V17, P477, DOI 10.1002/ptr.1177
+   IKEDA I, 1992, BIOCHIM BIOPHYS ACTA, V1127, P141, DOI 10.1016/0005-2760(92)90269-2
+   IKEMOTO S, 1997, J AM PHYSL, V273, P0
+   Iso H, 2006, ANN INTERN MED, V144, P554, DOI 10.7326/0003-4819-144-8-200604180-00005
+   Kao YH, 2000, ENDOCRINOLOGY, V141, P980, DOI 10.1210/en.141.3.980
+   Lin JK, 1998, J AGR FOOD CHEM, V46, P3635, DOI 10.1021/jf980223x
+   MURAMATSU K, 1986, J NUTR SCI VITAMINOL, V32, P613, DOI 10.3177/jnsv.32.613
+   Murase T, 2002, INT J OBESITY, V26, P1459, DOI 10.1038/sj.ijo.0802141
+   REBUFFESCRIVE M, 1989, METABOLISM, V38, P453, DOI 10.1016/0026-0495(89)90198-4
+   Sano J, 2004, CIRC J, V68, P665, DOI 10.1253/circj.68.665
+   Sato H, 2002, J GASTROENTEROL, V37, P106, DOI 10.1007/s005350200004
+   Sayama K, 2000, IN VIVO, V14, P481
+   Seto R, 1997, BIOSCI BIOTECH BIOCH, V61, P1434, DOI 10.1271/bbb.61.1434
+   Suzuki Y, 2005, BIOSCI BIOTECH BIOCH, V69, P1288, DOI 10.1271/bbb.69.1288
+   Watanabe M, 2006, NATURE, V439, P484, DOI 10.1038/nature04330
+   Yang CS, 2000, J NUTR, V130, P2409, DOI 10.1093/jn/130.10.2409
+   Yang MH, 2001, J NUTR BIOCHEM, V12, P14, DOI 10.1016/S0955-2863(00)00140-6
+   Yang TTC, 1999, LIFE SCI, V66, P411, DOI 10.1016/S0024-3205(99)00607-4
+   Yokozawa T, 2002, J AGR FOOD CHEM, V50, P3549, DOI 10.1021/jf020029h
+   Zheng GD, 2004, IN VIVO, V18, P55
+NR 28
+TC 39
+Z9 42
+U1 0
+U2 6
+PU BIOMEDICAL RESEARCH PRESS LTD
+PI SAPPORO
+PA HOKKAIDO UNIV, LAB HISTOLOGY & CYTOLOGY, C/O TOSHIHIKO IWANAGA, KITA 15-NISHI 7, SAPPORO, 060-8638, JAPAN
+SN 0388-6107
+EI 1880-313X
+J9 BIOMED RES-TOKYO
+JI Biomed. Res.
+PD FEB 15
+PY 2008
+VL 29
+IS 1
+BP 27
+EP 32
+DI 10.2220/biomedres.29.27
+PG 6
+WC Medicine, Research & Experimental
+SC Research & Experimental Medicine
+GA 273JQ
+UT WOS:000253926600004
+PM 18344595
+DA 2025-04-28
+ER
+
+PT J
+AU Ohishi, W
+   Fujiwara, S
+   Cologne, JB
+   Suzuki, G
+   Akahoshi, M
+   Nishi, N
+   Takahashi, I
+   Chayama, K
+AF Ohishi, Waka
+   Fujiwara, Saeko
+   Cologne, John B.
+   Suzuki, Gen
+   Akahoshi, Masazurni
+   Nishi, Nobuo
+   Takahashi, Ikuno
+   Chayama, Kazuaki
+TI Risk factors for hepatocellular carcinoma in a Japanese population: A nested case-control study
+SO CANCER EPIDEMIOLOGY BIOMARKERS & PREVENTION
+LA English
+DT Article
+ID chronic hepatitis-c; liver-cancer; insulin-resistance; selecting controls; virus-infections; viral-hepatitis; alcohol; obesity; cohort; fibrosis
+AB Background: Epidemiologic studies have shown effects of lifestyle-related factors on risk for hepatocellular carcinoma. However, few cohort studies have incorporated, in a strict and in-depth manner, hepatitis B virus (HBV) and hepatitis C virus (HCV) infections or investigated synergism between such factors. Methods: We conducted a nested case-control study using sera stored before hepatocellular carcinoma diagnosis in the longitudinal cohort of atomic bomb survivors. The study included 224 hepatocellular carcinoma cases and 644 controls that were matched to the cases on gender, age, city, time of serum storage, and method of serum storage, and countermatched on radiation dose. Results: Univariate analysis showed that HBV and HCV infections, alcohol consumption, smoking habit, body mass index (BMI), and diabetes mellitus were associated with increased hepatocellular carcinoma risk, whereas coffee drinking was associated with decreased hepatocellular carcinoma risk. Multivariate relative risks of hepatocellular carcinoma (95% confidence interval) were 45.8 (15.2-138), 101 (38.7-263), 70.7 (8.3-601), 4.36 (1.48-13.0), and 4.57 (1.85-11.3), for HBV infection alone, HCV infection alone, both HBV and HCV infections, alcohol consumption of >= 40 g of ethanol per day, and BMI of >25.0 kg/m(2) 10 years before diagnosis, respectively. HBV and HCV infection and BMI of >25.0 kg/m(2) remained independent risk factors even after adjusting for severity of liver fibrosis. Among HCV-infected individuals, the relative risk of hepatocellular carcinoma for a 1 kg/m(2) increase in BMI was 1.39 (P = 0.003). Conclusions: To limit the risk for hepatocellular carcinoma, control of excess weight may be crucial for individuals with chronic liver disease, especially those with chronic hepatitis C.
+C1 [Ohishi, Waka; Fujiwara, Saeko; Suzuki, Gen; Akahoshi, Masazurni; Takahashi, Ikuno] Radiat Effects Res Fdn, Dept Clin Studies, Minami Ku, Hiroshima 7320815, Japan.
+   [Cologne, John B.] Radiat Effects Res Fdn, Dept Stat, Hiroshima 7320815, Japan.
+   [Nishi, Nobuo] Radiat Effects Res Fdn, Dept Epidemiol, Hiroshima 7320815, Japan.
+   [Chayama, Kazuaki] Hiroshima Univ, Grad Sch Biomed Sci, Dept Med & Mol Sci, Div Frontier Med Sci,Programs Biomed Res, Hiroshima, Japan.
+   [Suzuki, Gen] Natl Inst Publ Hlth, Dept Environm Hlth, Wako, Saitama, Japan.
+C3 Radiation Effects Research Foundation - Japan; Radiation Effects Research Foundation - Japan; Radiation Effects Research Foundation - Japan; Hiroshima University; National Institute of Public Health - Japan
+RP Ohishi, W (corresponding author), Radiat Effects Res Fdn, Dept Clin Studies, Minami Ku, 5-2 Hijiyama Pk, Hiroshima 7320815, Japan.
+EM nwaka@rerf.or.jp
+CR Aizawa Y, 2000, CANCER, V89, P53, DOI 10.1002/1097-0142(20000701)89:1<53::AID-CNCR8>3.0.CO;2-6
+   Unknown -, 2000, ASIA PACIFIC PERSPEC, V0, P0
+   Unknown -, 1980, CLASSICAL METHODS AN, V0, P0
+   Bugianesi E, 2005, HEPATOLOGY, V42, P987, DOI 10.1002/hep.20920
+   Bullock RE, 2004, J HEPATOL, V41, P685, DOI 10.1016/j.jhep.2004.05.008
+   Caldwell SH, 2004, GASTROENTEROLOGY, V127, PS97, DOI 10.1053/j.gastro.2004.09.021
+   Calle EE, 2003, NEW ENGL J MED, V348, P1625, DOI 10.1056/NEJMoa021423
+   Cologne J, 2003, J EPIDEMIOL, V13, P193, DOI 10.2188/jea.13.193
+   Cologne JB, 2004, INT J EPIDEMIOL, V33, P485, DOI 10.1093/ije/dyh097
+   COLOGNE JB, 1995, EPIDEMIOLOGY, V6, P271, DOI 10.1097/00001648-199505000-00014
+   Cologne JE, 1999, RADIAT RES, V152, P364, DOI 10.2307/3580221
+   Donato F, 1998, INT J CANCER, V75, P347, DOI 10.1002/(SICI)1097-0215(19980130)75:3<347::AID-IJC4>3.0.CO;2-2
+   Donato F, 2002, AM J EPIDEMIOL, V155, P323, DOI 10.1093/aje/155.4.323
+   El-Serag HB, 2004, GASTROENTEROLOGY, V126, P460, DOI 10.1053/j.gastro.2003.10.065
+   Fan CY, 1998, J BIOL CHEM, V273, P15639, DOI 10.1074/jbc.273.25.15639
+   Ferrannini E, 2000, LANCET, V355, P2181, DOI 10.1016/S0140-6736(00)02397-7
+   Fukuhara T, 2001, J RADIAT RES, V42, P117, DOI 10.1269/jrr.42.117
+   Gupta K, 2002, AM J MED SCI, V323, P140, DOI 10.1097/00000441-200203000-00004
+   Hassan MM, 2002, HEPATOLOGY, V36, P1206, DOI 10.1053/jhep.2002.36780
+   Hu KQ, 2004, J HEPATOL, V40, P147, DOI 10.1016/S0168-8278(03)00479-3
+   *IARC, 2004, IARC MON EC CARC RIS, V83, P0
+   Inoue M, 2005, JNCI-J NATL CANCER I, V97, P293, DOI 10.1093/jnci/dji040
+   Inoue M, 2006, ARCH INTERN MED, V166, P1871, DOI 10.1001/archinte.166.17.1871
+   Ioannou GN, 2007, CLIN GASTROENTEROL H, V5, P938, DOI 10.1016/j.cgh.2007.02.039
+   IWAHASHI K, 1995, ALCOHOL CLIN EXP RES, V19, P564, DOI 10.1111/j.1530-0277.1995.tb01549.x
+   Kirk GD, 2004, HEPATOLOGY, V39, P211, DOI 10.1002/hep.20027
+   Kiyosawa K, 2004, GASTROENTEROLOGY, V127, PS17, DOI 10.1053/j.gastro.2004.09.012
+   LANGHOLZ B, 1995, BIOMETRIKA, V82, P69
+   Marrero JA, 2005, J HEPATOL, V42, P218, DOI 10.1016/j.jhep.2004.10.005
+   Monto A, 2004, HEPATOLOGY, V39, P826, DOI 10.1002/hep.20127
+   Moriya K, 2001, CANCER RES, V61, P4365
+   Nair S, 2002, HEPATOLOGY, V36, P150, DOI 10.1053/jhep.2002.33713
+   Oh SW, 2005, J CLIN ONCOL, V23, P4742, DOI 10.1200/JCO.2005.11.726
+   Ohishi W, 2003, SCAND J GASTROENTERO, V38, P894, DOI 10.1080/00365520310004434
+   Ohishi W, 2007, RES ADV MICROBIOLOGY, V7, P1
+   Ohishi W, 2006, J CLIN MICROBIOL, V44, P4593, DOI 10.1128/JCM.00621-06
+   Perumalswami P, 2006, HEPATOLOGY, V43, P780, DOI 10.1002/hep.21078
+   Pohl A, 2001, AM J GASTROENTEROL, V96, P3142, DOI 10.1111/j.1572-0241.2001.05268.x
+   Ruhl CE, 2005, GASTROENTEROLOGY, V128, P24, DOI 10.1053/j.gastro.2004.09.075
+   Sharp GB, 2005, INT J CANCER, V115, P290, DOI 10.1002/ijc.20897
+   Shintani Y, 2004, GASTROENTEROLOGY, V126, P840, DOI 10.1053/j.gastro.2003.11.056
+   TANAKA T, 1990, BASIC LIFE SCI, V52, P429
+   Wang LY, 1998, AM J EPIDEMIOL, V147, P315
+   YAGINUMA K, 1987, J VIROL, V61, P1808, DOI 10.1128/JVI.61.6.1808-1813.1987
+   Young RW, 2005, REASSESSMENT ATOMIC, V0, P0
+   Yu MC, 2004, GASTROENTEROLOGY, V127, PS72, DOI 10.1016/j.gastro.2004.09.018
+   Yuan JM, 2004, CANCER, V101, P1009, DOI 10.1002/cncr.20427
+NR 47
+TC 85
+Z9 91
+U1 0
+U2 14
+PU AMER ASSOC CANCER RESEARCH
+PI PHILADELPHIA
+PA 615 CHESTNUT ST, 17TH FLOOR, PHILADELPHIA, PA 19106-4404 USA
+SN 1055-9965
+EI 1538-7755
+J9 CANCER EPIDEM BIOMAR
+JI Cancer Epidemiol. Biomarkers Prev.
+PD APR 15
+PY 2008
+VL 17
+IS 4
+BP 846
+EP 854
+DI 10.1158/1055-9965.EPI-07-2806
+PG 9
+WC Oncology; Public, Environmental & Occupational Health
+SC Oncology; Public, Environmental & Occupational Health
+GA 288EM
+UT WOS:000254969000016
+PM 18398026
+DA 2025-04-28
+ER
+
+PT J
+AU Pang, J
+   Choi, Y
+   Park, T
+AF Pang, Jisook
+   Choi, Youngshim
+   Park, Taesun
+TI Ilex paraguariensis extract ameliorates obesity induced by high-fat diet:: Potential role of AMPK in the visceral adipose tissue
+SO ARCHIVES OF BIOCHEMISTRY AND BIOPHYSICS
+LA English
+DT Article
+DE Ilex paraguariensis; high-fat diet; anti-obesity effect; AMPK; ACC; UCP2; UCP3; epididymal adipose tissue; rat
+ID green tea; body-weight; caffeine; expression; cholesterol; gene; acid; thermogenesis; gamma; rats
+AB The aim of present study was to investigate the anti-obesity effect of Ilex paraguariensis extract and its molecular mechanism in rats rendered obese by a high-fat diet (HFD). T paraguariensis extract supplementation significantly lowered body weight, visceral fat-pad weights, blood and hepatic lipid, glucose, insulin, and leptin levels of rats administered HFD. Feeding I. paraguariensis extract reversed the HFD-induced downregulation of the epididymal adipose tissue genes implicated in adipogenesis or thermogenesis, such as peroxisome proliferators' activated receptor gamma 2, adipocyte fatty acid binding protein, sterol-regulatory-element-binding protein-1c, fatty acid synthase, HMG-CoA reductase, uncoupling protein 2, and uncoupling protein 3. Dietary supplementation with I. paraguariensis extract protected rats from the HFD-induced decreases in the phospho-AMP-activated protein kinase (AMPK)/AMPK and phospho-acetylCoA carboxylase (ACC)/ACC protein ratio related to fatty acid oxidation in the edipidymal adipose tissue. The present study reports that the I. paraguariensis extract can have a protective effect against a HFD-induced obesity in rats through an enhanced expression of uncoupling proteins and elevated AMPK phosphorylation in the visceral adipose tissue. (C) 2008 Elsevier Inc. All rights reserved.
+C1 [Pang, Jisook; Choi, Youngshim; Park, Taesun] Yonsei Univ, Dept Food & Nutr, Brain Korea Project 21, Seoul 120749, South Korea.
+C3 Yonsei University
+RP Park, T (corresponding author), Yonsei Univ, Dept Food & Nutr, Brain Korea Project 21, 134 Shinchon Dong, Seoul 120749, South Korea.
+EM tspark@yonsei.ac.kr
+CR ACHESON KJ, 1980, AM J CLIN NUTR, V33, P989, DOI 10.1093/ajcn/33.5.989
+   Andersen T, 2001, J HUM NUTR DIET, V14, P243, DOI 10.1046/j.1365-277X.2001.00290.x
+   ASTRUP A, 1990, AM J CLIN NUTR, V51, P759, DOI 10.1093/ajcn/51.5.759
+   BABA N, 1982, AM J CLIN NUTR, V35, P678, DOI 10.1093/ajcn/35.4.678
+   Bixby M, 2005, LIFE SCI, V77, P345, DOI 10.1016/j.lfs.2004.11.030
+   Brown MS, 1997, CELL, V89, P331, DOI 10.1016/S0092-8674(00)80213-5
+   de Sotillo DVR, 2002, J NUTR BIOCHEM, V13, P717, DOI 10.1016/S0955-2863(02)00231-0
+   Diraison F, 2002, AM J PHYSIOL-ENDOC M, V282, PE46, DOI 10.1152/ajpendo.2002.282.1.E46
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   Emilsson V, 2000, METABOLISM, V49, P1610, DOI 10.1053/meta.2000.18692
+   Fajas L, 1998, CURR OPIN CELL BIOL, V10, P165, DOI 10.1016/S0955-0674(98)80138-5
+   Ferreira F, 1997, PHYTOTHER RES, V11, P79, DOI 10.1002/(SICI)1099-1573(199702)11:1<79::AID-PTR34>3.3.CO;2-I
+   Fleury C, 1997, NAT GENET, V15, P269, DOI 10.1038/ng0397-269
+   FOLCH J, 1957, J BIOL CHEM, V226, P497
+   Han UK, 2002, J NUTR, V132, P2241, DOI 10.1093/jn/132.8.2241
+   HETZLER RK, 1990, J APPL PHYSIOL, V68, P44, DOI 10.1152/jappl.1990.68.1.44
+   HOSTTETMANN K, 1995, SAPONINS, V0, P0
+   Kelly LJ, 1998, ENDOCRINOLOGY, V139, P4920, DOI 10.1210/en.139.12.4920
+   Kim JB, 1996, GENE DEV, V10, P1096, DOI 10.1101/gad.10.9.1096
+   Kogure A, 2002, CLIN EXP PHARMACOL P, V29, P391, DOI 10.1046/j.1440-1681.2002.03675.x
+   Kraemer KH, 1996, PHYTOCHEMISTRY, V42, P1119, DOI 10.1016/0031-9422(96)00036-2
+   Lopez-Garcia E, 2006, AM J CLIN NUTR, V83, P674, DOI 10.1093/ajcn.83.3.674
+   Matsuda J, 1998, DIABETES, V47, P1809, DOI 10.2337/diabetes.47.11.1809
+   Mosimann ALP, 2006, BIOFACTORS, V26, P59, DOI 10.1002/biof.5520260106
+   Nadler ST, 2000, P NATL ACAD SCI USA, V97, P11371, DOI 10.1073/pnas.97.21.11371
+   OAKENFULL DG, 1984, NUTR REP INT, V29, P1039
+   Pittler MH, 2005, OBES REV, V6, P93, DOI 10.1111/j.1467-789X.2005.00169.x
+   Pomilio AB, 2002, PHYTOCHEM ANALYSIS, V13, P235, DOI 10.1002/pca.647
+   Rosen ED, 2005, PROSTAG LEUKOTR ESS, V73, P31, DOI 10.1016/j.plefa.2005.04.004
+   Samec S, 1998, FASEB J, V12, P715, DOI 10.1096/fasebj.12.9.715
+   Skurk T, 2007, J CLIN ENDOCR METAB, V92, P1023, DOI 10.1210/jc.2006-1055
+   Stein FLP, 2005, BIOL RES NURS, V7, P146, DOI 10.1177/1099800405280521
+   Surwit RS, 1998, P NATL ACAD SCI USA, V95, P4061, DOI 10.1073/pnas.95.7.4061
+   Tamori Y, 2002, DIABETES, V51, P2045, DOI 10.2337/diabetes.51.7.2045
+   Tripathy D, 2003, DIABETES, V52, P2882, DOI 10.2337/diabetes.52.12.2882
+   Unger RH, 2004, CELL, V117, P145, DOI 10.1016/S0092-8674(04)00339-3
+   VidalPuig A, 1997, BIOCHEM BIOPH RES CO, V235, P79, DOI 10.1006/bbrc.1997.6740
+   Woods SC, 2003, J NUTR, V133, P1081, DOI 10.1093/jn/133.4.1081
+   World Health Organisation, 2002, WORLD HLTH REPORT 20, V0, P0
+   Zheng GD, 2004, IN VIVO, V18, P55
+NR 40
+TC 116
+Z9 121
+U1 0
+U2 12
+PU ELSEVIER SCIENCE INC
+PI NEW YORK
+PA STE 800, 230 PARK AVE, NEW YORK, NY 10169 USA
+SN 0003-9861
+EI 1096-0384
+J9 ARCH BIOCHEM BIOPHYS
+JI Arch. Biochem. Biophys.
+PD AUG 15
+PY 2008
+VL 476
+IS 2
+BP 178
+EP 185
+DI 10.1016/j.abb.2008.02.019
+PG 8
+WC Biochemistry & Molecular Biology; Biophysics
+SC Biochemistry & Molecular Biology; Biophysics
+GA 337GW
+UT WOS:000258424500012
+PM 18314006
+DA 2025-04-28
+ER
+
+PT J
+AU Reddy, JG
+   Ebbert, JO
+   Klesges, LM
+   Enders, FTB
+   Klesges, RC
+   Lanctot, JQ
+   McClanahan, BS
+AF Reddy, Jagadeshwar G.
+   Ebbert, Jon O.
+   Klesges, Lisa M.
+   Enders, Felicity T. B.
+   Klesges, Robert C.
+   Lanctot, Jennifer Q.
+   McClanahan, Barbara S.
+TI THE RELATIONSHIP BETWEEN CAFFEINE AND BLOOD PRESSURE IN PREADOLESCENT AFRICAN AMERICAN GIRLS
+SO ETHNICITY & DISEASE
+LA English
+DT Article
+DE Caffeine; Child; Blood Pressure; African Americans; Risk Factors
+ID cardiovascular risk-factors; dietary assessment; coffee-drinking; heart-rate; children; hypertension; adolescents; overweight; association; tolerance
+AB Background: While high caffeine consumption has been shown to be associated with increased blood pressure in controlled experiments, the relationship between caffeine consumption and blood pressure in preadolescent (ages 6-11 years) and adolescent (ages 12-19 years) children has not been well studied. The primary objective of this study was to assess the cross-sectional relationship between caffeine intake and blood pressure in 8- to 10-year-old African American girls who eat an unrestricted diet. Methods: Demographic, 24-hour dietary recall, and blood pressure data collected at baseline from 303 African American girls aged 8-10 years in the Girls health Enrichment Multisite Studies (GEMS) cohort were analyzed by using linear and multiple regression models. Results: Dietary caffeine intake was not associated with either systolic or diastolic blood pressure (P= .33 and P = .36, respectively). However, consistent with the literature, height and body mass index were each positively and independently associated with systolic blood pressure (both P<.0001). Height and amount of sodium intake were positively associated with diastolic blood pressure (P = .01 and P = .02, respectively). Conclusions: Dietary caffeine intake in low amounts is not associated with elevated blood pressure in 8- to 10-year-old African American girls who eat an unrestricted diet. (Ethn Dis. 2008; 18:283-288)
+C1 [Reddy, Jagadeshwar G.; Ebbert, Jon O.; Klesges, Lisa M.; Enders, Felicity T. B.; Klesges, Robert C.] Mayo Clin, Coll Med, Rochester, MN 55905 USA.
+   [Lanctot, Jennifer Q.; McClanahan, Barbara S.] Univ Memphis, Memphis, TN 38152 USA.
+C3 Mayo Clinic; University of Memphis
+RP Reddy, JG (corresponding author), Mayo Clin, Coll Med, 200 1st St SW, Rochester, MN 55905 USA.
+EM reddy.jagadeshwar@mayo.edu
+FU National Heart, Lung, and Blood Institute [HL62662]
+CR AMMON HPT, 1983, BRIT J CLIN PHARMACO, V15, P701, DOI 10.1111/j.1365-2125.1983.tb01553.x
+   Burke V, 2005, INT J OBESITY, V29, P15, DOI 10.1038/sj.ijo.0802750
+   Chobanian AV, 2003, HYPERTENSION, V42, P1206, DOI 10.1161/01.HYP.0000107251.49515.c2
+   Cullen KW, 2004, PREV MED, V38, PS34, DOI 10.1016/j.ypmed.2003.05.002
+   Cullen KW, 2004, PREV MED, V38, PS24, DOI 10.1016/j.ypmed.2003.05.001
+   Daniels JW, 1998, J APPL PHYSIOL, V85, P154, DOI 10.1152/jappl.1998.85.1.154
+   Daniels SR, 1998, HYPERTENSION, V31, P97, DOI 10.1161/01.HYP.31.1.97
+   Daniels SR, 1998, CIRCULATION, V97, P1907, DOI 10.1161/01.CIR.97.19.1907
+   Dekkers JC, 2002, J PEDIATR-US, V141, P770, DOI 10.1067/mpd.2002.128113
+   ECK LH, 1989, J AM DIET ASSOC, V89, P784
+   Eldridge AL, 1998, J AM DIET ASSOC, V98, P777, DOI 10.1016/S0002-8223(98)00175-8
+   FAUST HS, 1982, AM J CLIN NUTR, V35, P1459, DOI 10.1093/ajcn/35.6.1459
+   Ford ES, 2004, PEDIATRICS, V114, P1534, DOI 10.1542/peds.2004-0674
+   Freedman DS, 1999, PEDIATRICS, V103, P1175, DOI 10.1542/peds.103.6.1175
+   Genovesi S, 2005, J HYPERTENS, V23, P493, DOI 10.1097/01.hjh.0000160203.35910.9f
+   Green PJ, 1996, J BEHAV MED, V19, P111, DOI 10.1007/BF01857602
+   James JE, 2004, PSYCHOPHYSIOLOGY, V41, P914, DOI 10.1111/j.1469-8986.2004.00248.x
+   Jee SH, 1999, HYPERTENSION, V33, P647, DOI 10.1161/01.HYP.33.2.647
+   Lane JD, 1998, PSYCHOSOM MED, V60, P327, DOI 10.1097/00006842-199805000-00019
+   Lovallo WR, 2004, HYPERTENSION, V43, P760, DOI 10.1161/01.HYP.0000120965.63962.93
+   LYTLE LA, 1993, J AM DIET ASSOC, V93, P1431, DOI 10.1016/0002-8223(93)92247-U
+   Morrison JA, 1999, J PEDIATR-US, V135, P451, DOI 10.1016/S0022-3476(99)70167-8
+   Natl High Blood Pressure Educ Prog, 2004, PEDIATRICS, V114, P555
+   NEWMAN WP, 1986, NEW ENGL J MED, V314, P138, DOI 10.1056/NEJM198601163140302
+   Obarzanek Eva, 2003, ETHNICITY & DISEASE, V13, P0
+   Paradis G, 2004, CIRCULATION, V110, P1832, DOI 10.1161/01.CIR.0000143100.31752.B7
+   PINCOMB GA, 1985, AM J CARDIOL, V56, P119, DOI 10.1016/0002-9149(85)90578-8
+   Rochon James, 2003, ETHN DIS, V13, P0
+   Savoca MR, 2005, AM J HYPERTENS, V18, P116, DOI 10.1016/j.amjhyper.2004.08.011
+   Savoca MR, 2004, ARCH PEDIAT ADOL MED, V158, P473, DOI 10.1001/archpedi.158.5.473
+   SCHAKEL SF, 1988, J AM DIET ASSOC, V88, P1268
+   SIEVERT YA, 1989, CONTROL CLIN TRIALS, V10, P416, DOI 10.1016/0197-2456(89)90006-8
+   SimonsMorton DG, 1997, PEDIATR NEPHROL, V11, P244, DOI 10.1007/s004670050271
+   SINAIKO AR, 1993, HYPERTENSION, V21, P989, DOI 10.1161/01.HYP.21.6.989
+   Sorof JM, 2004, PEDIATRICS, V113, P475, DOI 10.1542/peds.113.3.475
+   Sorof JM, 2002, J PEDIATR-US, V140, P660, DOI 10.1067/mpd.2002.125228
+   Sung BH, 1995, AM J HYPERTENS, V8, P1184, DOI 10.1016/0895-7061(95)00331-2
+   VANHORN LV, 1990, J AM DIET ASSOC, V90, P412
+   VANHORN LV, 1993, J AM DIET ASSOC, V93, P1396, DOI 10.1016/0002-8223(93)92241-O
+   Verma M, 1994, INDIAN PEDIATR, V31, P1065
+   Waring WS, 2003, AM J HYPERTENS, V16, P919, DOI 10.1016/S0895-7061(03)01014-8
+   Watson J, 2002, BRIT J CLIN PHARMACO, V54, P400, DOI 10.1046/j.1365-2125.2002.01681.x
+   Wilson Dawn K, 1999, ETHNICITY AND DISEASE, V9, P350
+   Winkelmayer WC, 2005, JAMA-J AM MED ASSOC, V294, P2330, DOI 10.1001/jama.294.18.2330
+NR 45
+TC 5
+Z9 6
+U1 0
+U2 9
+PU ETHNICITY & DISEASE, INC
+PI OWINGS MILL
+PA 9812 SHERWOOD FARM RD, OWINGS MILL, MD, UNITED KINGDOM
+SN 1049-510X
+EI 1945-0826
+J9 ETHNIC DIS
+JI Ethn. Dis.
+PD SUM 15
+PY 2008
+VL 18
+IS 3
+BP 283
+EP 288
+DI 
+PG 6
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 489MC
+UT WOS:000269423200003
+PM 18785440
+DA 2025-04-28
+ER
+
+PT J
+AU Jalil, AMM
+   Ismail, A
+   Pei, CP
+   Hamid, M
+   Kamaruddin, SHS
+AF Jalil, Abbe Maleyki Mhd
+   Ismail, Amin
+   Pei, Chong Pei
+   Hamid, Muhajir
+   Kamaruddin, Syed Hasbullah Syed
+TI Effects of cocoa extract on glucometabolism, oxidative stress, and antioxidant enzymes in obese-diabetic (Ob-db) rats
+SO JOURNAL OF AGRICULTURAL AND FOOD CHEMISTRY
+LA English
+DT Article
+DE caffeine; catalase; catechin; cocoa; epicatechin; superoxide dismutase; theobromine
+ID 2nd-phase insulin-secretion; cacao liquor; glucose-levels; theobroma-cacao; lipid profiles; powder; diet; chocolate; humans; atherosclerosis
+AB In this present study, we investigated the effects of cocoa extract containing polyphenols and methylxanthines prepared from cocoa powder on the biochemical parameters of obese-diabetic (Ob-db) rats. Obese-diabetic (Ob-db) rats were developed using a high-fat diet (49% fat, 32% carbohydrate, and 19% protein from total energy, kcal) for 3 months, followed by a low dose (35 mg/kg body weight) streptozotocin (STZ) injection. Cocoa extract (600 mg/kg body weight/day) was given to the rats for 4 weeks. The results indicated that there were no significant differences in fasting plasma glucose and insulin level after 4 weeks of cocoa extract administration. Oral glucose tolerance test revealed that cocoa supplementation in Ob-db rats significantly (p < 0.05) reduced plasma glucose at 60 and 90 min compared to unsupplemented Ob-db rats. Plasma free fatty acid and oxidative stress biomarker (8-isoprostane) were significantly (p < 0.05) reduced after cocoa supplementation. Superoxide dismutase activity was enhanced in Ob-db compared to that in nonsupplemented rats. However, no change was observed in catalase activity. The results showed that cocoa supplementation had an effect on postprandial glucose control but not for long term (4 weeks). Moreover, cocoa supplementation could reduce circulating plasma free fatty acid and 8-isoprostane and may enhance the antioxidant defense system.
+C1 [Jalil, Abbe Maleyki Mhd; Ismail, Amin; Kamaruddin, Syed Hasbullah Syed] Univ Putra Malaysia, Fac Med & Hlth Sci, Dept Nutr & Dietet, Serdang 43400, Malaysia.
+   [Pei, Chong Pei] Univ Putra Malaysia, Fac Med & Hlth Sci, Dept Biomed Sci, Serdang 43400, Malaysia.
+   [Hamid, Muhajir] Univ Putra Malaysia, Dept Microbiol, Fac Biotechnol & Biomol Sci, Serdang 43400, Malaysia.
+C3 Universiti Putra Malaysia; Universiti Putra Malaysia; Universiti Putra Malaysia
+RP Ismail, A (corresponding author), Univ Putra Malaysia, Fac Med & Hlth Sci, Dept Nutr & Dietet, Serdang 43400, Malaysia.
+EM amin@medic.upm.edu.my
+CR Amin I, 2004, NUTRITION & FOOD SCIENCE, V34, P116, DOI 10.1108/00346650410536737
+   Amin I, 2004, J MED FOOD, V7, P7, DOI 10.1089/109662004322984635
+   Baba S, 2007, J NUTR, V137, P1436, DOI 10.1093/jn/137.6.1436
+   Bisson JF, 2008, EUR J CANCER PREV, V17, P54, DOI 10.1097/CEJ.0b013e3280145b33
+   Brand-Miller J, 2003, J NUTR, V133, P3149, DOI 10.1093/jn/133.10.3149
+   *CMA, 2008, COC CHOC RES, V0, P0
+   Colak E, 2008, BIOCHEM MEDICA, V18, P42
+   Dillinger TL, 2000, J NUTR, V130, P2057S, DOI 10.1093/jn/130.8.2057S
+   Fehse F, 2005, J CLIN ENDOCR METAB, V90, P5991, DOI 10.1210/jc.2005-1093
+   Joo Soon-Jae, 1995, JOURNAL OF APPLIED NUTRITION, V47, P67
+   Kanaya Y, 2004, DIABETES RES CLIN PR, V66, PS157, DOI 10.1016/j.diabres.2003.09.021
+   Kelm MA, 2006, J AGR FOOD CHEM, V54, P1571, DOI 10.1021/jf0525941
+   Kumari K, 2007, J ETHNOPHARMACOL, V109, P367, DOI 10.1016/j.jep.2006.07.045
+   Kurosawa T, 2005, J ATHEROSCLER THROMB, V12, P20, DOI 10.5551/jat.12.20
+   Lecumberri E, 2007, NUTRITION, V23, P332, DOI 10.1016/j.nut.2007.01.013
+   Malstrom B, 1975, ENZYMES B, VXIIB, P533
+   Natsume M, 2000, BIOSCI BIOTECH BIOCH, V64, P2581, DOI 10.1271/bbb.64.2581
+   Osakabe N, 1998, J NUTR SCI VITAMINOL, V44, P313, DOI 10.3177/jnsv.44.313
+   Pankow JS, 2004, DIABETES CARE, V27, P77, DOI 10.2337/diacare.27.1.77
+   PETERSON J, 1990, P NATL ACAD SCI USA, V87, P909, DOI 10.1073/pnas.87.3.909
+   Quddusi S, 2003, DIABETES CARE, V26, P791, DOI 10.2337/diacare.26.3.791
+   Ramiro-Puig E, 2007, J AGR FOOD CHEM, V55, P6431, DOI 10.1021/jf070487w
+   Ruzaidi A, 2005, J ETHNOPHARMACOL, V98, P55, DOI 10.1016/j.jep.2004.12.018
+   Ruzaidi AMM, 2008, J SCI FOOD AGR, V88, P1442, DOI 10.1002/jsfa.3236
+   Song FF, 2007, CLIN SCI, V112, P599, DOI 10.1042/CS20060323
+   Srinivasan K, 2007, INDIAN J MED RES, V125, P451
+   Tomaru M, 2007, NUTRITION, V23, P351, DOI 10.1016/j.nut.2007.01.007
+   Tomas-Barberán FA, 2007, J AGR FOOD CHEM, V55, P3926, DOI 10.1021/jf070121j
+   Vinson JA, 1999, J AGR FOOD CHEM, V47, P4821, DOI 10.1021/jf990312p
+   Yamagishi M, 2001, LIPIDS, V36, P67, DOI 10.1007/s11745-001-0669-9
+NR 30
+TC 72
+Z9 79
+U1 0
+U2 18
+PU AMER CHEMICAL SOC
+PI WASHINGTON
+PA 1155 16TH ST, NW, WASHINGTON, DC 20036 USA
+SN 0021-8561
+EI 
+J9 J AGR FOOD CHEM
+JI J. Agric. Food Chem.
+PD SEP 10
+PY 2008
+VL 56
+IS 17
+BP 7877
+EP 7884
+DI 10.1021/jf8015915
+PG 8
+WC Agriculture, Multidisciplinary; Chemistry, Applied; Food Science & Technology
+SC Agriculture; Chemistry; Food Science & Technology
+GA 344OU
+UT WOS:000258938000044
+PM 18702467
+DA 2025-04-28
+ER
+
+PT J
+AU Hughes, LAE
+   Arts, ICW
+   Ambergen, T
+   Brants, HAM
+   Dagnelie, PC
+   Goldbohm, RA
+   van den Brandt, PA
+   Weijenberg, MP
+AF Hughes, Laura A. E.
+   Arts, Ilja C. W.
+   Ambergen, Ton
+   Brants, Henny A. M.
+   Dagnelie, Pieter C.
+   Goldbohm, R. Alexandra
+   van den Brandt, Piet A.
+   Weijenberg, Matty P.
+TI Higher dietary flavone, flavonol, and catechin intakes are associated with less of an increase in BMI over time in women: a longitudinal analysis from the Netherlands Cohort Study
+SO AMERICAN JOURNAL OF CLINICAL NUTRITION
+LA English
+DT Article
+ID self-reported height; potentially anticarcinogenic flavonoids; scale prospective cohort; green tea; fat oxidation; cardiovascular risk; prevents obesity; body-weight; consumption; anthocyanins
+AB Background: Dietary flavonoids are suggested to have antiobesity effects. Prospective evidence of an association between flavonoids and body mass index (BMI) is lacking in general populations. Objective: We assessed this association between 3 flavonoid subgroups and BMI over a 14-y period in 4280 men and women aged 55-69 y at baseline from the Netherlands Cohort Study. Design: Dietary intake was estimated at baseline (1986) by a validated food-frequency questionnaire. BMI was ascertained through self-reported height (in 1986) and weight (in 1986, 1992, and 2000). Analyses were based on sex-specific quintiles for the total intake of 6 catechins and of 3 flavonols/flavones. Linear mixed effect modeling was used to assess longitudinal associations in 3 adjusted models: age only, lifestyle (age, energy intake, physical activity, smoking status, alcohol intake, type 2 diabetes, and coffee consumption), and lifestyle and diet (vegetables, fruit, fiber, grains, sugar, dessert, and dieting habits). Results: After adjustment for age and confounders, the BMI(kg/m(2)) of women with the lowest intake of total flavonols/flavones and total catechins increased by 0.95 and 0.77, respectively, after 14 y. Women with the highest intake of total flavonols/flavones and total catechins experienced a significantly lower increase in BMI of 0.40 and 0.31, respectively (between group difference: P < 0.05). This difference remained after additional adjustment for dietary determinants and after stratification of median baseline BMI. In men, no significant differences in BMI change were observed over the quintiles of flavonoid intake after 14 y. Conclusion: Our results suggest that flavonoid intake may contribute to maintaining body weight in the general female population. Am J Clin Nutr 2008; 88: 1341-52.
+C1 [Hughes, Laura A. E.] Maastricht Univ, Fac Hlth Med & Life Sci, Dept Epidemiol, Sch Oncol & Dev Biol GROW, NL-6200 MD Maastricht, Netherlands.
+   [Arts, Ilja C. W.; Dagnelie, Pieter C.] Maastricht Univ, Nutr & Toxicol Res Inst, NUTRIM, Maastricht, Netherlands.
+   [Ambergen, Ton] Univ Maastricht, Dept Methodol & Stat, Maastricht, Netherlands.
+   [Brants, Henny A. M.] TNO Qual Life, Dept Food & Chem Risk Anal, Zeist, Netherlands.
+   [Goldbohm, R. Alexandra] TNO Qual Life, Dept Prevent & Hlth, Zeist, Netherlands.
+C3 Maastricht University; Maastricht University; Maastricht University; Netherlands Organization Applied Science Research; Netherlands Organization Applied Science Research
+RP Hughes, LAE (corresponding author), Maastricht Univ, Fac Hlth Med & Life Sci, Dept Epidemiol, Sch Oncol & Dev Biol GROW, POB 616, NL-6200 MD Maastricht, Netherlands.
+EM laura.hughes@epid.unimaas.nl.s
+FU Dutch Cancer Society; Netherlands Organization for Scientific Research-Earth and Life Sciences
+CR Abidov M, 2006, GEORGIAN MED NEWS, V0, P66
+   Adams KF, 2006, NEW ENGL J MED, V355, P763, DOI 10.1056/NEJMoa055643
+   Aron PM, 2008, MOL NUTR FOOD RES, V52, P79, DOI 10.1002/mnfr.200700137
+   Arts ICW, 2000, J AGR FOOD CHEM, V48, P1746, DOI 10.1021/jf000025h
+   Arts ICW, 2000, J AGR FOOD CHEM, V48, P1752, DOI 10.1021/jf000026+
+   Arts ICW, 2005, AM J CLIN NUTR, V81, P317S, DOI 10.1093/ajcn/81.1.317S
+   Arts ICW, 2001, EUR J CLIN NUTR, V55, P76, DOI 10.1038/sj.ejcn.1601115
+   Bolton-Smith C, 2000, J EPIDEMIOL COMMUN H, V54, P143, DOI 10.1136/jech.54.2.143
+   Boschmann M, 2007, J AM COLL NUTR, V26, P389S, DOI 10.1080/07315724.2007.10719627
+   Chang NS, 2002, BMC CELL BIOL, V3, P0, DOI 10.1186/1471-2121-3-8
+   Choo JJ, 2003, J NUTR BIOCHEM, V14, P671, DOI 10.1016/j.jnutbio.2003.08.005
+   Czernichow S, 2002, INT J OBESITY, V26, P1138, DOI 10.1038/sj.ijo.0802059
+   de Boer VCJ, 2006, CELL MOL LIFE SCI, V63, P2847, DOI 10.1007/s00018-006-6316-z
+   Diepvens K, 2006, PHYSIOL BEHAV, V87, P185, DOI 10.1016/j.physbeh.2005.09.013
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   Finucane Mariel M, 2007, EPIDEMIOL PERSPECT INNOV, V4, P8, DOI 10.1186/1742-5573-4-8
+   Frank T, 2003, CAN J PHYSIOL PHARM, V81, P423, DOI 10.1139/y03-038
+   Galati G, 2006, FREE RADICAL BIO MED, V40, P570, DOI 10.1016/j.freeradbiomed.2005.09.014
+   GOLDBOHM RA, 1995, EUR J CLIN NUTR, V49, P420
+   GOLDBOHM RA, 1994, EUR J CLIN NUTR, V48, P253
+   Goldbohm RA, 1997, POLYPHENOLS FOOD, V0, P159
+   Henning SM, 2004, AM J CLIN NUTR, V80, P1558
+   HERTOG MGL, 1993, NUTR CANCER, V20, P21, DOI 10.1080/01635589309514267
+   HERTOG MGL, 1992, J AGR FOOD CHEM, V40, P2379, DOI 10.1021/jf00024a011
+   HERTOG MGL, 1993, J AGR FOOD CHEM, V41, P1242, DOI 10.1021/jf00032a015
+   Higdon JV, 2003, CRIT REV FOOD SCI, V43, P89, DOI 10.1080/10408690390826464
+   HOLBROOK TL, 1989, INT J OBESITY, V13, P723
+   Hollman PCH, 1999, FOOD CHEM TOXICOL, V37, P937, DOI 10.1016/S0278-6915(99)00079-4
+   Holt RR, 2006, J CARDIOVASC PHARM, V47, PS187, DOI 10.1097/00005344-200606001-00014
+   Huang ZP, 1998, ANN INTERN MED, V128, P81, DOI 10.7326/0003-4819-128-2-199801150-00001
+   Ikeda I, 2005, BIOSCI BIOTECH BIOCH, V69, P1049, DOI 10.1271/bbb.69.1049
+   IMAI K, 1995, BRIT MED J, V310, P693, DOI 10.1136/bmj.310.6981.693
+   Kono S, 1996, J EPIDEMIOL, V6, P128
+   Kwon SH, 2007, J MED FOOD, V10, P552, DOI 10.1089/jmf.2006.147
+   MAZZA G, 2007, ANTHOCYANINS CARDIOV, V0, P0
+   Nyholm M, 2007, OBESITY, V15, P197, DOI 10.1038/oby.2007.536
+   Ong KC, 2000, LIFE SCI, V67, P1695, DOI 10.1016/S0024-3205(00)00758-X
+   Palermo CM, 2003, CHEM RES TOXICOL, V16, P865, DOI 10.1021/tx025672c
+   Panico S, 2008, PREV MED, V47, P53, DOI 10.1016/j.ypmed.2008.01.023
+   Peterson J, 1998, NUTR RES, V18, P1995, DOI 10.1016/S0271-5317(98)00169-9
+   Phillips SM, 2003, INT J OBESITY, V27, P1106, DOI 10.1038/sj.ijo.0802370
+   Pischon T, 2006, J NATL CANCER I, V98, P920, DOI 10.1093/jnci/djj246
+   Prior RL, 2008, J AGR FOOD CHEM, V56, P647, DOI 10.1021/jf071993o
+   Prior RL, 2006, FREE RADICAL RES, V40, P1014, DOI 10.1080/10715760600758522
+   Renehan AG, 2008, LANCET, V371, P569, DOI 10.1016/S0140-6736(08)60269-X
+   Rumpler W, 2001, J NUTR, V131, P2848, DOI 10.1093/jn/131.11.2848
+   Sampson L, 2002, J AM DIET ASSOC, V102, P1414, DOI 10.1016/S0002-8223(02)90314-7
+   Schmidt M, 2005, FOOD CHEM TOXICOL, V43, P307, DOI 10.1016/j.fct.2004.11.001
+   Soobrattee MA, 2005, MUTAT RES-FUND MOL M, V579, P200, DOI 10.1016/j.mrfmmm.2005.03.023
+   Spencer EA, 2002, PUBLIC HEALTH NUTR, V5, P561, DOI 10.1079/PHN2001322
+   Strobel P, 2005, BIOCHEM J, V386, P471, DOI 10.1042/BJ20040703
+   Tokunaga S, 2002, ANN EPIDEMIOL, V12, P157, DOI 10.1016/S1047-2797(01)00307-6
+   TSUCHIDA T, 2002, PROGR MED, V22, P2189
+   Tsuda T, 2003, J NUTR, V133, P2125, DOI 10.1093/jn/133.7.2125
+   Tsuda T, 2008, J AGR FOOD CHEM, V56, P642, DOI 10.1021/jf073113b
+   VANDENBRANDT PA, 1990, J CLIN EPIDEMIOL, V43, P285, DOI 10.1016/0895-4356(90)90009-E
+   Wada K, 2005, INT J OBESITY, V29, P1093, DOI 10.1038/sj.ijo.0803012
+   Wolfram S, 2005, ANN NUTR METAB, V49, P54, DOI 10.1159/000084178
+   Wolfram S, 2006, MOL NUTR FOOD RES, V50, P176, DOI 10.1002/mnfr.200500102
+   World Health Organization (WHO), 2005, EURO1305 WHO, V12, P0
+   Wu CH, 2003, OBES RES, V11, P1088, DOI 10.1038/oby.2003.149
+   Wu CH, 2002, ARCH INTERN MED, V162, P1001, DOI 10.1001/archinte.162.9.1001
+NR 63
+TC 88
+Z9 95
+U1 0
+U2 16
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0002-9165
+EI 1938-3207
+J9 AM J CLIN NUTR
+JI Am. J. Clin. Nutr.
+PD NOV 1
+PY 2008
+VL 88
+IS 5
+BP 1341
+EP 1352
+DI 10.3945/ajcn.2008.26058
+PG 12
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 370OD
+UT WOS:000260770600023
+PM 18996871
+DA 2025-04-28
+ER
+
+PT J
+AU Franzini, L
+   Ardigò, D
+   Zavaroni, I
+AF Franzini, Laura
+   Ardigo, Diego
+   Zavaroni, Ivana
+TI Dietary antioxidants and glucose metabolism
+SO CURRENT OPINION IN CLINICAL NUTRITION AND METABOLIC CARE
+LA English
+DT Article
+DE antioxidant; diet; inflammation; insulin resistance; type 2 diabetes
+ID coronary-heart-disease; conjugated linoleic-acid; insulin-resistance; oxidative stress; vitamin-e; cardiovascular-disease; vegetable intake; tocopherol supplementation; endothelial dysfunction; coffee consumption
+AB Purpose of review Oxidative stress seems to play a pathogenic role in the vicious circle linking obesity, insulin resistance and type 2 diabetes. Hypothetically, dietary antioxidants should decrease oxidative stress and therefore improve glucose metabolism. However, many interventional trials evaluating the effect of antioxidant supplementation on insulin resistance, plasma glucose levels and risk of type 2 diabetes gave inconsistent results. Recent findings Many studies have recently demonstrated a positive effect of vitamin supplementation and of food enriched in antioxidants (seafood, whole nut, etc.) on markers of oxidative stress, insulin resistance, fasting plasma glucose and incidence of diabetes. The present paper critically reviews the consolidated notions on dietary antioxidants in view of the recent evidence. Summary Although a definitive estimation of the impact of dietary antioxidants on glucose metabolism is still lacking, food with high antioxidant concentrations seems to have a protective effect, improving oxidative stress-mediated detrimental effects on the vicious circle linking obesity, insulin resistance and redox imbalance.
+C1 [Franzini, Laura; Ardigo, Diego; Zavaroni, Ivana] Univ Parma, Dept Internal Med & Biomed Sci, I-43100 Parma, Italy.
+C3 University of Parma
+RP Zavaroni, I (corresponding author), Via Gramsci 14, I-43100 Parma, Italy.
+EM ivana.zavaroni@unipr.it
+CR Antoniades C, 2003, HERZ, V28, P628, DOI 10.1007/s00059-003-2417-8
+   Azadbakht L, 2007, DIABETES CARE, V30, P967, DOI 10.2337/dc06-2126
+   Bose KSC, 2007, SMJ SINGAPORE MEDICAL JOURNAL, V48, P415
+   Brownlee M, 2003, J CLIN INVEST, V112, P1788, DOI 10.1172/JCI200320501
+   Bugianesi E, 2005, AM J GASTROENTEROL, V100, P1082, DOI 10.1111/j.1572-0241.2005.41583.x
+   Ceriello A, 2004, ARTERIOSCL THROM VAS, V24, P816, DOI 10.1161/01.ATV.0000122852.22604.78
+   Chen H, 2006, AM J PHYSIOL-HEART C, V290, PH137, DOI 10.1152/ajpheart.00768.2005
+   Choi JS, 2007, BRIT J NUTR, V98, P264, DOI 10.1017/S000711450770497X
+   Collins R, 2002, LANCET, V360, P23, DOI 10.1016/S0140-6736(02)09328-5
+   Czernichow S, 2006, AM J CLIN NUTR, V84, P395
+   Dauchet L, 2006, J NUTR, V136, P2588, DOI 10.1093/jn/136.10.2588
+   De Caterina R, 2002, CIRCULATION, V106, P2543, DOI 10.1161/01.CIR.0000038500.43292.D7
+   DEFRONZO RA, 1992, DIABETES CARE, V15, P318, DOI 10.2337/diacare.15.3.318
+   Després JP, 2006, NATURE, V444, P881, DOI 10.1038/nature05488
+   Devaraj S, 2007, AM J CLIN NUTR, V86, P1392
+   Esmaillzadeh A, 2006, AM J CLIN NUTR, V84, P1489, DOI 10.1093/ajcn/84.6.1489
+   Evans JL, 2003, DIABETES, V52, P1, DOI 10.2337/diabetes.52.1.1
+   Ford ES, 1999, AM J EPIDEMIOL, V149, P168, DOI 10.1093/oxfordjournals.aje.a009783
+   Garg N, 2006, J PERIODONTAL RES, V41, P405, DOI 10.1111/j.1600-0765.2006.00889.x
+   Gökkusu C, 2001, ENDOCR RES, V27, P377, DOI 10.1081/ERC-100106015
+   Grassi D, 2005, AM J CLIN NUTR, V81, P611
+   Griendling KK, 2003, CIRCULATION, V108, P1912, DOI 10.1161/01.CIR.0000093660.86242.BB
+   Haber CA, 2003, AM J PHYSIOL-ENDOC M, V285, PE744, DOI 10.1152/ajpendo.00355.2002
+   Hamer M, 2007, J HYPERTENS, V25, P2361, DOI 10.1097/HJH.0b013e3282efc214
+   Hodge AM, 2007, AM J EPIDEMIOL, V165, P603, DOI 10.1093/aje/kwk061
+   Houseknecht KL, 1998, BIOCHEM BIOPH RES CO, V244, P678, DOI 10.1006/bbrc.1998.8303
+   Hozawa A, 2007, CLIN CHEM, V53, P447, DOI 10.1373/clinchem.2006.074930
+   Inami S, 2007, INT HEART J, V48, P725, DOI 10.1536/ihj.48.725
+   Kahn SE, 2003, DIABETOLOGIA, V46, P3, DOI 10.1007/s00125-002-1009-0
+   KANNEL WB, 1979, JAMA-J AM MED ASSOC, V241, P2035, DOI 10.1001/jama.241.19.2035
+   Korish AA, 2008, ARCH GERONTOL GERIAT, V46, P25, DOI 10.1016/j.archger.2007.02.006
+   Kris-Etherton Penny M, 2002, AMERICAN JOURNAL OF MEDICINE, V113, P71S, DOI 10.1016/S0002-9343(01)00995-0
+   Kushi LH, 1996, NEW ENGL J MED, V334, P1156, DOI 10.1056/NEJM199605023341803
+   Li N, 2007, J NUTR, V137, P2717, DOI 10.1093/jn/137.12.2717
+   Liu S, 2000, AM J CLIN NUTR, V72, P922
+   Liu SM, 2004, DIABETES CARE, V27, P2993, DOI 10.2337/diacare.27.12.2993
+   Manning PJ, 2004, DIABETES CARE, V27, P2166, DOI 10.2337/diacare.27.9.2166
+   McSorley PT, 2005, DIABETIC MED, V22, P703, DOI 10.1111/j.1464-5491.2005.01506.x
+   Montonen J, 2005, EUR J CLIN NUTR, V59, P441, DOI 10.1038/sj.ejcn.1602094
+   Nakaya Y, 2000, AM J CLIN NUTR, V71, P54
+   Parra D, 2007, EUR J NUTR, V46, P460
+   Paynter NP, 2006, AM J EPIDEMIOL, V164, P1075, DOI 10.1093/aje/kwj323
+   Reaven G, 2004, RECENT PROG HORM RES, V59, P207, DOI 10.1210/rp.59.1.207
+   Reaven GM, 2005, ENDOCRIN METAB CLIN, V34, P49, DOI 10.1016/j.ecl.2004.12.001
+   REAVEN GM, 1995, PHYSIOL REV, V75, P473, DOI 10.1152/physrev.1995.75.3.473
+   Rimm EB, 1996, JAMA-J AM MED ASSOC, V275, P447, DOI 10.1001/jama.275.6.447
+   RIMM EB, 1993, NEW ENGL J MED, V328, P1450, DOI 10.1056/NEJM199305203282004
+   Roberts CK, 2006, DIABETES RES CLIN PR, V73, P249, DOI 10.1016/j.diabres.2006.02.013
+   SanchezLugo L, 1997, AM J CLIN NUTR, V66, P1224, DOI 10.1093/ajcn/66.5.1224
+   Saremi A, 2003, DIABETES CARE, V26, P2211, DOI 10.2337/diacare.26.7.2211
+   Sargeant LA, 2001, EUR J CLIN NUTR, V55, P342, DOI 10.1038/sj.ejcn.1601162
+   Schulze MB, 2005, ANNU REV PUBL HEALTH, V26, P445, DOI 10.1146/annurev.publhealth.26.021304.144532
+   Shih CK, 2008, BRIT J NUTR, V99, P59, DOI 10.1017/S0007114507781497
+   Singh U, 2005, ANNU REV NUTR, V25, P151, DOI 10.1146/annurev.nutr.24.012003.132446
+   Song FF, 2007, CLIN SCI, V112, P599, DOI 10.1042/CS20060323
+   Sugiura M, 2006, J EPIDEMIOL, V16, P71, DOI 10.2188/jea.16.71
+   Syvertsen C, 2007, INT J OBESITY, V31, P1148, DOI 10.1038/sj.ijo.0803482
+   Trevisan M, 2001, AM J EPIDEMIOL, V154, P348, DOI 10.1093/aje/154.4.348
+   Turrens JF, 2003, J PHYSIOL-LONDON, V552, P335, DOI 10.1113/jphysiol.2003.049478
+   Valagussa F, 1999, LANCET, V354, P447, DOI 10.1016/S0140-6736(99)07072-5
+   Valtueña S, 2007, EUR J CLIN NUTR, V61, P69, DOI 10.1038/sj.ejcn.1602485
+   Valtuena S, 2008, AM J CLIN NUTR, V87, P1290, DOI 10.1093/ajcn/87.5.1290
+   van Dam RM, 2002, LANCET, V360, P1477, DOI 10.1016/S0140-6736(02)11436-X
+   Weinberg RB, 2001, ARTERIOSCL THROM VAS, V21, P1029, DOI 10.1161/01.ATV.21.6.1029
+   Wu JHY, 2007, CLIN CHEM, V53, P511, DOI 10.1373/clinchem.2006.076992
+   Xiao C, 2008, DIABETOLOGIA, V51, P139, DOI 10.1007/s00125-007-0859-x
+   Ylönen K, 2003, AM J CLIN NUTR, V77, P1434
+   Yusuf S, 2000, NEW ENGL J MED, V342, P154, DOI 10.1056/NEJM200001203420302
+   ZAVARONI I, 1989, NEW ENGL J MED, V320, P702, DOI 10.1056/NEJM198903163201105
+   Zhou JF, 2000, BIOMED ENVIRON SCI, V13, P44
+NR 70
+TC 34
+Z9 37
+U1 0
+U2 12
+PU LIPPINCOTT WILLIAMS & WILKINS
+PI PHILADELPHIA
+PA TWO COMMERCE SQ, 2001 MARKET ST, PHILADELPHIA, PA 19103 USA
+SN 1363-1950
+EI 1473-6519
+J9 CURR OPIN CLIN NUTR
+JI Curr. Opin. Clin. Nutr. Metab. Care
+PD JUL 15
+PY 2008
+VL 11
+IS 4
+BP 471
+EP 476
+DI 10.1097/MCO.0b013e328303be79
+PG 6
+WC Endocrinology & Metabolism; Nutrition & Dietetics
+SC Endocrinology & Metabolism; Nutrition & Dietetics
+GA 354TR
+UT WOS:000259662400018
+PM 18542009
+DA 2025-04-28
+ER
+
+PT J
+AU Bortolotti, M
+   Rudelle, S
+   Schneiter, P
+   Vidal, H
+   Loizon, E
+   Tappy, L
+   Acheson, KJ
+AF Bortolotti, Murielle
+   Rudelle, Servane
+   Schneiter, Philippe
+   Vidal, Hubert
+   Loizon, Emmanuelle
+   Tappy, Luc
+   Acheson, Kevin J.
+TI Dairy calcium supplementation in overweight or obese persons: its effect on markers of fat metabolism
+SO AMERICAN JOURNAL OF CLINICAL NUTRITION
+LA English
+DT Article
+ID human adipose-tissue; dietary calcium; energy-expenditure; vitamin-d; intracellular calcium; organ distribution; lipid-metabolism; acid synthesis; body-weight; de-novo
+AB Background: Dairy calcium supplementation has been proposed to increase fat oxidation and to inhibit lipogenesis. Objective: We aimed to investigate the effects of calcium supplementation on markers of fat metabolism. Design: In a placebo-controlled, crossover experiment, 10 overweight or obese subjects who were low calcium consumers received 800 mg dairy Ca/d for 5 wk. After 4 wk, adipose tissue was taken for biopsy for analysis of gene expression. Respiratory exchange, glycerol turnover, and subcutaneous adipose tissue microdialysis were performed for 7 h after consumption of 400 mg Ca or placebo, and the ingestion of either randomized slow-release caffeine (SRC; 300 mg) or lactose (500 mg). One week later, the test was repeated with the SRC or lactose crossover. Results: Calcium supplementation increased urinary calcium excretion by 16% (P = 0.017) but did not alter plasma parathyroid hormone or osteocalcin concentrations. Resting energy expenditure (59.9 +/- 3.0 or 59.6 +/- 3.3 kcal/ h), fat oxidation (58.4 +/- 2.5 or 53.8 +/- 2.2 mg/ min), plasma free fatty acid concentrations (0.63 +/- 0.02 or 0.62 +/- 0.03 mmol/ L), and glycerol turnover (3.63 +/- 0.41 or 3.70 +/- 0.38 mu mol . kg(-1) . min(-1)) were similar with or without calcium, respectively. SRC significantly increased free fatty acid concentrations, resting fat oxidation, and resting energy expenditure. During microdialysis, epinephrine increased dialysate glycerol concentrations by 250% without and 254% with calcium. Expression of 7 key metabolic genes in subcutaneous adipose tissue was not affected by calcium supplementation. Conclusion: Dairy calcium supplementation in overweight subjects with habitually low calcium intakes failed to alter fat metabolism and energy expenditure under resting conditions and during acute stimulation by caffeine or epinephrine.
+C1 [Acheson, Kevin J.] Nestle Res Ctr, Dept Nutr & Hlth, CH-1000 Lausanne 26, Switzerland.
+   [Bortolotti, Murielle; Rudelle, Servane; Schneiter, Philippe; Tappy, Luc] Univ Lausanne, Inst Physiol, Lausanne, Switzerland.
+   [Vidal, Hubert; Loizon, Emmanuelle] Lyon Univ, INSERM, U870, Oullins, France.
+   [Vidal, Hubert; Loizon, Emmanuelle] Lyon Univ, INRA, UMR 1235, Oullins, France.
+C3 Nestle SA; Nestle Research Center; University of Lausanne; Institut National de la Sante et de la Recherche Medicale (Inserm); INRAE
+RP Acheson, KJ (corresponding author), Nestle Res Ctr, Dept Nutr & Hlth, CH-1000 Lausanne 26, Switzerland.
+EM kevin.acheson@rdls.nestle.com
+FU Nestec SA, Switzerland
+CR Acheson KJ, 2004, AM J CLIN NUTR, V79, P40
+   ACHESON KJ, 1980, AM J CLIN NUTR, V33, P989, DOI 10.1093/ajcn/33.5.989
+   ANGEL A, 1979, EUR J CLIN INVEST, V9, P355, DOI 10.1111/j.1365-2362.1979.tb00896.x
+   ASTRUP A, 1990, AM J CLIN NUTR, V51, P759, DOI 10.1093/ajcn/51.5.759
+   BARTER PJ, 1972, METABOLISM, V21, P117, DOI 10.1016/0026-0495(72)90063-7
+   BJORNTORP P, 1978, METABOLISM, V27, P1853, DOI 10.1016/S0026-0495(78)80004-3
+   Boon N, 2007, INT J OBESITY, V31, P1704, DOI 10.1038/sj.ijo.0803660
+   Boon N, 2006, OBESITY, V14, P1739, DOI 10.1038/oby.2006.200
+   Carafoli E, 2002, P NATL ACAD SCI USA, V99, P1115, DOI 10.1073/pnas.032427999
+   DENKE MA, 1993, J NUTR, V123, P1047
+   DENTON RM, 1990, ANNU REV PHYSIOL, V52, P451, DOI 10.1146/annurev.ph.52.030190.002315
+   Ducluzeau PH, 2001, DIABETES, V50, P1134, DOI 10.2337/diabetes.50.5.1134
+   DULLOO AG, 1989, AM J CLIN NUTR, V49, P44, DOI 10.1093/ajcn/49.1.44
+   Guo ZK, 2000, INT J OBESITY, V24, P932, DOI 10.1038/sj.ijo.0801256
+   Henry S, 1998, CLIN PHYSIOL, V18, P562
+   HOFFMANN GE, 1980, BIOCHIM BIOPHYS ACTA, V620, P151, DOI 10.1016/0005-2760(80)90194-0
+   Jacobsen R, 2005, INT J OBESITY, V29, P292, DOI 10.1038/sj.ijo.0802785
+   Jones BH, 1996, AM J PHYSIOL-ENDOC M, V270, PE192, DOI 10.1152/ajpendo.1996.270.1.E192
+   Kim JH, 1997, AM J PHYSIOL-ENDOC M, V272, PE379, DOI 10.1152/ajpendo.1997.272.3.E379
+   Kim JH, 1996, FASEB J, V10, P1646, DOI 10.1096/fasebj.10.14.9002558
+   LIVESEY G, 1988, AM J CLIN NUTR, V47, P608, DOI 10.1093/ajcn/47.4.608
+   LONNROTH P, 1987, AM J PHYSIOL, V253, PE228, DOI 10.1152/ajpendo.1987.253.2.E228
+   Lorenzen JK, 2006, AM J CLIN NUTR, V83, P18
+   Mathieu C, 2005, DIABETOLOGIA, V48, P1247, DOI 10.1007/s00125-005-1802-7
+   Melanson EL, 2003, INT J OBESITY, V27, P196, DOI 10.1038/sj.ijo.802202
+   Melanson EL, 2005, OBES RES, V13, P2102, DOI 10.1038/oby.2005.261
+   MELLATI AM, 1970, METABOLIS, V19, P988, DOI 10.1016/0026-0495(70)90045-4
+   *NAT LIB MED, 2008, DRUG INF CALC MEDL P, V0, P0
+   Parikh SJ, 2004, J CLIN ENDOCR METAB, V89, P1196, DOI 10.1210/jc.2003-031398
+   PATEL MS, 1975, METABOLISM, V24, P161, DOI 10.1016/0026-0495(75)90017-7
+   Shahkhalili Y, 2001, AM J CLIN NUTR, V73, P246
+   Shi H, 2001, FASEB J, V15, P291
+   SJOSTROM L, 1973, ACTA MED SCAND, V194, P387
+   WEISS L, 1986, BIOL CHEM H-S, V367, P905, DOI 10.1515/bchm3.1986.367.2.905
+   WELBERG JWM, 1994, ANN NUTR METAB, V38, P185, DOI 10.1159/000177810
+   Wortsman J, 2000, AM J CLIN NUTR, V72, P690, DOI 10.1093/ajcn/72.3.690
+   Xue BZ, 1998, FASEB J, V12, P1391, DOI 10.1096/fasebj.12.13.1391
+   Xue BZ, 2001, FASEB J, V15, P2527, DOI 10.1096/fj.01-0278fje
+   Xue BZ, 1999, PHYSIOL GENOMICS, V1, P11, DOI 10.1152/physiolgenomics.1999.1.1.11
+   Yanoff LB, 2006, CLIN ENDOCRINOL, V64, P523, DOI 10.1111/j.1365-2265.2006.02502.x
+   Zemel MB, 2005, OBES RES, V13, P1218, DOI 10.1038/oby.2005.144
+   Zemel MB, 2000, FASEB J, V14, P1132, DOI 10.1096/fasebj.14.9.1132
+   Zemel MB, 2005, INT J OBESITY, V29, P391, DOI 10.1038/sj.ijo.0802880
+   Zemel MB, 2004, OBES RES, V12, P582, DOI 10.1038/oby.2004.67
+   Zemel MB, 2001, J AM COLL NUTR, V20, P428S, DOI 10.1080/07315724.2001.10719180
+   Zemel MB, 2002, J AM COLL NUTR, V21, P146S, DOI 10.1080/07315724.2002.10719212
+NR 46
+TC 31
+Z9 37
+U1 0
+U2 3
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0002-9165
+EI 1938-3207
+J9 AM J CLIN NUTR
+JI Am. J. Clin. Nutr.
+PD OCT 1
+PY 2008
+VL 88
+IS 4
+BP 877
+EP 885
+DI 10.1093/ajcn/88.4.877
+PG 9
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 358FX
+UT WOS:000259903600003
+PM 18842771
+DA 2025-04-28
+ER
+
+PT J
+AU Tanida, M
+   Tsuruoka, N
+   Shen, J
+   Kiso, Y
+   Nagai, K
+AF Tanida, Mamoru
+   Tsuruoka, Nobuo
+   Shen, Jiao
+   Kiso, Yoshinobu
+   Nagai, Katsuya
+TI Effects of oolong tea on renal sympathetic nerve activity and spontaneous hypertension in rats
+SO METABOLISM-CLINICAL AND EXPERIMENTAL
+LA English
+DT Article
+ID urethane-anesthetized rats; blood-pressure; brain histamine; vagal nerve; leptin; ghrelin; reflex; stimulation; responses; nucleus
+AB In a previous study, evidence was presented that oolong tea (OT) reduced abdominal fat accumulation in diet-induced obese mice. In the study presented here, we examined the sympathetic and cardiovascular effects of intraduodenal injection of OT in urethane-anesthetized rats and found that it suppressed renal sympathetic nerve activity (RSNA) and blood pressure (BP). In addition, pretreatment with the histaminergic H3-receptor antagonist thioperamide or bilateral subdiaphragmatic vagotomy eliminated the effects of OT on RSNA and BP. Furthermore, OT drinking for 14 weeks reduced BP elevation in spontaneously hypertensive rats. These results thus suggest that OT may exert its hypotensive action through changes in autonomic neurotransmission via an afferent neural mechanism. Moreover, we found that intraduodenal injection of decaffeinated OT lowered RSNA and BP as well as OT, indicating that substances other than caffeine contained in OT may function as effective modulators of RSNA and BP. (C) 2008 Elsevier Inc. All rights reserved.
+C1 [Tanida, Mamoru; Shen, Jiao; Nagai, Katsuya] ANBAS Corp, Kita Ku, Osaka 5310072, Japan.
+   [Tanida, Mamoru; Shen, Jiao; Nagai, Katsuya] Osaka Univ, Inst Prot Res, Suita, Osaka 5650871, Japan.
+   [Kiso, Yoshinobu] Suntory Ltd, Inst Hlth Care Sci, Osaka 6180012, Japan.
+C3 The University of Osaka; Suntory Holdings Ltd
+RP Tanida, M (corresponding author), ANBAS Corp, Kita Ku, Osaka 5310072, Japan.
+EM mtanida@anbas.co.jp
+CR ARRANG JM, 1983, NATURE, V302, P832, DOI 10.1038/302832a0
+   Brown RE, 2001, PROG NEUROBIOL, V63, P637, DOI 10.1016/S0301-0082(00)00039-3
+   Date Y, 2002, GASTROENTEROLOGY, V123, P1120, DOI 10.1053/gast.2002.35954
+   Han LK, 1999, INT J OBESITY, V23, P98, DOI 10.1038/sj.ijo.0800766
+   HANDA RK, 1985, J PHYSIOL-LONDON, V369, P311, DOI 10.1113/jphysiol.1985.sp015903
+   Haynes WG, 2005, EXP PHYSIOL, V90, P683, DOI 10.1113/expphysiol.2005.031237
+   Koda S, 2005, ENDOCRINOLOGY, V146, P2369, DOI 10.1210/en.2004-1266
+   Lembo G, 2000, DIABETES, V49, P293, DOI 10.2337/diabetes.49.2.293
+   Lin JK, 1998, J AGR FOOD CHEM, V46, P3635, DOI 10.1021/jf980223x
+   Matsumura K, 2002, HYPERTENSION, V40, P694, DOI 10.1161/01.HYP.0000035395.51441.10
+   Mutoh T, 2000, AM J PHYSIOL-REG I, V279, PR1215, DOI 10.1152/ajpregu.2000.279.4.R1215
+   Nagai N, 1996, ENDOCRINOLOGY, V137, P504, DOI 10.1210/en.137.2.504
+   Niijima A, 1998, J AUTONOM NERV SYST, V73, P19, DOI 10.1016/S0165-1838(98)00109-X
+   NUMAO Y, 1975, JPN HEART J, V16, P719
+   Osaka T, 2002, J PHYSIOL-LONDON, V540, P665, DOI 10.1113/jphysiol.2001.013475
+   SAWCHENKO PE, 1981, SCIENCE, V214, P685, DOI 10.1126/science.7292008
+   Tanida M, 2005, BRAIN RES, V1058, P44, DOI 10.1016/j.brainres.2005.07.048
+   Tanida M, 2005, NEUROSCI LETT, V389, P109, DOI 10.1016/j.neulet.2005.07.036
+   Tanida M, 2005, AM J PHYSIOL-REG I, V288, PR447, DOI 10.1152/ajpregu.00275.2004
+   Tanida M, 2007, NEUROSCI LETT, V413, P88, DOI 10.1016/j.neulet.2006.11.035
+   Yang MH, 2001, J NUTR BIOCHEM, V12, P14, DOI 10.1016/S0955-2863(00)00140-6
+NR 21
+TC 19
+Z9 26
+U1 0
+U2 11
+PU W B SAUNDERS CO-ELSEVIER INC
+PI PHILADELPHIA
+PA 1600 JOHN F KENNEDY BOULEVARD, STE 1800, PHILADELPHIA, PA 19103-2899 USA
+SN 0026-0495
+EI 
+J9 METABOLISM
+JI Metab.-Clin. Exp.
+PD APR 15
+PY 2008
+VL 57
+IS 4
+BP 526
+EP 534
+DI 10.1016/j.metabol.2007.11.016
+PG 9
+WC Endocrinology & Metabolism
+SC Endocrinology & Metabolism
+GA 275VJ
+UT WOS:000254099900015
+PM 18328356
+DA 2025-04-28
+ER
+
+PT J
+AU Matsuyama, T
+   Tanaka, Y
+   Kamimaki, I
+   Nagao, T
+   Tokimitsu, I
+AF Matsuyama, Takeshi
+   Tanaka, Yuriko
+   Kamimaki, Isamu
+   Nagao, Tomonori
+   Tokimitsu, Ichiro
+TI Catechin safely improved higher levels of fatness, blood pressure, and cholesterol in children
+SO OBESITY
+LA English
+DT Article
+ID green tea; body-fat; energy-expenditure; metabolic syndrome; visceral fat; polyphenols; obesity; childhood; oxidation; caffeine
+AB Objective: The purpose of this study was to evaluate the effects of a catechin-rich beverage on body fat and cardiovascular disease risk factors in obese children and to verify the safety of its use. Methods and Procedures: Obese or near-obese Japanese children were recruited for this study. A double-blind, randomized, controlled study was performed with a 4-week lead-in, a 24-week beverage ingestion period and a 12-week follow-up. Subjects ingested green tea containing 576 mg catechins ( catechin group) or 75 mg catechins ( control group) once per day for 24 weeks. Randomization was stratified by gender, age, and BMI. Subjects were instructed to maintain their usual lifestyles during the study period. Results: Data were analyzed using samples from 40 subjects ( catechin group; n = 21, control group; n = 19). There were no significant differences in major outcome variables, such as body fat mass, between the catechin and the control groups. When, however, the analysis was stratified using the median of the week-0 values, the decrease at week 24 in waist circumference, systolic blood pressure, and low-density lipoprotein cholesterol in the catechin group was significantly greater than that in the control group for the above-median category. Ingestion of the catechin-rich beverage was not associated with any adverse effects. Discussion: These findings suggest that ingestion of a catechin-rich beverage ameliorates serious obesity and cardiovascular disease risk factors without raising any safety concerns in Japanese children.
+C1 [Nagao, Tomonori; Tokimitsu, Ichiro] Kao Corp, Hlth Care Food Res Labs, Sumida Ku, Tokyo, Japan.
+   [Kamimaki, Isamu] Natl Hosp Org Saitama Natl Hosp, Dept Pediat, Wako, Saitama, Japan.
+   [Matsuyama, Takeshi; Tanaka, Yuriko] Fussa Hosp, Dept Pediat, Tokyo, Japan.
+C3 KAO Corporation
+RP Nagao, T (corresponding author), Kao Corp, Hlth Care Food Res Labs, Sumida Ku, Tokyo, Japan.
+EM nagao.tomonori@kao.co.jp
+CR Abe I, 2000, BIOCHEM BIOPH RES CO, V268, P767, DOI 10.1006/bbrc.2000.2217
+   Asayama K, 2002, INT J OBESITY, V26, P208, DOI 10.1038/sj.ijo.0801865
+   Chan PT, 1999, J NUTR, V129, P1094, DOI 10.1093/jn/129.6.1094
+   Chen W, 2005, DIABETES CARE, V28, P126, DOI 10.2337/diacare.28.1.126
+   Cole TJ, 2008, BIOSTATISTICS, V9, P159, DOI 10.1093/biostatistics/kxm020
+   Dulloo AG, 2000, INT J OBESITY, V24, P252, DOI 10.1038/sj.ijo.0801101
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   Harada U, 2005, J HEALTH SCI, V51, P248, DOI 10.1248/jhs.51.248
+   Huang TTK, 2001, OBES RES, V9, P283, DOI 10.1038/oby.2001.35
+   ISHIWATARI N, 1990, CLIN ENDOCRINOL, V38, P601
+   KIMIE Y, 1994, J JPN PEDIAT SOC, V98, P99
+   Kitagawa T, 1998, CLIN PEDIATR, V37, P111, DOI 10.1177/000992289803700208
+   Lin JK, 1998, J AGR FOOD CHEM, V46, P3635, DOI 10.1021/jf980223x
+   Ma ZM, 1996, CLIN CHEM, V42, P942
+   Matsushita Y, 2004, OBES RES, V12, P205, DOI 10.1038/oby.2004.27
+   Matsuzawa Y, 2002, CIRC J, V66, P987, DOI 10.1253/circj.66.987
+   Murase T, 2002, INT J OBESITY, V26, P1459, DOI 10.1038/sj.ijo.0802141
+   Nagao T, 2007, OBESITY, V15, P1473, DOI 10.1038/oby.2007.176
+   SOGABE M, 1995, J CLIN EXP MED, V173, P997
+   Terasawa F, 1999, ZOO BIOL, V18, P153, DOI 10.1002/(SICI)1098-2361(1999)18:2<153::AID-ZOO7>3.0.CO;2-F
+   TOKUNAGA K, 1983, INT J OBESITY, V7, P437
+   Tonari Y, 2001, RINSHO BYORI, V49, P178
+   Yoshinaga M, 2005, OBES RES, V13, P1135, DOI 10.1038/oby.2005.134
+NR 23
+TC 86
+Z9 91
+U1 2
+U2 32
+PU NATURE PUBLISHING GROUP
+PI NEW YORK
+PA 75 VARICK STREET, 9TH FLOOR, NEW YORK, NY 10013-1917 USA
+SN 1930-7381
+EI 
+J9 OBESITY
+JI Obesity
+PD JUN 15
+PY 2008
+VL 16
+IS 6
+BP 1338
+EP 1348
+DI 10.1038/oby.2008.60
+PG 11
+WC Endocrinology & Metabolism; Nutrition & Dietetics
+SC Endocrinology & Metabolism; Nutrition & Dietetics
+GA 307XU
+UT WOS:000256353700027
+PM 18356827
+DA 2025-04-28
+ER
+
+PT J
+AU Kelly, B
+   Cretikos, M
+   Rogers, K
+   King, L
+AF Kelly, Bridget
+   Cretikos, Michelle
+   Rogers, Kris
+   King, Lesley
+TI The commercial food landscape: outdoor food advertising around primary schools in Australia
+SO AUSTRALIAN AND NEW ZEALAND JOURNAL OF PUBLIC HEALTH
+LA English
+DT Article
+DE public health; marketing; food; child; advertisements
+ID television; children; alcohol; extent
+AB Objective: Food marketing is linked to childhood obesity through its influence on children's food preferences, purchase requests and food consumption. We aimed to describe the volume and nature of outdoor food advertisements and factors associated with outdoor food advertising in the area surrounding Australian primary schools. Methods: Forty primary schools in Sydney and Wollongong were selected using random sampling within population density and socio-economic strata. The area within a 500m radius of each school was scanned and advertisements coded according to pre-defined criteria, including: food or non-food product advertisement, distance from the school, size and location. Food advertisements were further categorised as core foods, non-core foods and miscellaneous drinks (tea and coffee). Results: The number of advertisements identified was 9,151, of which 2,286 (25%) were for food. The number of non-core food advertisements was 1,834, this accounted for 80% of food advertisements. Soft drinks and alcoholic beverages were the food products most commonly advertised around primary schools (24% and 22% of food advertisements, respectively). Non-core food products were twice as likely to be advertised close to a primary school (95 non-core food advertisements per km(2) within 250 m vs. 46 advertisements per km(2) within 250-500 m). Conclusions: The density of non-core food advertisements within 500 m of primary schools, and the potential for repeated exposure of children to soft drink and alcoholic beverage advertisements in particular, highlights the need for outdoor food marketing policy intervention. Implications: Outdoor advertising is an important food marketing tool that should be considered in future debates on regulation of food marketing to children.
+C1 [Kelly, Bridget; Cretikos, Michelle; Rogers, Kris; King, Lesley] Univ Sydney, Sch Publ Hlth, NSW Ctr Overweight & Obes, Sydney, NSW 2006, Australia.
+   [Cretikos, Michelle] Ctr Epidemiol & Res, NSW Dept Hlth, Sydney, NSW, Australia.
+C3 University of Sydney
+RP Kelly, B (corresponding author), Univ Sydney, Sch Publ Hlth, NSW Ctr Overweight & Obes, Level 2 K25,Med Fdn Bldg, Sydney, NSW 2006, Australia.
+EM Bridgetk@health.usyd.edu.au
+CR Andrieu E, 2006, EUR J CLIN NUTR, V60, P434, DOI 10.1038/sj.ejcn.1602331
+   Unknown -, 2004, JUNK FOOD GENERATION, V0, P0
+   *ASUTR BUR STAT, 2006, HOUS EXP SURV 2003 2, V0, P0
+   *AUST, 2004, RISK FACT MON RIS EP, V0, P0
+   *AUSTR ASS NAT ADV, 2006, FOOD BEV ADV MARK CO, V0, P0
+   *AUSTR BUR STAT, 2006, AUSTR SCH DIR, V0, P0
+   Australian Bureau of Statistics, 2007, CENS POP HOUS SOC IN, V0, P0
+   BOOTH ML, 2004, SCH PHYS ACTIVITY NU, V0, P2006
+   Chapman K, 2006, HEALTH PROMOT INT, V21, P172, DOI 10.1093/heapro/dal021
+   *CIT SYDN, 2005, CIT SYDN SIGN ADV ST, V0, P0
+   *CONS INT, 2007, REC INT COD MARK FOO, V0, P0
+   Dalmeny K, 2003, BROADCASTING BAD HEALTH: WHY FOOD ADVERTISING NEEDS TO BE CONTROLLED, V0, P0
+   *DEP ED TRAIN, 2005, PUBL SCH NSW, V0, P0
+   *DEP HLTH HUM SERV, 1996, EX SUMM REG RESTR SA, V0, P0
+   *DEP LOC GOV, 2006, COMP INF NSW LOC GOV, V0, P0
+   Department of Health and Ageing, 2001, AUSTR GUID HLTH EAT, V0, P0
+   Hackbarth DP, 2001, PUBLIC HEALTH REP, V116, P558, DOI 10.1093/phr/116.6.558
+   Hastings G, 2003, REV RES EFFECTS FOOD, V0, P0
+   Kelly B, 2008, PUBLIC HEALTH NUTR, V11, P1180, DOI 10.1017/S1368980008001778
+   Kelly B, 2007, PUBLIC HEALTH NUTR, V10, P1234, DOI 10.1017/S1368980007687126
+   Kelly B, 2007, HEALTH PROMOT INT, V22, P284, DOI 10.1093/heapro/dam026
+   LUKE D, 2000, TOB CONTROL, V16, P23
+   McGinnis MJ, 2006, FOOD MARKETING CHILD, V0, P0, DOI DOI 10.17226/11514
+   Neville L, 2005, HEALTH PROMOT INT, V20, P105, DOI 10.1093/heapro/dah601
+   *NSW GOV DEP PLANN, 2007, TRANSP CORR OUTD ADV, V0, P0
+   Pasch KE, 2007, J STUD ALCOHOL DRUGS, V68, P587, DOI 10.15288/jsad.2007.68.587
+   Pucci LG, 1998, AM J PREV MED, V15, P155, DOI 10.1016/S0749-3797(98)00034-8
+   Schor JB, 2007, J LAW MED ETHICS, V35, P10, DOI 10.1111/j.1748-720X.2007.00110.x
+   Thorburn AW, 2005, OBES REV, V6, P187, DOI 10.1111/j.1467-789X.2005.00187.x
+   WACHTLER S, 2007, BOSTON YOUTH SPEAK C, V0, P0
+NR 31
+TC 77
+Z9 82
+U1 1
+U2 16
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 1326-0200
+EI 1753-6405
+J9 AUST NZ J PUBL HEAL
+JI Aust. N. Z. Publ. Health
+PD DEC 15
+PY 2008
+VL 32
+IS 6
+BP 522
+EP 528
+DI 10.1111/j.1753-6405.2008.00303.x
+PG 7
+WC Public, Environmental & Occupational Health
+SC Public, Environmental & Occupational Health
+GA 382WP
+UT WOS:000261636400006
+PM 19076742
+DA 2025-04-28
+ER
+
+PT J
+AU Mika, M
+   Wikiera, A
+   Zyla, K
+AF Mika, Magdalena
+   Wikiera, Agnieszka
+   Zyla, Krzysztof
+TI Effects of non-fermented tea extracts on in vitro digestive hydrolysis of lipids and on cholesterol precipitation
+SO EUROPEAN FOOD RESEARCH AND TECHNOLOGY
+LA English
+DT Article
+DE green tea; cholesterol; lipids; in vitro digestibility; catechin gallates
+ID diet-induced obesity; green tea; epigallocatechin gallate; catechin-polyphenols; invitro method; fat oxidation; rats; absorption; caffeine; acid
+AB Extracts of non-fermented teas precipitated cholesterol and decreased dialysability of lipids in an in vitro model that simulated digestion in humans. The efficiency of tea extracts was affected by catechins and mainly by EGCG, ECG, GCG and CG. Total amounts and concentrations of individual catechins in extracts depended strongly on the tea brands. There were significant relationships between amounts of dialysable products of triglyceride hydrolysis, amounts of precipitated cholesterol, and concentrations of individual catechin gallates in tea brews. Dialysability of lipids was effectively reduced by tea extracts high in GCG and CG. Dialysability of lipids was strongly correlated with the sum of GCG and CG (R-2=84.64%) whereas precipitation of cholesterol was highly correlated with total amounts of catechin gallates in the tea extracts (R-2=89.59%).
+C1 [Mika, Magdalena; Wikiera, Agnieszka; Zyla, Krzysztof] Agr Univ Krakow, Fac Food Technol, Dept Food Biotechnol, PL-31149 Krakow, Poland.
+C3 University of Agriculture in Krakow
+RP Mika, M (corresponding author), Agr Univ Krakow, Fac Food Technol, Dept Food Biotechnol, Ul 122 Balicka, PL-31149 Krakow, Poland.
+EM mmika@ar.krakow.pl
+CR ALLAIN CC, 1974, CLIN CHEM, V20, P475
+   Chan PT, 1999, J NUTR, V129, P1094, DOI 10.1093/jn/129.6.1094
+   Dulloo AG, 2000, INT J OBESITY, V24, P252, DOI 10.1038/sj.ijo.0801101
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   FOSSATI P, 1982, CLIN CHEM, V28, P2077
+   IKEDA I, 1992, BIOCHIM BIOPHYS ACTA, V1127, P141, DOI 10.1016/0005-2760(92)90269-2
+   Ikeda I, 2005, J NUTR, V135, P155, DOI 10.1093/jn/135.2.155
+   Ikeda I, 2003, J AGR FOOD CHEM, V51, P7303, DOI 10.1021/jf034728l
+   Juhel C, 2000, J NUTR BIOCHEM, V11, P45, DOI 10.1016/S0955-2863(99)00070-4
+   Kajimoto O, 2005, J HEALTH SCI, V51, P161, DOI 10.1248/jhs.51.161
+   Khokhar S, 2002, J AGR FOOD CHEM, V50, P565, DOI 10.1021/jf010153l
+   Klaus S, 2005, INT J OBESITY, V29, P615, DOI 10.1038/sj.ijo.0802926
+   Kobayashi M, 2005, BIOSCI BIOTECH BIOCH, V69, P2455, DOI 10.1271/bbb.69.2455
+   Lin JK, 1998, J AGR FOOD CHEM, V46, P3635, DOI 10.1021/jf980223x
+   Lin YL, 1996, J AGR FOOD CHEM, V44, P1387, DOI 10.1021/jf950652k
+   Löest HB, 2002, J NUTR, V132, P1282, DOI 10.1093/jn/132.6.1282
+   MILLER DD, 1981, AM J CLIN NUTR, V34, P2248, DOI 10.1093/ajcn/34.10.2248
+   Murase T, 2002, INT J OBESITY, V26, P1459, DOI 10.1038/sj.ijo.0802141
+   Nagao T, 2005, AM J CLIN NUTR, V81, P122
+   Nakamura Y, 2001, J HEALTH SCI, V47, P107, DOI 10.1248/jhs.47.107
+   Peterson J, 2005, J FOOD COMPOS ANAL, V18, P487, DOI 10.1016/j.jfca.2004.05.006
+   WIERZEJEWSKA R, 2004, ZYWIENIE CZLOWIEKA M, V3, P274
+   Witkowska A, 2003, BROMATOLOGIA CHEM S, V0, P401
+   WOLTERS MGE, 1993, BRIT J NUTR, V69, P849, DOI 10.1079/BJN19930085
+   Yang TTC, 1997, PHARMACOL RES, V35, P505, DOI 10.1006/phrs.1997.0176
+   ZYLA K, 1995, BRIT J NUTR, V74, P3, DOI 10.1079/BJN19950102
+NR 26
+TC 6
+Z9 6
+U1 0
+U2 11
+PU SPRINGER
+PI NEW YORK
+PA 233 SPRING STREET, NEW YORK, NY 10013 USA
+SN 1438-2377
+EI 
+J9 EUR FOOD RES TECHNOL
+JI Eur. Food Res. Technol.
+PD FEB 15
+PY 2008
+VL 226
+IS 4
+BP 731
+EP 736
+DI 10.1007/s00217-007-0584-1
+PG 6
+WC Food Science & Technology
+SC Food Science & Technology
+GA 253TH
+UT WOS:000252540000012
+DA 2025-04-28
+ER
+
+PT J
+AU Hamada, T
+   Kotani, K
+   Higashi, A
+   Ikeda, J
+   Tagaki, E
+   Igarashi, A
+   Matsubara, C
+   Yoshida, T
+   Sakane, N
+AF Hamada, Taku
+   Kotani, Kazuhiko
+   Higashi, Akane
+   Ikeda, Junko
+   Tagaki, Emi
+   Igarashi, Aiko
+   Matsubara, Chikanobu
+   Yoshida, Toshihide
+   Sakane, Naoki
+TI Lack of association of the Trp64Arg polymorphism of β3-adrenergic receptor gene with energy expenditure in response to caffeine among young healthy women
+SO TOHOKU JOURNAL OF EXPERIMENTAL MEDICINE
+LA English
+DT Article
+DE beta(3)-adrenergic receptor; polymorphism; caffeine; energy expenditure; genotype
+ID basal metabolic-rate; insulin-resistance syndrome; obese finns; weight-loss; mutation; fat; japanese
+AB A close relationship between coffee intake and certain metabolic disorders is known. Caffeine, one of coffee components, can increase energy expenditure (EE), but there are considerable individual differences in the caffeine effects on EE, and the causes have not been fully established in humans. The Arg allele in the beta(3)-adrenergic receptor gene (beta(3)-AR), a marker for obesity-related traits, may be a contributor to individual variations in EE. This study investigated the effect of the Arg allele of beta(3)-AR on caffeine-induced increases in EE. In 44 healthy young women (21 +/- 1 years), physical characteristics, blood pressure, biochemical profiles and dietary nutritional intake were measured. A caffeine-loading test was conducted at a dosage of 4 mg per body weight (kg). EE was measured using an indirect open-circuit calorimeter for a 10-min period before, and at 30 min and 60 min after the caffeine-loading test. The beta(3)-AR Trp64Arg polymorphism was detected with a PCR-restriction fragment length polymorphism method. The frequency of the Arg allele was 24%. The distribution of the Trp/Trp, Trp/Arg, and Arg/Arg genotypes was 58%, 36%, and 6%, respectively. At the baseline, subjects with the Arg/Arg genotype had a significantly lower EE level than those with the Trp/Trp or Trp/Arg genotype. After the caffeine-loading test, there were caffeine-induced increases in EE in all genotypes, but there were no differences in the levels of increase among the genotypes. These findings suggest that the genotypes of beta(3)-AR Trp64Arg polymorphism might be not associated with caffeine-induced increases in EE levels.
+C1 [Hamada, Taku; Kotani, Kazuhiko; Sakane, Naoki] Natl Hosp Org Kyoto Med Ctr, Clin Res Inst Endocrine & Metab Dis, Div Med & Diabet Educ, Fushimi Ku, Kyoto 6128555, Japan.
+   [Kotani, Kazuhiko] Tottori Univ, Fac Med, Div Hlth Adm & Promot, Yonago, Tottori 683, Japan.
+   [Higashi, Akane; Tagaki, Emi; Igarashi, Aiko; Matsubara, Chikanobu] Kyoto Prefectural Univ, Fac Human Environm, Kyoto 606, Japan.
+   [Ikeda, Junko] Kyoto Bunkyo Jr Coll, Dept Home Econ, Tokyo, Japan.
+   [Yoshida, Toshihide] Kyoto Prefectural Univ Med, Grad Sch Med Sci, Dept Diabet Endocrinol & Metab, Kyoto, Japan.
+C3 Tottori University; Kyoto Prefectural University; Kyoto Prefectural University of Medicine
+RP Sakane, N (corresponding author), Natl Hosp Org Kyoto Med Ctr, Clin Res Inst Endocrine & Metab Dis, Div Med & Diabet Educ, Fushimi Ku, 1-1 Mukaihata Cho, Kyoto 6128555, Japan.
+EM nsakane@kyotolan.hosp.go.jp
+CR BUKOWIECKI LJ, 1983, AM J PHYSIOL, V244, PR500, DOI 10.1152/ajpregu.1983.244.4.R500
+   CLEMENT K, 1995, NEW ENGL J MED, V333, P352, DOI 10.1056/NEJM199508103330605
+   Date C, 1996, J EPIDEMIOL, V6, P0
+   KADOWAKI H, 1995, BIOCHEM BIOPH RES CO, V215, P555, DOI 10.1006/bbrc.1995.2500
+   Kurokawa N, 2001, OBES RES, V9, P741, DOI 10.1038/oby.2001.102
+   Lusk G, 1924, J BIOL CHEM, V59, P41
+   PietriRouxel F, 1997, EUR J BIOCHEM, V247, P1174, DOI 10.1111/j.1432-1033.1997.01174.x
+   Sakane N, 1997, DIABETES, V46, P1633, DOI 10.2337/diabetes.46.10.1633
+   Sakane N, 1997, DIABETES CARE, V20, P1887, DOI 10.2337/diacare.20.12.1887
+   Sakane N, 1997, DIABETOLOGIA, V40, P200, DOI 10.1007/s001250050663
+   Sipilainen R, 1997, DIABETES, V46, P77, DOI 10.2337/diabetes.46.1.77
+   Tchernof A, 1999, DIABETES, V48, P1425, DOI 10.2337/diabetes.48.7.1425
+   Umekawa T, 1999, DIABETES, V48, P117, DOI 10.2337/diabetes.48.1.117
+   Valve R, 1998, DIABETOLOGIA, V41, P357, DOI 10.1007/s001250050915
+   WALSTON J, 1995, NEW ENGL J MED, V333, P343, DOI 10.1056/NEJM199508103330603
+   WIDEN E, 1995, NEW ENGL J MED, V333, P348, DOI 10.1056/NEJM199508103330604
+   YOSHIDA T, 1994, INT J OBESITY, V18, P345
+   YOSHIDA T, 1995, LANCET, V346, P1433, DOI 10.1016/S0140-6736(95)92452-3
+   YOSHIOKA K, 1990, J NUTR SCI VITAMINOL, V36, P173, DOI 10.3177/jnsv.36.173
+NR 19
+TC 4
+Z9 5
+U1 0
+U2 1
+PU TOHOKU UNIV MEDICAL PRESS
+PI SENDAI
+PA 2-1, SEIRYO-MACHI, AOBA-KU, SENDAI, MIYAGI 980-8575, JAPAN
+SN 0040-8727
+EI 1349-3329
+J9 TOHOKU J EXP MED
+JI Tohoku J. Exp. Med.
+PD APR 15
+PY 2008
+VL 214
+IS 4
+BP 365
+EP 370
+DI 10.1620/tjem.214.365
+PG 6
+WC Medicine, General & Internal; Medicine, Research & Experimental
+SC General & Internal Medicine; Research & Experimental Medicine
+GA 296ZN
+UT WOS:000255584600011
+PM 18441513
+DA 2025-04-28
+ER
+
+PT J
+AU Wigle, DT
+   Turner, MC
+   Gomes, J
+   Parent, ME
+AF Wigle, Donald T.
+   Turner, Michelle C.
+   Gomes, James
+   Parent, Marie-Elise
+TI Role of hormonal and other factors in human prostate cancer
+SO JOURNAL OF TOXICOLOGY AND ENVIRONMENTAL HEALTH-PART B-CRITICAL REVIEWS
+LA English
+DT Review
+ID receptor gene polymorphisms; occupational risk-factors; endogenous sex-hormones; body-mass index; growth-factor-i; excision-repair capacity; meta-regression analysis; large prospective cohort; retinol efficacy trial; igf binding protein-3
+AB American men have a lifetime risk of about 18% for prostate cancer diagnosis. Large international variations in prostate cancer risks and increased risks among migrants from low- to high-risk countries indicate important roles for environmental factors. Major known risk factors include age, family history, and country/ethnicity. Type 2 diabetes appears to reduce risk, while high birth weight and adult height are linked to increased risk of aggressive prostate cancer. Limited evidence supports an association with a history of sexually transmitted infections. A previous meta-analysis of eight cohort studies indicated no associations with plasma androgen, estrogen, or sex hormone binding globulin (SHBG) levels. However, there were dose-response relationships with baseline plasma testosterone levels in two studies that adjusted for other serum hormones and obesity. Finasteride (a drug that blocks testosterone activation) reduced prostate cancer risk by 25%. Low-frequency genes linked to familial prostate cancer only explain a small fraction of all cases. Sporadic cases were linked to relatively common polymorphisms of genes involved in (1) androgen synthesis, activation, inactivation and excretion, (2) hormone and vitamin D receptors, (3) carcinogen metabolism, and (4) DNA repair. Epidemiologic evidence supports protective roles for dietary selenium, vitamin E, pulses, tomatoes/lycopene, and soy foods, and high plasma 1,25-diliydroxyvitamin D levels. There is inadequate evidence that vegetables, fruit, carotenoids, and vitamins A and C reduce risk and that animal fat, alpha-linoleic acid, meat, coffee, and tea increase risk. Two major cohort studies found dose-response relationships with dietary calcium intake. Total dietary energy intake may enhance risk. Limited evidence supports a protective role for physical activity and elevated risk for farmers and other men with occupational pesticide exposure, particularly to organochlorine compounds and phenoxy herbicides. There is inadequate evidence for a relationship with alcohol or smoking. Most known or suspected external risk factors may act through hormonal mechanisms, but our review found little supporting evidence, and substantial further research is needed.
+C1 [Wigle, Donald T.; Turner, Michelle C.] Univ Ottawa, Inst Populat Hlth, McLaughlin Ctr Populat Hlth Risk Assessment, Ottawa, ON K1N 6N5, Canada.
+   [Gomes, James] Univ Ottawa, Fac Hlth Sci, Ottawa, ON K1N 6N5, Canada.
+   [Parent, Marie-Elise] Univ Quebec, INRS Inst Armand Frappier, Laval, PQ, Canada.
+C3 University of Ottawa; University of Ottawa; University of Quebec; Institut national de la recherche scientifique (INRS)
+RP Wigle, DT (corresponding author), Univ Ottawa, Inst Populat Hlth, McLaughlin Ctr Populat Hlth Risk Assessment, Room 318B,1 Stewart St, Ottawa, ON K1N 6N5, Canada.
+EM don.wigle@sympatico.ca
+CR Adami HO, 2003, CANCER EPIDEM BIOMAR, V12, P872
+   Agalliu I, 2006, PROSTATE, V66, P146, DOI 10.1002/pros.20305
+   Ahonen MH, 2000, CANCER CAUSE CONTROL, V11, P847, DOI 10.1023/A:1008923802001
+   Alavanja MCR, 2003, AM J EPIDEMIOL, V157, P800, DOI 10.1093/aje/kwg040
+   Alavanja MCR, 2005, SCAND J WORK ENV HEA, V31, P39
+   *AM CANC SOC, 2006, CANC FACTS FIG 2006, V0, P0
+   Antognelli C, 2005, PROSTATE, V63, P240, DOI 10.1002/pros.20184
+   Aronson KJ, 1996, AM J EPIDEMIOL, V143, P363
+   Astorg P, 2004, CANCER CAUSE CONTROL, V15, P367, DOI 10.1023/B:CACO.0000027498.94238.a3
+   Baglietto L, 2006, INT J CANCER, V119, P1501, DOI 10.1002/ijc.21983
+   Ballard T, 2000, AVIAT SPACE ENVIR MD, V71, P216
+   BARRETTCONNOR E, 1990, CANCER RES, V50, P169
+   Bernal-Delgado E, 1998, FERTIL STERIL, V70, P191, DOI 10.1016/S0015-0282(98)00142-3
+   Berndt SI, 2006, J UROLOGY, V175, P1613, DOI 10.1016/S0022-5347(05)00958-4
+   Berndt SI, 2005, NUTRITION, V21, P686, DOI 10.1016/j.nut.2004.11.012
+   Binnie MC, 2005, PROSTATE, V63, P309, DOI 10.1002/pros.20178
+   Bonovas S, 2004, DIABETOLOGIA, V47, P1071, DOI 10.1007/s00125-004-1415-6
+   Bosland M C, 2000, J NATL CANCER INST MONOGR, V0, P39
+   BRAUN MM, 1995, CANCER CAUSE CONTROL, V6, P235, DOI 10.1007/BF00051795
+   Brouwer IA, 2004, J NUTR, V134, P919, DOI 10.1093/jn/134.4.919
+   Bruner DW, 2003, INT J CANCER, V107, P797, DOI 10.1002/ijc.11466
+   BRUSICK D, 1986, MUTAT RES, V169, P105, DOI 10.1016/0165-1218(86)90089-3
+   Buxton JA, 1999, AM J IND MED, V35, P82, DOI 10.1002/(SICI)1097-0274(199901)35:1<82::AID-AJIM11>3.0.CO;2-E
+   Cáceres DD, 2005, EUR J EPIDEMIOL, V20, P79, DOI 10.1007/s10654-004-1632-9
+   Chan JM, 2001, AM J CLIN NUTR, V74, P549
+   Chang BL, 2002, CANCER RES, V62, P1784
+   Charles LE, 2003, AM J EPIDEMIOL, V157, P683, DOI 10.1093/aje/kwg044
+   Chen C, 2003, CANCER EPIDEM BIOMAR, V12, P1410
+   Chu KC, 2003, CANCER-AM CANCER SOC, V97, P1507, DOI 10.1002/cncr.11212
+   Cicek MS, 2004, PROSTATE, V59, P69, DOI 10.1002/pros.10358
+   COMSTOCK GW, 1993, CANCER EPIDEM BIOMAR, V2, P219
+   Costa I, 2005, PROSTATE, V64, P246, DOI 10.1002/pros.20241
+   Culig Z, 2000, UROL RES, V28, P211, DOI 10.1007/s002400000111
+   Dagnelie PC, 2004, BJU INT, V93, P1139, DOI 10.1111/j.1464-410X.2004.04795.x
+   Dennis LK, 2002, PROSTATE CANCER P D, V5, P193, DOI 10.1038/sj.pcan.4500586
+   Dennis LK, 2002, EPIDEMIOLOGY, V13, P72, DOI 10.1097/00001648-200201000-00012
+   Dennis LK, 2000, PROSTATE, V42, P56
+   Dillner J, 1998, INT J CANCER, V75, P564, DOI 10.1002/(SICI)1097-0215(19980209)75:4<564::AID-IJC12>3.0.CO;2-9
+   Ding EL, 2006, JAMA-J AM MED ASSOC, V295, P1288, DOI 10.1001/jama.295.11.1288
+   Dong XY, 2003, AM J HUM GENET, V72, P270, DOI 10.1086/346094
+   DONN AS, 1985, B CANCER, V72, P381
+   Dorgan JP, 1998, CANCER EPIDEM BIOMAR, V7, P1069
+   Douglas JA, 2005, CANCER EPIDEM BIOMAR, V14, P2035, DOI 10.1158/1055-9965.EPI-05-0170
+   Eaton NE, 1999, BRIT J CANCER, V80, P930, DOI 10.1038/sj.bjc.6690445
+   Ellem S J, 2006, MINERVA ENDOCRINOL, V31, P1
+   Ellison LF, 2000, EUR J CANCER PREV, V9, P125, DOI 10.1097/00008469-200004000-00009
+   Engeland A, 2003, BRIT J CANCER, V89, P1237, DOI 10.1038/sj.bjc.6601206
+   Enokida H, 2006, CANCER-AM CANCER SOC, V106, P79, DOI 10.1002/cncr.21577
+   Enokida H, 2004, CANCER RES, V64, P5956, DOI 10.1158/0008-5472.CAN-04-0081
+   Etminan M, 2005, CANCER CAUSE CONTROL, V16, P1125, DOI 10.1007/s10552-005-0334-2
+   Etminan M, 2004, CANCER EPIDEM BIOMAR, V13, P340
+   Farnham JM, 2005, HUM GENET, V116, P179, DOI 10.1007/s00439-004-1220-9
+   Friedenreich CM, 2002, J NUTR, V132, P3456S, DOI 10.1093/jn/132.11.3456S
+   Fukatsu T, 2004, ANTICANCER RES, V24, P2431
+   Gann PH, 1996, J NATL CANCER I, V88, P1118, DOI 10.1093/jnci/88.16.1118
+   Gao X, 2005, JNCI-J NATL CANCER I, V97, P1768, DOI 10.1093/jnci/dji402
+   Gayther SA, 2000, CANCER RES, V60, P4513
+   Giles GG, 2001, ANN ONCOL, V12, P761, DOI 10.1023/A:1011131105617
+   Giovannucci E, 2006, CANCER EPIDEM BIOMAR, V15, P203, DOI 10.1158/1055-9965.EPI-05-0586
+   Giovannucci E, 2004, INT J EPIDEMIOL, V33, P217, DOI 10.1093/ije/dyh020
+   Giovannucci EL, 2005, ARCH INTERN MED, V165, P1005, DOI 10.1001/archinte.165.9.1005
+   Goldacre MJ, 2005, FERTIL STERIL, V84, P1438, DOI 10.1016/j.fertnstert.2005.04.052
+   Gonzalez CA, 2006, PUBLIC HEALTH NUTR, V9, P124, DOI 10.1079/PHN2005934
+   Govannucci E, 2007, GASTROENTEROLOGY, V132, P2208, DOI 10.1053/j.gastro.2007.03.050
+   Grimberg A, 2000, J CELL PHYSIOL, V183, P1, DOI 10.1002/(SICI)1097-4652(200004)183:1<1::AID-JCP1>3.0.CO;2-J
+   Gsur A, 2004, WORLD J UROL, V21, P414, DOI 10.1007/s00345-003-0378-4
+   Guess HA, 1997, CANCER EPIDEM BIOMAR, V6, P21
+   Gun RT, 2006, OCCUP ENVIRON MED, V63, P476, DOI 10.1136/oem.2005.023796
+   Härkönen PL, 2004, J STEROID BIOCHEM, V92, P297, DOI 10.1016/j.jsbmb.2004.10.016
+   Hayes RB, 1999, CANCER EPIDEM BIOMAR, V8, P25
+   Hedelin M, 2006, CANCER CAUSE CONTROL, V17, P169, DOI 10.1007/s10552-005-0342-2
+   Heikkilä R, 1999, CANCER, V86, P312, DOI 10.1002/(SICI)1097-0142(19990715)86:2<312::AID-CNCR15>3.3.CO;2-Z
+   HEILBRUN LK, 1986, BRIT J CANCER, V54, P677, DOI 10.1038/bjc.1986.226
+   Hemminki K, 2002, CANCER EPIDEM BIOMAR, V11, P1638
+   Henderson BE, 2000, CARCINOGENESIS, V21, P427, DOI 10.1093/carcin/21.3.427
+   Hickey K, 2001, EPIDEMIOL REV, V23, P115, DOI 10.1093/oxfordjournals.epirev.a000776
+   Hirayama T, 1979, NATL CANCER INST MONOGR, V0, P149
+   Ho GYF, 2003, BRIT J CANCER, V88, P263, DOI 10.1038/sj.bjc.6600747
+   Hodge AM, 2004, CANCER CAUSE CONTROL, V15, P11, DOI 10.1023/B:CACO.0000016568.25127.10
+   Hsing AW, 2001, JNCI-J NATL CANCER I, V93, P783, DOI 10.1093/jnci/93.10.783
+   Hsing AW, 2002, J NATL CANCER I, V94, P1648, DOI 10.1093/jnci/94.21.1648
+   Hsing AW, 2002, CANCER EPIDEM BIOMAR, V11, P337
+   HSING AW, 1993, CANCER EPIDEM BIOMAR, V2, P27
+   Hsing AW, 2000, CANCER EPIDEM BIOMAR, V9, P1335
+   Hu JJ, 2004, CANCER RES, V64, P1197, DOI 10.1158/0008-5472.CAN-03-2670
+   Huang HY, 2003, AM J EPIDEMIOL, V157, P335, DOI 10.1093/aje/kwf210
+   Huang LW, 2004, J ANDROL, V25, P330
+   Huang XK, 2005, CANCER RES, V65, P3470, DOI 10.1158/0008-5472.CAN-04-2807
+   Hubbard JS, 2004, UROLOGY, V63, P253, DOI 10.1016/j.urology.2003.09.060
+   *INT AG RES CANC, 2005, GLOB 2002 CANC INC M, V0, P0
+   *INT AG RES CANC, 1994, BER CADM MERC EXP GL, V0, P0
+   Jacobs ET, 2004, J STEROID BIOCHEM, V89-90, P533, DOI 10.1016/j.jsbmb.2004.03.063
+   Jain MG, 1998, INT J CANCER, V78, P707, DOI 10.1002/(SICI)1097-0215(19981209)78:6<707::AID-IJC7>3.0.CO;2-2
+   Janssen JAMJL, 2004, J CLIN ENDOCR METAB, V89, P4391, DOI 10.1210/jc.2004-0232
+   Ji Q, 2005, MOL CELL ENDOCRINOL, V229, P103, DOI 10.1016/j.mce.2004.08.012
+   Jian L, 2005, INT J CANCER, V113, P1010, DOI 10.1002/ijc.20667
+   Jian L, 2004, INT J CANCER, V108, P130, DOI 10.1002/ijc.11550
+   John EM, 2005, CANCER RES, V65, P5470, DOI 10.1158/0008-5472.CAN-04-3134
+   Johns LE, 2003, BJU INT, V91, P789, DOI 10.1046/j.1464-410X.2003.04232.x
+   Kasper JS, 2006, CANCER EPIDEM BIOMAR, V15, P2056, DOI 10.1158/1055-9965.EPI-06-0410
+   Keshava C, 2004, AM J EPIDEMIOL, V160, P825, DOI 10.1093/aje/kwh294
+   King IB, 2005, CANCER EPIDEM BIOMAR, V14, P988, DOI 10.1158/1055-9965.EPI-04-0517
+   Kolonel LN, 1996, CANCER CAUSE CONTROL, V7, P83, DOI 10.1007/BF00115640
+   Kolonel LN, 2000, CANCER EPIDEM BIOMAR, V9, P795
+   Korodi Z, 2005, CANCER EPIDEM BIOMAR, V14, P2952, DOI 10.1158/1055-9965.EPI-05-0602
+   Kraft P, 2005, PLOS GENET, V1, P603, DOI 10.1371/journal.pgen.0010068
+   Krstev S, 1998, AM J IND MED, V34, P421, DOI 10.1002/(SICI)1097-0274(199811)34:5<421::AID-AJIM2>3.0.CO;2-T
+   Krüger S, 2005, LANCET ONCOL, V6, P566, DOI 10.1016/S1470-2045(05)70253-9
+   Kumazawa T, 2004, INT J CANCER, V110, P140, DOI 10.1002/ijc.20070
+   Lau KM, 2000, CANCER RES, V60, P3175
+   LE ML, 1994, EPIDEMIOLOGY, V5, P276
+   Leitzmann MF, 2004, AM J CLIN NUTR, V80, P204
+   Li LC, 2004, BIOCHEM BIOPH RES CO, V321, P455, DOI 10.1016/j.bbrc.2004.06.164
+   Li LC, 2001, J UROLOGY, V166, P705, DOI 10.1016/S0022-5347(05)66047-8
+   Li SF, 2003, ANN NY ACAD SCI, V983, P161, DOI 10.1111/j.1749-6632.2003.tb05971.x
+   Low YL, 2005, J NUTR, V135, P2680, DOI 10.1093/jn/135.11.2680
+   Lynge E, 2002, J UROLOGY, V168, P488, DOI 10.1016/S0022-5347(05)64664-2
+   MacInnis RJ, 2003, CANCER EPIDEM BIOMAR, V12, P1417
+   MacInnis RJ, 2006, CANCER CAUSE CONTROL, V17, P989, DOI 10.1007/s10552-006-0049-z
+   MacLean CH, 2006, JAMA-J AM MED ASSOC, V295, P403, DOI 10.1001/jama.295.4.403
+   Malila N, 2006, EUR J CANCER PREV, V15, P103, DOI 10.1097/01.cej.0000197448.49239.60
+   Marchesani M, 2003, JNCI-J NATL CANCER I, V95, P812, DOI 10.1093/jnci/95.11.812
+   Mononen N, 2006, CANCER RES, V66, P743, DOI 10.1158/0008-5472.CAN-05-1723
+   Mori T, 1996, JPN J CANCER RES, V87, P570, DOI 10.1111/j.1349-7006.1996.tb00261.x
+   Muir KR, 2005, SCAND J WORK ENV HEA, V31, P55
+   Murata M, 2001, CANCER LETT, V165, P171, DOI 10.1016/S0304-3835(01)00398-6
+   Nam RK, 2003, CANCER EPIDEM BIOMAR, V12, P1429
+   Negri E, 2005, INT J CANCER, V114, P648, DOI 10.1002/ijc.20755
+   Nelson WG, 2001, ANN NY ACAD SCI, V952, P135, DOI 10.1111/j.1749-6632.2001.tb02734.x
+   Neuhausen SL, 2005, PROSTATE, V64, P168, DOI 10.1002/pros.20216
+   Nilsen TIL, 2005, INT J CANCER, V113, P1002, DOI 10.1002/ijc.20674
+   Nock NL, 2006, CANCER EPIDEM BIOMAR, V15, P756, DOI 10.1158/1055-9965.EPI-05-0826
+   Nock NL, 2006, CARCINOGENESIS, V27, P1842, DOI 10.1093/carcin/bgl022
+   Nojima D, 2001, CANCER, V92, P2076, DOI 10.1002/1097-0142(20011015)92:8<2076::AID-CNCR1548>3.0.CO;2-A
+   Nomura AM, 2001, EPIDEMIOL REV, V23, P126, DOI 10.1093/oxfordjournals.epirev.a000777
+   Nomura AMY, 1996, CANCER EPIDEM BIOMAR, V5, P621
+   Nomura AMY, 1998, CANCER CAUSE CONTROL, V9, P425, DOI 10.1023/A:1008875819232
+   Nomura AMY, 1997, CANCER EPIDEM BIOMAR, V6, P487
+   Noonan-Wheeler FC, 2006, PROSTATE, V66, P49, DOI 10.1002/pros.20320
+   Ntais C, 2003, CANCER EPIDEM BIOMAR, V12, P1395
+   Ntais C, 2005, CANCER EPIDEM BIOMAR, V14, P176
+   Ntais C, 2003, CANCER EPIDEM BIOMAR, V12, P120
+   Ogishima T, 2005, CLIN CANCER RES, V11, P1028
+   Parent MÉ, 2001, EPIDEMIOL REV, V23, P138, DOI 10.1093/oxfordjournals.epirev.a000779
+   Patel AV, 2005, CANCER EPIDEM BIOMAR, V14, P275
+   PEEHL DM, 1986, IN VITRO CELL DEV B, V22, P82
+   Plaskon LA, 2003, CANCER EPIDEM BIOMAR, V12, P604
+   Platz EA, 2004, CANCER CAUSE CONTROL, V15, P255, DOI 10.1023/B:CACO.0000024245.24880.8a
+   Platz EA, 2004, AM J EPIDEMIOL, V159, P444, DOI 10.1093/aje/kwh062
+   Platz EA, 2003, CANCER RES, V63, P8542
+   Platz EA, 1998, AM J EPIDEMIOL, V147, P1140
+   Platz EA, 2002, J NUTR, V132, P3471S, DOI 10.1093/jn/132.11.3471S
+   Pollak M, 1998, CANCER METAST REV, V17, P383, DOI 10.1023/A:1006154108619
+   POTOSKY AL, 1995, JAMA-J AM MED ASSOC, V273, P548, DOI 10.1001/jama.273.7.548
+   Pukkala E, 2002, BRIT MED J, V325, P567, DOI 10.1136/bmj.325.7364.567
+   Quiñones LA, 2006, ASIAN J ANDROL, V8, P349, DOI 10.1111/j.1745-7262.2006.00135.x
+   REICHMAN ME, 1990, CANCER RES, V50, P2311
+   Ren CZ, 2004, CANCER RES, V64, P969, DOI 10.1158/0008-5472.CAN-03-2592
+   Renehan AG, 2004, LANCET, V363, P1346, DOI 10.1016/S0140-6736(04)16044-3
+   Reynolds P, 1999, AM J IND MED, V36, P271, DOI 10.1002/(SICI)1097-0274(199908)36:2<271::AID-AJIM6>3.3.CO;2-9
+   Rhodes DR, 2002, CANCER RES, V62, P4427
+   Ritchey JD, 2005, CANCER EPIDEM BIOMAR, V14, P1703, DOI 10.1158/1055-9965.EPI-04-0809
+   Rodriguez C, 2005, AM J EPIDEMIOL, V161, P147, DOI 10.1093/aje/kwh334
+   Rodriguez C, 2001, CANCER EPIDEM BIOMAR, V10, P345
+   Rodriguez C, 2004, CANCER EPIDEM BIOMAR, V13, P378
+   Rohrmann S, 2005, CANCER CAUSE CONTROL, V16, P1189, DOI 10.1007/s10552-005-0304-8
+   Rovito PM, 2005, PROSTATE CANCER P D, V8, P69, DOI 10.1038/sj.pcan.4500780
+   Rubin MA, 2004, CANCER RES, V64, P3814, DOI 10.1158/0008-5472.CAN-03-3881
+   Rusiecki JA, 2006, INT J CANCER, V118, P3118, DOI 10.1002/ijc.21758
+   Rusiecki JA, 2004, JNCI-J NATL CANCER I, V96, P1375, DOI 10.1093/jnci/djh264
+   Salam MT, 2005, UROL ONCOL-SEMIN ORI, V23, P246, DOI 10.1016/j.urolonc.2004.12.014
+   Schaid DJ, 2004, HUM MOL GENET, V13, PR103, DOI 10.1093/hmg/ddh072
+   Schuurman AG, 1999, BRIT J CANCER, V80, P1107, DOI 10.1038/sj.bjc.6690472
+   Schuurman AG, 2002, CANCER CAUSE CONTROL, V13, P573, DOI 10.1023/A:1016332208339
+   Schuurman AG, 1999, CANCER CAUSE CONTROL, V10, P597, DOI 10.1023/A:1008925103542
+   Sesso HD, 2001, INT J EPIDEMIOL, V30, P749, DOI 10.1093/ije/30.4.749
+   Severi G, 2006, CANCER EPIDEM BIOMAR, V15, P86, DOI 10.1158/1055-9965.EPI-05-0633
+   Shaneyfelt T, 2000, J CLIN ONCOL, V18, P847, DOI 10.1200/JCO.2000.18.4.847
+   Sharma-Wagner S, 2000, J OCCUP ENVIRON MED, V42, P517, DOI 10.1097/00043764-200005000-00010
+   Sharpe CR, 2002, EUR J CANCER PREV, V11, P497, DOI 10.1097/00008469-200210000-00013
+   Sharpe CR, 2001, EPIDEMIOLOGY, V12, P546, DOI 10.1097/00001648-200109000-00014
+   Sharpe RM, 1998, ENVIRON HEALTH PERSP, V106, PA220, DOI 10.2307/3433998
+   Shi R, 2001, BRIT J CANCER, V85, P991, DOI 10.1054/bjoc.2001.1961
+   Sieh W, 2006, CANCER CAUSE CONTROL, V17, P187, DOI 10.1007/s10552-005-0454-8
+   Silig Y, 2006, CANCER INVEST, V24, P41, DOI 10.1080/07357900500449579
+   SLATTERY ML, 1993, CANCER CAUSE CONTROL, V4, P559, DOI 10.1007/BF00052432
+   Soffritti M, 2002, ANN NY ACAD SCI, V982, P46, DOI 10.1111/j.1749-6632.2002.tb04924.x
+   Stattin P, 2004, J CLIN ONCOL, V22, P3104, DOI 10.1200/JCO.2004.10.105
+   Stattin P, 2000, J NATL CANCER I, V92, P1910, DOI 10.1093/jnci/92.23.1910
+   Stattin P, 2004, CANCER CAUSE CONTROL, V15, P1095, DOI 10.1007/s10552-004-1480-7
+   Stattin P, 2004, INT J CANCER, V108, P418, DOI 10.1002/ijc.11572
+   Stevens VL, 2005, CANCER CAUSE CONTROL, V16, P643, DOI 10.1007/s10552-005-0384-5
+   Stewart RE, 1999, J OCCUP ENVIRON MED, V41, P1079, DOI 10.1097/00043764-199912000-00012
+   Suzuki K, 2003, CANCER-AM CANCER SOC, V98, P1411, DOI 10.1002/cncr.11639
+   Taylor ML, 2005, FAM MED, V37, P506
+   Thellenberg-Karlsson C, 2006, CLIN CANCER RES, V12, P1936, DOI 10.1158/1078-0432.CCR-05-0269
+   Thompson IM, 2003, NEW ENGL J MED, V349, P215, DOI 10.1056/NEJMoa030660
+   Tokizane T, 2005, CLIN CANCER RES, V11, P5793, DOI 10.1158/1078-0432.CCR-04-2545
+   Trummer H, 2002, HUM REPROD, V17, P1554, DOI 10.1093/humrep/17.6.1554
+   Tseng M, 2005, AM J CLIN NUTR, V81, P1147
+   Tuohimaa P, 2005, J STEROID BIOCHEM, V93, P183, DOI 10.1016/j.jsbmb.2004.12.009
+   Tuohimaa P, 2004, INT J CANCER, V108, P104, DOI 10.1002/ijc.11375
+   van den Brandt PA, 2003, CANCER EPIDEM BIOMAR, V12, P866
+   van Gils CH, 2002, CANCER EPIDEM BIOMAR, V11, P1279
+   van Maele-Fabry G, 2006, CANCER CAUSE CONTROL, V17, P353, DOI 10.1007/s10552-005-0443-y
+   Van Maele-Fabry G, 2004, INT ARCH OCC ENV HEA, V77, P559, DOI 10.1007/s00420-004-0548-8
+   vanderGulden JWJ, 1997, PROSTATE, V30, P107, DOI 10.1002/(SICI)1097-0045(19970201)30:2<107::AID-PROS6>3.0.CO;2-L
+   Vatten LJ, 1997, CANCER EPIDEM BIOMAR, V6, P967
+   Verougstraete V, 2003, J TOXICOL ENV HEAL B, V6, P227, DOI 10.1080/10937400306465
+   Wadelius M, 1999, PHARMACOGENETICS, V9, P333, DOI 10.1097/00008571-199906000-00008
+   Wahle KWJ, 2004, PROG LIPID RES, V43, P553, DOI 10.1016/j.plipres.2004.08.002
+   Weinstein SJ, 2005, JNCI-J NATL CANCER I, V97, P396, DOI 10.1093/jnci/dji045
+   Weston T L, 2000, INT J OCCUP ENVIRON HEALTH, V6, P194
+   Wong O, 2000, REGUL TOXICOL PHARM, V32, P78, DOI 10.1006/rtph.2000.1410
+   Xu JF, 2002, CANCER RES, V62, P2253
+   Yan L, 2005, INT J CANCER, V117, P667, DOI 10.1002/ijc.21266
+   Zeegers MP, 2004, CANCER EPIDEM BIOMAR, V13, P1765
+   Zeegers MPA, 2005, CANCER EPIDEM BIOMAR, V14, P1490, DOI 10.1158/1055-9965.EPI-04-0771
+   Zeegers MPA, 2004, J OCCUP ENVIRON MED, V46, P271, DOI 10.1097/01.jom.0000116961.48464.6b
+   Zeigler-Johnson C, 2004, CANCER RES, V64, P8461, DOI 10.1158/0008-5472.CAN-04-1651
+   Zhao H, 2005, CANCER-AM CANCER SOC, V104, P44, DOI 10.1002/cncr.21135
+   Zhu K, 2004, AM J EPIDEMIOL, V159, P978, DOI 10.1093/aje/kwh139
+NR 223
+TC 43
+Z9 57
+U1 0
+U2 31
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1093-7404
+EI 1521-6950
+J9 J TOXICOL ENV HEAL B
+JI J. Toxicol. Env. Health-Pt b-Crit. Rev.
+PD MAR-APR 15
+PY 2008
+VL 11
+IS 3-4
+BP 242
+EP 259
+DI 10.1080/10937400701873548
+PG 18
+WC Environmental Sciences; Public, Environmental & Occupational Health; Toxicology
+SC Environmental Sciences & Ecology; Public, Environmental & Occupational Health; Toxicology
+GA 299JZ
+UT WOS:000255753200007
+PM 18368555
+DA 2025-04-28
+ER
+
+PT J
+AU Venables, MC
+   Hulston, CJ
+   Cox, HR
+   Jeukendrup, AE
+AF Venables, Michelle C.
+   Hulston, Carl J.
+   Cox, Hannah R.
+   Jeukendrup, Asker E.
+TI Green tea extract ingestion, fat oxidation, and glucose tolerance in healthy humans
+SO AMERICAN JOURNAL OF CLINICAL NUTRITION
+LA English
+DT Article
+DE tea catechins; substrate metabolism; oralglucose-tolerance test; moderate-intensity exercise; men
+ID insulin sensitivity; exercise intensity; metabolism; muscle; performance; endurance; caffeine; mice; supplementation; resistance
+AB Background: Green tea consumption is reportedly associated with various health-promoting properties. For example, it has been shown to promote fat oxidation in humans at rest and to prevent obesity and improve insulin sensitivity in mice. Objective: We investigated the effects of acute ingestion of green tea extract (GTE) on glucose tolerance and fat oxidation during moderate-intensity exercise in humans. Design: Two studies were performed, both with a counter-balanced crossover design. In study A, 12 healthy men performed a 30-min cycling exercise at 60% of maximal oxygen consumption (<(V)over dot>O(2)max) before and after supplementation. In study B, 11 healthy men took an oral-glucose-tolerance test before and after supplementation. In the 24-h period before the experimental trials, participants ingested 3 capsules containing either GTE (total: 890 +/- 13 mg polyphenols and 366 +/- 5 mg EGCG) or a corn-flour placebo (total: 1729 +/- 22 mg). Results: Average fat oxidation rates were 17% higher after ingestion of GTE than after ingestion of placebo (0.41 +/- 0.03 and 0.35 +/- 0.03 g/min, respectively; P < 0.05). Moreover, the contribution of fat oxidation to total energy expenditure was also significantly higher, by a similar percentage, after GTE supplementation. The insulin area under the curve decreased in both the GTE and placebo trials (3612 +/- 301 and 4280 +/- 309 mu IU/dL (.) 120 min, respectively; P < 0.01), and there was a concomitant increase of 13% in insulin sensitivity. Conclusions: Acute GTE ingestion can increase fat oxidation during moderate-intensity exercise and can improve insulin sensitivity and glucose tolerance in healthy young men.
+C1 [Venables, Michelle C.; Hulston, Carl J.; Cox, Hannah R.; Jeukendrup, Asker E.] Univ Birmingham, Sch Sport & Exercise Sci, Human Performance Lab, Birmingham B15 2TT, W Midlands, England.
+C3 University of Birmingham
+RP Jeukendrup, AE (corresponding author), Univ Birmingham, Sch Sport & Exercise Sci, Human Performance Lab, Birmingham B15 2TT, W Midlands, England.
+EM a.e.jeukendrup@bham.ac.uk
+CR ARNER P, 1990, J CLIN INVEST, V85, P893, DOI 10.1172/JCI114516
+   Cameron-Smith D, 2003, AM J CLIN NUTR, V77, P313, DOI 10.1093/ajcn/77.2.313
+   CAMPBELL PJ, 1992, AM J PHYSIOL, V263, P0
+   COSTILL DL, 1978, MED SCI SPORT EXER, V10, P155
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   Horowitz JF, 1997, AM J PHYSIOL-ENDOC M, V273, PE768, DOI 10.1152/ajpendo.1997.273.4.E768
+   Itani SI, 2002, DIABETES, V51, P2005, DOI 10.2337/diabetes.51.7.2005
+   IVY JL, 1979, MED SCI SPORT EXER, V11, P6
+   Jeukendrup AE, 1998, INT J SPORTS MED, V19, P293, DOI 10.1055/s-2007-971921
+   Jeukendrup AE, 2005, INT J SPORTS MED, V26, PS28, DOI 10.1055/s-2004-830512
+   KUIPERS H, 1985, INT J SPORTS MED, V6, P197, DOI 10.1055/s-2008-1025839
+   Lu H, 2003, DRUG METAB DISPOS, V31, P572, DOI 10.1124/dmd.31.5.572
+   Matsuda M, 1999, DIABETES CARE, V22, P1462, DOI 10.2337/diacare.22.9.1462
+   McArdle WD, 2000, ESSENTIALS EXERCISE, V2nd, P0
+   Murase T, 2006, AM J PHYSIOL-REG I, V290, PR1550, DOI 10.1152/ajpregu.00752.2005
+   Murase T, 2002, INT J OBESITY, V26, P1459, DOI 10.1038/sj.ijo.0802141
+   Murase T, 2005, AM J PHYSIOL-REG I, V288, PR708, DOI 10.1152/ajpregu.00693.2004
+   Potenza MA, 2007, AM J PHYSIOL-ENDOC M, V292, PE1378, DOI 10.1152/ajpendo.00698.2006
+   ROMIJN JA, 1993, AM J PHYSIOL, V265, PE380, DOI 10.1152/ajpendo.1993.265.3.E380
+   Shimotoyodome A, 2005, MED SCI SPORT EXER, V37, P1884, DOI 10.1249/01.mss.0000178062.66981.a8
+   van Loon LJC, 2001, J PHYSIOL-LONDON, V536, P295, DOI 10.1111/j.1469-7793.2001.00295.x
+   Waltner-Law ME, 2002, J BIOL CHEM, V277, P34933, DOI 10.1074/jbc.M204672200
+   Watanabe J, 1998, BIOSCI BIOTECH BIOCH, V62, P532, DOI 10.1271/bbb.62.532
+   WOLFE RR, 1990, AM J PHYSIOL, V258, PE382, DOI 10.1152/ajpendo.1990.258.2.E382
+   Wu LY, 2004, J AGR FOOD CHEM, V52, P643, DOI 10.1021/jf030365d
+   Wu LY, 2004, EUR J NUTR, V43, P116, DOI 10.1007/s00394-004-0450-x
+   Yu CL, 2002, J BIOL CHEM, V277, P50230, DOI 10.1074/jbc.M200958200
+NR 27
+TC 212
+Z9 238
+U1 0
+U2 47
+PU AMER SOC CLINICAL NUTRITION
+PI BETHESDA
+PA 9650 ROCKVILLE PIKE, SUBSCRIPTIONS, RM L-3300, BETHESDA, MD 20814-3998 USA
+SN 0002-9165
+EI 
+J9 AM J CLIN NUTR
+JI Am. J. Clin. Nutr.
+PD MAR 15
+PY 2008
+VL 87
+IS 3
+BP 778
+EP 784
+DI 10.1093/ajcn/87.3.778
+PG 7
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 273KA
+UT WOS:000253927700032
+PM 18326618
+DA 2025-04-28
+ER
+
+PT J
+AU Boon, N
+AF Boon, Niels
+TI Health Potential for Functional Green Teas?
+SO INTERNATIONAL JOURNAL FOR VITAMIN AND NUTRITION RESEARCH
+LA English
+DT Article; Proceedings Paper
+DE Green tea; catechins; health benefits
+ID randomized controlled-trial; blood-glucose levels; body-weight loss; fat oxidation; black tea; endothelial function; energy-expenditure; insulin-resistance; catechin-polyphenols; caffeine intake
+AB Obesity is a major health problem in the developed and developing world. Many "functional" foods and ingredients are advocated for their effects on body composition but few have consistent scientific support for their efficacy. However, an increasing amount of mechanistic and clinical evidence is building for green tea. The tea plant is naturally rich in a group of antioxidants known as catechins. Unlike black tea, green tea production involves little processing and fermentation and therefore, green tea brews are rich in catechins. Green tea has been suggested to have a number of potential health benefits in areas such as cardiovascular disease, cancer prevention, glucose homeostasis and dental health. Although there is some promising evidence in all of these areas, more data from human intervention trials are needed. A lot of attention has lately been focused on the beneficial effects of green tea on body composition and particularly visceral fat, which has been shown to have a strong link with different components of the metabolic syndrome such as cardiovascular disease and type 2 diabetes. Most, but not all, of the positive results come from a number Asian studies, in which overweight subjects (men and women) consumed green tea for approximately 12 weeks. Finally, green tea may also have measurable acute effects oil energy metabolism and fat oxidation and in particular during physical activity, as evidenced by other studies specifically looking at these endpoints. Small cumulative effects on energy metabolism could also be responsible for the longer-tem effects of green tea on body composition, and these long-term effects may also be most apparent in the context of moderate physical activity. However, more research is needed to further clarify the exact mechanisms of action and to extrapolate these findings to non-Asian populations.
+C1 [Boon, Niels] Unilever Res Labs, Vlaardingen, Netherlands.
+   [Boon, Niels] Lipton Inst Tea, Vlaardingen, Netherlands.
+C3 Unilever
+RP Boon, N (corresponding author), Unilever Res Labs, Vlaardingen, Netherlands.
+EM niels.boon@unilever.com
+CR Alexopoulos N, 2008, EUR J CARDIOV PREV R, V15, P300, DOI 10.1097/HJR.0b013e3282f4832f
+   Astill C, 2001, J AGR FOOD CHEM, V49, P5340, DOI 10.1021/jf010759+
+   Auvichayapat P, 2008, PHYSIOL BEHAV, V93, P486, DOI 10.1016/j.physbeh.2007.10.009
+   Cabrera C, 2006, J AM COLL NUTR, V25, P79, DOI 10.1080/07315724.2006.10719518
+   Chantre P, 2002, PHYTOMEDICINE, V9, P3, DOI 10.1078/0944-7113-00078
+   Dulloo AG, 2000, INT J OBESITY, V24, P252, DOI 10.1038/sj.ijo.0801101
+   Dulloo AG, 1999, AM J CLIN NUTR, V70, P1040
+   DULLOO AG, 1992, METABOLISM, V41, P1233, DOI 10.1016/0026-0495(92)90015-3
+   *FOOD STAND AG, 2001, COMM TOX CHEM FOOD C, V0, P0
+   Fukino Y, 2008, EUR J CLIN NUTR, V62, P953, DOI 10.1038/sj.ejcn.1602806
+   Fukino Y, 2005, J NUTR SCI VITAMINOL, V51, P335, DOI 10.3177/jnsv.51.335
+   Gardner EJ, 2007, EUR J CLIN NUTR, V61, P3, DOI 10.1038/sj.ejcn.1602489
+   Hamilton-Miller JMT, 2001, J MED MICROBIOL, V50, P299, DOI 10.1099/0022-1317-50-4-299
+   Harada U, 2005, J HEALTH SCI, V51, P248, DOI 10.1248/jhs.51.248
+   Hase T, 2001, JOURNAL OF OLEO SCIENCE, V50, P599, DOI 10.5650/jos.50.599
+   Hill AM, 2007, J AM COLL NUTR, V26, P396S, DOI 10.1080/07315724.2007.10719628
+   Hirasawa M, 2006, CARIES RES, V40, P265, DOI 10.1159/000092236
+   Hsu CH, 2008, CLIN NUTR, V27, P363, DOI 10.1016/j.clnu.2008.03.007
+   Hsu TF, 2006, EUR J CLIN NUTR, V60, P1330, DOI 10.1038/sj.ejcn.1602464
+   Hughes LAE, 2008, AM J CLIN NUTR, V88, P1341, DOI 10.3945/ajcn.2008.26058
+   Ikeda I, 2005, J NUTR, V135, P155, DOI 10.1093/jn/135.2.155
+   Iso H, 2006, ANN INTERN MED, V144, P554, DOI 10.7326/0003-4819-144-8-200604180-00005
+   Jochmann N, 2008, BRIT J NUTR, V99, P863, DOI 10.1017/S0007114507838992
+   Jones C, 1999, COMMUNITY DENT HLTH, V16, P68
+   Juhel C, 2000, J NUTR BIOCHEM, V11, P45, DOI 10.1016/S0955-2863(99)00070-4
+   Kajimoto O, 2005, J HEALTH SCI, V51, P161, DOI 10.1248/jhs.51.161
+   Kao YH, 2006, MOL NUTR FOOD RES, V50, P188, DOI 10.1002/mnfr.200500109
+   Kataoka K, 2004, PROGRESS IN MEDICINE, V24, P3358
+   Khan N, 2006, CANCER RES, V66, P2500, DOI 10.1158/0008-5472.CAN-05-3636
+   Kim W, 2006, CIRC J, V70, P1052, DOI 10.1253/circj.70.1052
+   Klaus S, 2005, INT J OBESITY, V29, P615, DOI 10.1038/sj.ijo.0802926
+   Kovacs EMR, 2004, BRIT J NUTR, V91, P431, DOI 10.1079/BJN20041061
+   Liu T, 2000, ZHONGHUA KOU QIANG YI XUE ZA ZHI, V35, P383
+   MacKenzie T, 2007, METABOLISM, V56, P1340, DOI 10.1016/j.metabol.2007.05.018
+   Maki KC, 2009, J NUTR, V139, P264, DOI 10.3945/jn.108.098293
+   Matsuyama T, 2008, OBESITY, V16, P1338, DOI 10.1038/oby.2008.60
+   Moon HS, 2007, CHEM-BIOL INTERACT, V167, P85, DOI 10.1016/j.cbi.2007.02.008
+   Nagao T, 2005, AM J CLIN NUTR, V81, P122
+   Nagao T, 2001, JOURNAL OF OLEO SCIENCE, V50, P717
+   Nagao T, 2007, OBESITY, V15, P1473, DOI 10.1038/oby.2007.176
+   *NHS CRD, 2000, 18 NHS CRD U YORK CT, V0, P0
+   OOSHIMA T, 1994, CARIES RES, V28, P146, DOI 10.1159/000261636
+   Ota N, 2005, J HEALTH SCI, V51, P233, DOI 10.1248/jhs.51.233
+   Polychronopoulos E, 2008, EUR J NUTR, V47, P10, DOI 10.1007/s00394-007-0690-7
+   Raederstorff DG, 2003, J NUTR BIOCHEM, V14, P326, DOI 10.1016/S0955-2863(03)00054-8
+   Rudelle S, 2007, OBESITY, V15, P349, DOI 10.1038/oby.2007.529
+   Ryu OH, 2006, DIABETES RES CLIN PR, V71, P356, DOI 10.1016/j.diabres.2005.08.001
+   SARIS WHM, 1995, INT J OBESITY, V19, P0
+   Song YQ, 2005, J AM COLL NUTR, V24, P376, DOI 10.1080/07315724.2005.10719488
+   Stangl V, 2006, MOL NUTR FOOD RES, V50, P218, DOI 10.1002/mnfr.200500118
+   Takashima S, 2004, PROGRESS IN MEDICINE, V24, P3371
+   TSUCHIDA T, 2002, PROGR MED, V22, P2189
+   Tsuneki Hiroshi, 2004, BMC PHARMACOLOGY, V4, P18, DOI 10.1186/1471-2210-4-18
+   Venables MC, 2008, AM J CLIN NUTR, V87, P778, DOI 10.1093/ajcn/87.3.778
+   Vermeer MA, 2008, J AGR FOOD CHEM, V56, P12031, DOI 10.1021/jf8022035
+   WANG M, 2007, 4 AS OC C OB, V115, P0
+   WEI SHY, 1989, NUTRITION, V5, P237
+   Westerterp-Plantenga MS, 2005, OBES RES, V13, P1195, DOI 10.1038/oby.2005.142
+   Widlansky ME, 2007, J AM COLL NUTR, V26, P95, DOI 10.1080/07315724.2007.10719590
+   Wolfram S, 2007, J AM COLL NUTR, V26, P373S, DOI 10.1080/07315724.2007.10719626
+   Wu CD, 2002, NUTRITION, V18, P443, DOI 10.1016/S0899-9007(02)00763-3
+   Wu CH, 2003, OBES RES, V11, P1088, DOI 10.1038/oby.2003.149
+   Yang CS, 2007, TOXICOL APPL PHARM, V224, P265, DOI 10.1016/j.taap.2006.11.024
+   You SQ, 1993, CHUNG HUA KOU CHIANG, V28, P197
+   YU H, 1995, J DENT, V23, P101, DOI 10.1016/0300-5712(95)98975-9
+NR 65
+TC 12
+Z9 13
+U1 3
+U2 72
+PU VERLAG HANS HUBER
+PI BERN 9
+PA LANGGASS-STRASSE 76, CH-3000 BERN 9, SWITZERLAND
+SN 0300-9831
+EI 1664-2821
+J9 INT J VITAM NUTR RES
+JI Int. J. Vitam. Nutr. Res.
+PD DEC 15
+PY 2008
+VL 78
+IS 6
+BP 275
+EP 281
+DI 10.1024/0300-9831.78.6.275
+PG 7
+WC Nutrition & Dietetics
+SC Nutrition & Dietetics
+GA 484IR
+UT WOS:000269038400005
+PM 19685436
+DA 2025-04-28
+ER
+
